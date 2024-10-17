@@ -1,6 +1,0 @@
-asdasdasdasd
-
-
-cu cagado
-
-askldklasdklaskldaslkvçlvlççldsds

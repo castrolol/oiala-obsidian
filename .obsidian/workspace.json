@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "16aee6203149c7e7",
+        "id": "8b2200c321f30ae5",
         "type": "tabs",
         "children": [
           {
-            "id": "f3f841023fe21e9c",
+            "id": "d05c7c89d4381ca5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Sistemas de Raças.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Sistemas de Raças.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Sistemas de Raças.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Sistemas de Raças.md"
               }
             }
           }
@@ -148,12 +148,37 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f3f841023fe21e9c",
+  "active": "d05c7c89d4381ca5",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "Welcome.md",
-    "Teste pra ver o sync.md",
+    "Briefing.md",
+    "_Tabela de Conteúdo.md",
+    "__Referências BeatEmUp.md",
+    "Atributos.md",
+    "Arsenal.md",
+    "ArtRef/_DA_ArtRef.md",
+    "__Biblioteca de Nomenclaturas.md",
+    "_BoardOiala.canvas",
+    "IMG_Oiala/Castle Crashers.png",
+    "IMG_Oiala/AlbionSkills.png",
+    "Canvas",
+    "Sistemas de Raças.md",
     "Untitled.md",
-    "README.md"
+    "CanvasOiala 1.canvas",
+    "Status.md",
+    "ArtRef/IMGs/TowerBorne.png",
+    "ArtRef/IMGs/Pasted image 20240919124146.png",
+    "ArtRef/IMGs/Pasted image 20240919123943.png",
+    "ArtRef/IMGs/Pasted image 20240919123537.png",
+    "ArtRef/IMGs/Pasted image 20240919123831.png",
+    "ArtRef/IMGs/Pasted image 20240919123415.png",
+    "ArtRef/IMGs/Pasted image 20240919123311.png",
+    "ArtRef/IMGs/Pasted image 20240919121130.png",
+    "ArtRef/IMGs",
+    "ArtRef",
+    "IMG_Oiala",
+    "Teste pra ver o sync.md",
+    "README.md",
+    "Untitled 1.md",
+    "Welcome.md"
   ]
 }

@@ -1,0 +1,44 @@
+
+- Equipamentos
+	- Equipamentos contempla itens como:
+		- Capacetes
+		- Capas
+		- Torso
+		- Pernas
+		- Manoplas (Luvas)
+		- Botas
+		- Itens Mão Secundária
+- Acessórios
+	- Anéis
+	- Colares
+	- Brincos
+- Armas
+	- Quaisquers tipos de itens que sejam equipados na mão dos personagens para sentar o cacete nos inimigos
+- Arsenal
+	- A nomenclatura de Arsenal será utilizada para quando estivermos falando de quaisquers regras válidas tanto para Equipamentos, Armas, Acessórios
+- Atributos
+	- Características que representam as capacidades físicas de um personagem. Esses atributos afetam o desempenho do personagem em diversas situações do jogo
+		- Atributos Primários
+			- São Valores que o usuário pode estar melhorando conforme sobe de level e ou ganhando através de itens do seu arsenal
+		- Atributos Secundários
+			- São valores que podem vir através da utilização de itens do Arsenal, mas que muitas vezes são valores resultantes dos Atributos Primários
+- Status(Condições)
+	- As regras para os Status são que eles podem ser:
+	- Status Positivo - Qualquer tipo de aumento de Atributo que o usuário receba através de equipamentos, magias ou recompensas por alguma tarefa executada para um NPC
+		- Temporário
+			- Significando que este efeito irá acabar em um tempo determinado
+		- Fixo
+			- Significando que este efeito não irá acabar nunca, apenas em modos de jogos com modo Permadeath ativo
+	- Status Negativo
+		- Temporário
+			- Significando que este efeito irá acabar em um tempo determinado
+		- Fixo
+			-  Significando que este efeito não irá acabar nunca, apenas em modos de jogos com modo Permadeath ativo
+- Permadeath
+	- Modo de jogo em que caso o personagem do jogador morra ele estará perdido para sempre
+- Habilidades Raciais Ativas
+	- Habilidades Únicas para cada Raça, e que o jogador pode ativar ela no momento que desejar
+- Habilidades Raciais Passivas
+	- Habilidades Únicas para cada Raça que não necessitam do jogador apertar nenhum botão para ativar
+
+
