@@ -13,24 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas de Raças.md",
+                "file": "Atributos.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "211ca1db129c11e3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "02d42097a7523db9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas de Raças.md",
+                "file": "Atributos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas de Raças.md",
+                "file": "Atributos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas de Raças.md"
+                "file": "Atributos.md"
               }
             }
           }
@@ -162,16 +148,18 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0fc12b575b45d378",
+  "active": "91f2fac42f11939f",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Teste pra ver o sync.md",
-    "__Referências BeatEmUp.md",
-    "__Biblioteca de Nomenclaturas.md",
-    "_Tabela de Conteúdo.md",
     "_BoardOiala.canvas",
     "Status.md",
     "Sistemas de Raças.md",
+    "Briefing.md",
+    "Atributos.md",
+    "__Referências BeatEmUp.md",
+    "__Biblioteca de Nomenclaturas.md",
+    "Welcome.md",
+    "Teste pra ver o sync.md",
+    "_Tabela de Conteúdo.md",
     "IMG_Oiala/WoWCharacterPassives.png",
     "IMG_Oiala/Teenage Mutant Ninja Turtles.png",
     "IMG_Oiala/Rotwood.png",
@@ -179,8 +167,6 @@
     "IMG_Oiala/Castle Crashers.png",
     "IMG_Oiala/AlbionSkills.png",
     "IMG_Oiala",
-    "Briefing.md",
-    "Atributos.md",
     "ArtRef/_DA_ArtRef.md",
     "ArtRef/IMGs/TowerBorne.png",
     "ArtRef/IMGs/Pasted image 20240919124146.png",
