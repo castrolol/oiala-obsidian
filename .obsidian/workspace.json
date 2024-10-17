@@ -20,20 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "211ca1db129c11e3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "02d42097a7523db9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -99,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Welcome.md"
+              }
             }
           }
         ]
@@ -155,14 +145,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "github-sync:Sync with Remote": false,
-      "obsidian-comments:Show Comments Panel": false
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "02d42097a7523db9",
+  "active": "f3f841023fe21e9c",
   "lastOpenFiles": [
+    "Untitled 1.md",
     "Welcome.md",
     "Teste pra ver o sync.md",
+    "Untitled.md",
     "README.md"
   ]
 }
