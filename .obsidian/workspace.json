@@ -37,14 +37,17 @@
             "id": "aeaa578ca03d1794",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "_BoardOiala.canvas",
+                "viewState": {
+                  "x": -789.9704668769739,
+                  "y": -1790.4012639110615,
+                  "zoom": -3.3306690738754696e-16
+                }
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "lucide-layout-dashboard",
+              "title": "_BoardOiala"
             }
           }
         ],
@@ -104,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 250.5
   },
   "right": {
     "id": "daf0d53b002ec91d",
@@ -193,21 +196,21 @@
   },
   "active": "aeaa578ca03d1794",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Briefing.md",
     "_Tabela de Conteúdo.md",
-    "__Referências BeatEmUp.md",
-    "Atributos.md",
-    "Arsenal.md",
-    "ArtRef/_DA_ArtRef.md",
-    "__Biblioteca de Nomenclaturas.md",
     "_BoardOiala.canvas",
+    "__Referências BeatEmUp.md",
+    "__Biblioteca de Nomenclaturas.md",
+    "ArtRef/_DA_ArtRef.md",
+    "Atributos.md",
+    "Briefing.md",
+    "Sistemas de Raças.md",
+    "Status.md",
+    "Untitled.md",
+    "Arsenal.md",
     "IMG_Oiala/Castle Crashers.png",
     "IMG_Oiala/AlbionSkills.png",
     "Canvas",
-    "Sistemas de Raças.md",
     "CanvasOiala 1.canvas",
-    "Status.md",
     "ArtRef/IMGs/TowerBorne.png",
     "ArtRef/IMGs/Pasted image 20240919124146.png",
     "ArtRef/IMGs/Pasted image 20240919123943.png",
