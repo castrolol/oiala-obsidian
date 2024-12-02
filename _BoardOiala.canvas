@@ -103,7 +103,8 @@
 		{"id":"352fcdb110721a8e","type":"text","text":"Jogo da Memória (4)\nAssociação (2)\nAgrupamento (2)\nDesafio em Série (3)\nJogo Match 3 (3)\nLetra a Letra (1)\n","x":-906,"y":-1080,"width":250,"height":180},
 		{"id":"24f8fd337b77e852","type":"text","text":"Jogo da Memória (3)\nAssociação (2)\nAgrupamento (3)\nDesafio em Série (3)\nJogo Match 3 (2)\nLetra a Letra (2)\n","x":-640,"y":-1080,"width":250,"height":180},
 		{"id":"9f2c16e8a5c5b3cb","x":-100,"y":-2280,"width":250,"height":60,"type":"text","text":"Jogo da Memória"},
-		{"id":"79d893bc6cb36cba","x":-100,"y":-2140,"width":250,"height":60,"type":"text","text":"Jogo Start"}
+		{"id":"79d893bc6cb36cba","x":-100,"y":-2140,"width":250,"height":60,"type":"text","text":"Jogo Start"},
+		{"id":"c4037c99681cb41c","type":"text","text":"Jogo Start","x":180,"y":-2140,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"68ecb81d44f22e24","fromNode":"059f109f892aff3e","fromSide":"right","toNode":"b83516761cbad39c","toSide":"left"},
