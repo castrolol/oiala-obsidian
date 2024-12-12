@@ -11,14 +11,17 @@
             "id": "d05c7c89d4381ca5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Sistemas de Raças.md",
-                "mode": "source",
-                "source": false
+                "file": "_Fluxos.canvas",
+                "viewState": {
+                  "x": 305.48849104859335,
+                  "y": 84.30306905370841,
+                  "zoom": -0.8549234908812364
+                }
               },
-              "icon": "lucide-file",
-              "title": "Sistemas de Raças"
+              "icon": "lucide-layout-dashboard",
+              "title": "_Fluxos"
             }
           },
           {
@@ -37,21 +40,17 @@
             "id": "aeaa578ca03d1794",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "_BoardOiala.canvas",
-                "viewState": {
-                  "x": 733.3866658466709,
-                  "y": -1468.9983428461603,
-                  "zoom": -2.333333333333332
-                }
+                "file": "ArtRef/_DA_ArtRef.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "_BoardOiala"
+              "icon": "lucide-file",
+              "title": "_DA_ArtRef"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,38 +193,39 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "aeaa578ca03d1794",
+  "active": "d05c7c89d4381ca5",
   "lastOpenFiles": [
-    "Pasted image 20241202091810.png",
-    "Pasted image 20241202091336.png",
-    "Pasted image 20241202091315.png",
-    "Pasted image 20241202091234.png",
+    "_CreativeBoard.canvas",
+    "_Fluxos.canvas",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Untitled 2.md",
     "_Tabela de Conteúdo.md",
-    "_BoardOiala.canvas",
+    "Sistemas de Raças.md",
+    "Atributos.md",
+    "ArtRef/IMGs/Pasted image 20240919123537.png",
+    "ArtRef/IMGs/Pasted image 20240919121130.png",
+    "ArtRef/_DA_ArtRef.md",
+    "Status.md",
+    "Pasted image 20241202091336.png",
+    "Pasted image 20241202091810.png",
+    "Pasted image 20241202091234.png",
+    "Pasted image 20241202091315.png",
     "__Referências BeatEmUp.md",
     "__Biblioteca de Nomenclaturas.md",
-    "ArtRef/_DA_ArtRef.md",
-    "Atributos.md",
+    "IMG_Oiala/WoWCharacterPassives.png",
+    "IMG_Oiala/Rotwood.png",
+    "IMG_Oiala/Midnight Fight Express.png",
     "Briefing.md",
-    "Sistemas de Raças.md",
-    "Status.md",
-    "Untitled.md",
     "Arsenal.md",
     "IMG_Oiala/Castle Crashers.png",
-    "IMG_Oiala/AlbionSkills.png",
     "Canvas",
     "CanvasOiala 1.canvas",
-    "ArtRef/IMGs/TowerBorne.png",
-    "ArtRef/IMGs/Pasted image 20240919124146.png",
-    "ArtRef/IMGs/Pasted image 20240919123943.png",
-    "ArtRef/IMGs/Pasted image 20240919123537.png",
-    "ArtRef/IMGs/Pasted image 20240919123831.png",
     "ArtRef/IMGs",
     "ArtRef",
     "IMG_Oiala",
     "Teste pra ver o sync.md",
     "README.md",
-    "Untitled 1.md",
     "Welcome.md"
   ]
 }

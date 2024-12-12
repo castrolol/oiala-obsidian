@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"8d92607f7c66c28b","type":"group","x":-700,"y":-460,"width":2140,"height":1180,"color":"1","label":"Fluxos Telas Iniciais"},
+		{"id":"29bcfc42098c4a7f","type":"text","text":"Login","x":-660,"y":-420,"width":250,"height":60,"color":"2"},
+		{"id":"6d982993709305fb","type":"text","text":"First Screen","x":-320,"y":-420,"width":250,"height":60,"color":"2"},
+		{"id":"bfaa829ef5a0c40b","type":"text","text":"Features\n- Seleção Personagem\n- Criação Novo Personagem\n- Deletar Personagem\n- Criação Lobby\n- Procurar Lobby\n- Single Player\n- Lista de Amigos\n- Opções","x":-320,"y":-360,"width":250,"height":480,"color":"2"},
+		{"id":"9704dea1c33d513c","type":"text","text":"Hub","x":20,"y":-420,"width":250,"height":60,"color":"2"},
+		{"id":"7468b849cad2c675","type":"text","text":"Descrição\n- Independente de um Hub Singleplayer ou Online ele terá as mesma funcionalidades;","x":20,"y":-360,"width":250,"height":200,"color":"2"},
+		{"id":"1f6a18eaf58fec95","type":"text","text":"Features\n- Lista de Amigos\n- Opções\n- Alterar Personagem\n- Convidar Amigos para Lobby\n\t- Caso anteriormente um Lobby SinglePlayer, agora ele altera para um Lobby Online\n- Quests\n\t- Aceitar Quests (Interagir com NPC para aceitar)\n\t- Visualizar atuais Quests (Quests que o usuário já aceitou)\n\t- Deletar Quests\n- Visualização dos Status do seu personagem\n- Visualização do seu Level e progressão dele\n- Visualizar seus equipamentos\n- Alterar seus equipamentos\n- Craftar novos equipamentos(Interação com NPC)\n- Checar Banco (Interação com NPC)\n\t- Visualização de itens adquiridos nas partidas\n\t\t- Itens adquiridos durante as partidas são automaticamente movidos para o banco do usuário (Depois elaboramos mais a regra sobre para qual banco o item vai em uma partidar Online)\n- Visualizar equipamentos dos membros do grupo","x":20,"y":-160,"width":720,"height":640,"color":"2"}
+	],
+	"edges":[
+		{"id":"368e056dbcd8161a","fromNode":"29bcfc42098c4a7f","fromSide":"right","toNode":"6d982993709305fb","toSide":"left"},
+		{"id":"ef528c07b65a21b6","fromNode":"6d982993709305fb","fromSide":"right","toNode":"9704dea1c33d513c","toSide":"left"}
+	]
+}
