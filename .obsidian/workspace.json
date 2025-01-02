@@ -11,17 +11,14 @@
             "id": "d05c7c89d4381ca5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "_Fluxos.canvas",
-                "viewState": {
-                  "x": 23.249766352245175,
-                  "y": -555.0063114877119,
-                  "zoom": 0.14507650911876369
-                }
+                "file": "__Referências BeatEmUp.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "_Fluxos"
+              "icon": "lucide-file",
+              "title": "__Referências BeatEmUp"
             }
           },
           {
@@ -195,8 +192,10 @@
   },
   "active": "d05c7c89d4381ca5",
   "lastOpenFiles": [
-    "_CreativeBoard.canvas",
     "_Fluxos.canvas",
+    "_CreativeBoard.canvas",
+    "__Referências BeatEmUp.md",
+    "__Biblioteca de Nomenclaturas.md",
     "Untitled.md",
     "Untitled 1.md",
     "Untitled 2.md",
@@ -211,8 +210,6 @@
     "Pasted image 20241202091810.png",
     "Pasted image 20241202091234.png",
     "Pasted image 20241202091315.png",
-    "__Referências BeatEmUp.md",
-    "__Biblioteca de Nomenclaturas.md",
     "IMG_Oiala/WoWCharacterPassives.png",
     "IMG_Oiala/Rotwood.png",
     "IMG_Oiala/Midnight Fight Express.png",
