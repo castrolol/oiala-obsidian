@@ -27,15 +27,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "_CreativeBoard.canvas",
+                "file": "_Fluxos.canvas",
                 "viewState": {
-                  "x": 1875,
-                  "y": 840,
-                  "zoom": -2
+                  "x": 370,
+                  "y": 200,
+                  "zoom": -0.5907965420387798
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "_CreativeBoard"
+              "title": "_Fluxos"
             }
           },
           {
@@ -210,15 +210,16 @@
   },
   "active": "92a829ffb108d2e0",
   "lastOpenFiles": [
+    "_CreativeBoard.canvas",
+    "_Tabela de Conteúdo.md",
+    "_Fluxos.canvas",
+    "Arsenal.md",
     "__Referências BeatEmUp.md",
     "Untitled.md",
     "Sem título.md",
-    "_Fluxos.canvas",
-    "_CreativeBoard.canvas",
     "__Biblioteca de Nomenclaturas.md",
     "Untitled 1.md",
     "Untitled 2.md",
-    "_Tabela de Conteúdo.md",
     "Sistemas de Raças.md",
     "Atributos.md",
     "ArtRef/IMGs/Pasted image 20240919123537.png",
@@ -233,7 +234,6 @@
     "IMG_Oiala/Rotwood.png",
     "IMG_Oiala/Midnight Fight Express.png",
     "Briefing.md",
-    "Arsenal.md",
     "IMG_Oiala/Castle Crashers.png",
     "Canvas",
     "CanvasOiala 1.canvas",
