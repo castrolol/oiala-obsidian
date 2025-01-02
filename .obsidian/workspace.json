@@ -34,23 +34,9 @@
               "icon": "lucide-file",
               "title": "Atributos"
             }
-          },
-          {
-            "id": "948547bac01893da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sem título 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sem título 1"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,10 +179,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "948547bac01893da",
+  "active": "8a71c27d1c15a61e",
   "lastOpenFiles": [
-    "Atributos.md",
+    "Sem título 2.md",
     "Sem título 1.md",
+    "Untitled.md",
+    "Atributos.md",
     "Briefing.md",
     "Arsenal.md",
     "_Tabela de Conteúdo.md",
