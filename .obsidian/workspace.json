@@ -35,12 +35,17 @@
             "id": "1d302eb405f0b994",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "ArtRef/IMGs_Raças-Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo01.png"
+                "file": "Canvas/_CreativeBoard.canvas",
+                "viewState": {
+                  "x": 7081.647309002627,
+                  "y": -2548.670312379652,
+                  "zoom": -0.666666666666667
+                }
               },
-              "icon": "lucide-image",
-              "title": "SoldadoTerráqueo01"
+              "icon": "lucide-layout-dashboard",
+              "title": "_CreativeBoard"
             }
           }
         ],
@@ -187,13 +192,18 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0fc12b575b45d378",
+  "active": "1d302eb405f0b994",
   "lastOpenFiles": [
+    "GDD/Art_Classes/Soldados/SoldadosTerráqueos.md",
+    "GDD/Art_Classes/Soldados/Soldados Geral.md",
+    "GDD/Art_Raças/Terráqueos.md",
+    "GDD/_Tabela de Conteúdo.md",
+    "ArtRef/Referências Animação.md",
+    "ArtRef/IMGs_Raças-Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo01.png",
     "Canvas/_CreativeBoard.canvas",
     "ArtRef/IMGs_Raças-Classes/RaçaTerráqueos/HumanFemale01.png",
     "ArtRef/IMGs_Raças-Classes/ClasseSoldadoTerráqueo",
     "ArtRef/IMGs_Raças-Classes/RaçaTerráqueos",
-    "ArtRef/IMGs_Raças-Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo01.png",
     "ArtRef/IMGs_Raças-Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo14.png",
     "ArtRef/IMGs_Raças-Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo04.png",
     "ArtRef/IMGs_Raças-Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo03.png",
@@ -202,11 +212,7 @@
     "ArtRef/IMGs_Raças-Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo08.png",
     "ArtRef/IMGs_Raças-Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo06.png",
     "ArtRef/IMGs_Raças-Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo07.png",
-    "GDD/Art_Classes/Soldados/SoldadosTerráqueos.md",
-    "GDD/Art_Classes/Soldados/SoldadosGeral.md",
-    "GDD/_Tabela de Conteúdo.md",
     "GDD/Art_Classes/Soldados",
-    "GDD/Art_Raças/Terráqueos.md",
     "GDD/Art_Classes",
     "GDD/Classes.md",
     "_Briefing.md",
@@ -214,7 +220,6 @@
     "__Biblioteca de Nomenclaturas.md",
     "Canvas/_Fluxos.canvas",
     "GDD/Art_Raças",
-    "ArtRef/Referências Animação.md",
     "ArtRef/IMGs_Raças-Classes",
     "ArtRef/_DA_ArtRef.md",
     "AnimaçãoReff01.md",
