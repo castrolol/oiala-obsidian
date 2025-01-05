@@ -17,10 +17,6 @@
 		{"id":"875457aa1c398286","type":"text","text":"Acumular Recursos","x":3460,"y":-785,"width":250,"height":60,"color":"1"},
 		{"id":"f9bd1eb7fb0f80a0","type":"text","text":"\tCore Loop","x":3460,"y":-980,"width":250,"height":60,"color":"3"},
 		{"id":"c7dc3906fbce85d1","type":"text","text":"- Raças Iniciais","x":3731,"y":3616,"width":250,"height":60},
-		{"id":"d2c07414f5e61960","type":"file","file":"HumanMale01.png","x":3500,"y":3720,"width":327,"height":400},
-		{"id":"889a00f9eca4ec6a","type":"file","file":"HumanMale02.png","x":4030,"y":3785,"width":260,"height":400},
-		{"id":"3ea467c82365f834","type":"file","file":"HumanMale03.png","x":3819,"y":4140,"width":324,"height":400},
-		{"id":"6966e6e6a8501d9b","type":"file","file":"HumanFemale01.png","x":4441,"y":3756,"width":331,"height":400},
 		{"id":"8a0402e04a97a7f7","type":"text","text":"- Exploração de Planetas para resolver quests e descobrir tesouros\n- Exploração Coop - Amigos ou matchmaking","x":2900,"y":-700,"width":250,"height":220,"color":"5"},
 		{"id":"26a39d16b63bc6cc","type":"text","text":"- Acúmulo de experiência em relação a dificuldade dos desafios vencidos","x":3180,"y":-700,"width":250,"height":220,"color":"5"},
 		{"id":"8ff059ec65211f4a","type":"text","text":"No Menu Principal o usuário consegue visualizar seus personagens existentes e criar novos personagens. Após selecionar seu personagem e dar o play o jogador passará por um loading e irá para a tela do HUB. Dentro da tela do HUB o usuário poderá executar algumas ações como criar equipamentos, melhorar seus equipamentos, alterar sua build e receber quests. \n==Durante sua permanência do HUB o usuário irá enxergar alguns outros jogadores também andando pelo HUB, como se todos estivessem no mesmo canal e terá algumas opções simples como adicionar essas pessoas como amigos, chamar para o grupo e visualizar os equipamentos, dentro do hub o usuário também pode utilizar o chat, tanto local quanto global.== Após formar um grupo todos os membros desse grupo passam a estar no mesmo canal.\nAgora com um grupo formado os usuários prosseguem para o quadro de missões checar se existe alguma quest disponível interessante, após o grupo decidir quais quests desejam fazer eles partem para o menu de exploração onde irão escolher seu destino de viagem. \nA escolha do destino de viagem acontece apenas através de uma tela de opções e o jogador é teleportado para o seu destino.\nTodos os jogadores aparecem no inicio do level e devem começar a se movimentar pelo mapa para explorar o ambiente. Durante a exploração o jogador e o grupo deverão escolher caminhos a seguir dentro de cada mapa e vencer desafios como armadilhas e inimigos. ","x":2900,"y":-460,"width":1370,"height":440,"color":"6"},
@@ -36,8 +32,12 @@
 		{"id":"9a6551cc08490d3e","type":"file","file":"IMG_Oiala/Rotwood.png","x":1846,"y":1015,"width":538,"height":303},
 		{"id":"37323a65dbb4ede7","type":"file","file":"IMG_Oiala/Castle Crashers.png","x":1843,"y":652,"width":541,"height":304},
 		{"id":"047294bb906b7916","type":"file","file":"IMG_Oiala/Teenage Mutant Ninja Turtles.png","x":1261,"y":653,"width":540,"height":303},
-		{"id":"f9d903c48e9f710a","type":"file","file":"HumanFemale02.png","x":4962,"y":3951,"width":378,"height":400},
-		{"id":"c3b88861282c142b","x":4800,"y":3700,"width":400,"height":301,"type":"file","file":"HumanFemale03.png"}
+		{"id":"d2c07414f5e61960","type":"file","file":"HumanMale01.png","x":3000,"y":3840,"width":327,"height":400},
+		{"id":"889a00f9eca4ec6a","type":"file","file":"HumanMale02.png","x":3327,"y":3840,"width":260,"height":400},
+		{"id":"3ea467c82365f834","type":"file","file":"HumanMale03.png","x":3587,"y":3840,"width":324,"height":400},
+		{"id":"6966e6e6a8501d9b","type":"file","file":"HumanFemale01.png","x":3000,"y":4320,"width":243,"height":294},
+		{"id":"f9d903c48e9f710a","type":"file","file":"HumanFemale02.png","x":3243,"y":4320,"width":277,"height":294},
+		{"id":"c3b88861282c142b","type":"file","file":"HumanFemale03.png","x":3520,"y":4320,"width":391,"height":294}
 	],
 	"edges":[
 		{"id":"68ecb81d44f22e24","fromNode":"059f109f892aff3e","fromSide":"right","toNode":"b83516761cbad39c","toSide":"left"},
