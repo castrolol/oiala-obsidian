@@ -39,15 +39,17 @@
             }
           },
           {
-            "id": "20cfaaa918f859ab",
+            "id": "bf644cdc34a9b013",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.4"
+                "file": "__Referências BeatEmUp.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "__Referências BeatEmUp"
             }
           },
           {
@@ -65,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,23 +210,23 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "92a829ffb108d2e0",
+  "active": "bf644cdc34a9b013",
   "lastOpenFiles": [
+    "_Fluxos.canvas",
+    "__Referências BeatEmUp.md",
+    "ArtRef/_DA_ArtRef.md",
+    "Untitled 1.md",
     "_CreativeBoard.canvas",
     "_Tabela de Conteúdo.md",
-    "_Fluxos.canvas",
     "Arsenal.md",
-    "__Referências BeatEmUp.md",
     "Untitled.md",
     "Sem título.md",
     "__Biblioteca de Nomenclaturas.md",
-    "Untitled 1.md",
     "Untitled 2.md",
     "Sistemas de Raças.md",
     "Atributos.md",
     "ArtRef/IMGs/Pasted image 20240919123537.png",
     "ArtRef/IMGs/Pasted image 20240919121130.png",
-    "ArtRef/_DA_ArtRef.md",
     "Status.md",
     "Pasted image 20241202091336.png",
     "Pasted image 20241202091810.png",
