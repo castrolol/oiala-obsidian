@@ -35,14 +35,17 @@
             "id": "1d302eb405f0b994",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "GDD/Arsenal.md",
-                "mode": "source",
-                "source": false
+                "file": "Canvas/_CreativeBoard.canvas",
+                "viewState": {
+                  "x": 1875,
+                  "y": 840,
+                  "zoom": -2
+                }
               },
-              "icon": "lucide-file",
-              "title": "Arsenal"
+              "icon": "lucide-layout-dashboard",
+              "title": "_CreativeBoard"
             }
           }
         ],
@@ -189,20 +192,21 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0fc12b575b45d378",
+  "active": "1d302eb405f0b994",
   "lastOpenFiles": [
+    "Canvas/_Fluxos.canvas",
+    "GDD/Arsenal.md",
+    "GDD/_Tabela de Conteúdo.md",
+    "Canvas/_CreativeBoard.canvas",
+    "ArtRef/_DA_ArtRef.md",
+    "GDD/Fórmulas e Cálculos.md",
     "GDD/Status.md",
     "GDD/Atributos.md",
     "Briefing.md",
     "GDD/Sistemas de Raças.md",
-    "GDD/Arsenal.md",
-    "GDD/_Tabela de Conteúdo.md",
     "GDD",
     "__Referências BeatEmUp.md",
     "__Biblioteca de Nomenclaturas.md",
-    "Canvas/_Fluxos.canvas",
-    "Canvas/_CreativeBoard.canvas",
-    "ArtRef/_DA_ArtRef.md",
     "Canvas",
     "Sem título.md",
     "Untitled 1.md",
