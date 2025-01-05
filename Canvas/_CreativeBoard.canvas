@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"dbe678de96eab36e","x":2940,"y":3680,"width":1720,"height":1040,"color":"5","type":"group","label":"RAÇAS"},
+		{"id":"dbe678de96eab36e","type":"group","x":2940,"y":3680,"width":1720,"height":1040,"color":"5","label":"RAÇAS"},
 		{"id":"537338172f839df5","type":"group","x":2980,"y":3760,"width":1640,"height":874,"color":"#756bff","label":"Terráqueos"},
 		{"id":"66f5197eab273648","type":"group","x":1240,"y":520,"width":1165,"height":1180,"label":"Estudo Câmeras"},
 		{"id":"b83516761cbad39c","type":"file","file":"__Referências BeatEmUp.md","x":120,"y":-565,"width":440,"height":990},

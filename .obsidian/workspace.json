@@ -35,14 +35,17 @@
             "id": "1d302eb405f0b994",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "GDD/Raças/Terráqueos.md",
-                "mode": "source",
-                "source": false
+                "file": "Canvas/_CreativeBoard.canvas",
+                "viewState": {
+                  "x": 2070,
+                  "y": 1870,
+                  "zoom": -2.647023468853408
+                }
               },
-              "icon": "lucide-file",
-              "title": "Terráqueos"
+              "icon": "lucide-layout-dashboard",
+              "title": "_CreativeBoard"
             }
           }
         ],
@@ -191,11 +194,11 @@
   },
   "active": "1d302eb405f0b994",
   "lastOpenFiles": [
+    "GDD/Raças/Terráqueos.md",
+    "Canvas/_CreativeBoard.canvas",
     "_Briefing.md",
     "__Referências BeatEmUp.md",
     "__Biblioteca de Nomenclaturas.md",
-    "Canvas/_CreativeBoard.canvas",
-    "GDD/Raças/Terráqueos.md",
     "ArtRef/IMGs_Raças-Classes/HumanMale03.png",
     "Canvas/_Fluxos.canvas",
     "GDD/Raças",
