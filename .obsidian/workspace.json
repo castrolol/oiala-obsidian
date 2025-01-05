@@ -35,17 +35,14 @@
             "id": "1d302eb405f0b994",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canvas/_CreativeBoard.canvas",
-                "viewState": {
-                  "x": 4065.162623352717,
-                  "y": 4148.60925930595,
-                  "zoom": 1.0172526032636853e-7
-                }
+                "file": "GDD/Raças/Terráqueos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "_CreativeBoard"
+              "icon": "lucide-file",
+              "title": "Terráqueos"
             }
           }
         ],
@@ -194,9 +191,12 @@
   },
   "active": "1d302eb405f0b994",
   "lastOpenFiles": [
+    "_Briefing.md",
+    "__Referências BeatEmUp.md",
+    "__Biblioteca de Nomenclaturas.md",
+    "Canvas/_CreativeBoard.canvas",
     "GDD/Raças/Terráqueos.md",
     "ArtRef/IMGs_Raças-Classes/HumanMale03.png",
-    "Canvas/_CreativeBoard.canvas",
     "Canvas/_Fluxos.canvas",
     "GDD/Raças",
     "ArtRef/IMGs_Raças-Classes/HumanFemale03.png",
@@ -216,11 +216,8 @@
     "GDD/Status.md",
     "GDD/Sistemas de Raças.md",
     "GDD/Fórmulas e Cálculos.md",
-    "__Referências BeatEmUp.md",
-    "__Biblioteca de Nomenclaturas.md",
     "ArtRef/IMGs/AnimaçãoReff02.png",
     "ArtRef/IMGs/Pasted image 20240919120816.png",
-    "Briefing.md",
     "GDD",
     "Canvas",
     "Sem título.md",
