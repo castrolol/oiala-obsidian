@@ -35,14 +35,17 @@
             "id": "1d302eb405f0b994",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "GDD/Art_Classes/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Canvas/_CreativeBoard.canvas",
+                "viewState": {
+                  "x": 3854.3818681318685,
+                  "y": 3598.570999313187,
+                  "zoom": -0.647023468853408
+                }
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "lucide-layout-dashboard",
+              "title": "_CreativeBoard"
             }
           }
         ],
@@ -102,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 248.5
   },
   "right": {
     "id": "daf0d53b002ec91d",
@@ -191,8 +194,11 @@
   },
   "active": "1d302eb405f0b994",
   "lastOpenFiles": [
+    "GDD/Art_Classes/Soldados/SoldadosTerráqueos.md",
+    "GDD/Art_Classes/Soldados/SoldadosGeral.md",
+    "GDD/_Tabela de Conteúdo.md",
+    "GDD/Art_Classes/Soldados",
     "GDD/Art_Raças/Terráqueos.md",
-    "GDD/Art_Classes/Untitled.md",
     "GDD/Art_Classes",
     "GDD/Classes.md",
     "Canvas/_CreativeBoard.canvas",
@@ -210,7 +216,6 @@
     "ArtRef/IMGs_Raças-Classes/HumanMale01.png",
     "ArtRef/IMGs_Raças-Classes",
     "ArtRef/_DA_ArtRef.md",
-    "GDD/_Tabela de Conteúdo.md",
     "IMG_Oiala/WoWCharacterPassives.png",
     "ArtRef/IMGs/AnimaçãoReff01.png",
     "AnimaçãoReff01.md",
