@@ -35,17 +35,14 @@
             "id": "1d302eb405f0b994",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canvas/_CreativeBoard.canvas",
-                "viewState": {
-                  "x": 3774.14017747172,
-                  "y": 4255.751348211999,
-                  "zoom": -0.6007299183047329
-                }
+                "file": "GDD/Raças/RaçaHumanos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "_CreativeBoard"
+              "icon": "lucide-file",
+              "title": "RaçaHumanos"
             }
           }
         ],
@@ -192,13 +189,15 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "1d302eb405f0b994",
+  "active": "0fc12b575b45d378",
   "lastOpenFiles": [
+    "GDD/Raças",
+    "Canvas/_CreativeBoard.canvas",
+    "GDD/Raças/RaçaHumanos.md",
     "HumanFemale03.png",
     "HumanFemale02.png",
     "ArtRef/Referências Animação.md",
     "HumanFemale01.png",
-    "Canvas/_CreativeBoard.canvas",
     "HumanMale03.png",
     "Canvas/_Fluxos.canvas",
     "HumanMale02.png",
@@ -218,7 +217,6 @@
     "__Biblioteca de Nomenclaturas.md",
     "ArtRef/IMGs/AnimaçãoReff02.png",
     "ArtRef/IMGs/Pasted image 20240919120816.png",
-    "ArtRef/IMGs/TowerBorne.png",
     "Briefing.md",
     "GDD",
     "Canvas",
