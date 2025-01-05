@@ -4,90 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "8b2200c321f30ae5",
+        "id": "16aee6203149c7e7",
         "type": "tabs",
         "children": [
           {
-            "id": "d05c7c89d4381ca5",
+            "id": "91f2fac42f11939f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__Referências BeatEmUp.md",
+                "file": "Atributos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "__Referências BeatEmUp"
+              "title": "Atributos"
             }
           },
           {
-            "id": "92a829ffb108d2e0",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "_Fluxos.canvas",
-                "viewState": {
-                  "x": 370,
-                  "y": 200,
-                  "zoom": -0.5907965420387798
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "_Fluxos"
-            }
-          },
-          {
-            "id": "bf644cdc34a9b013",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Canvas/_Fluxos.canvas",
-                "viewState": {
-                  "x": 370,
-                  "y": 200,
-                  "zoom": -0.589873807731092
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "_Fluxos"
-            }
-          },
-          {
-            "id": "1f1843101e58fe64",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Canvas/_CreativeBoard.canvas",
-                "viewState": {
-                  "x": 1875,
-                  "y": 840,
-                  "zoom": -2
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "_CreativeBoard"
-            }
-          },
-          {
-            "id": "aeaa578ca03d1794",
+            "id": "8a71c27d1c15a61e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ArtRef/_DA_ArtRef.md",
+                "file": "Atributos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_DA_ArtRef"
+              "title": "Atributos"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +58,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -126,7 +75,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
@@ -136,14 +85,14 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 300
   },
   "right": {
     "id": "daf0d53b002ec91d",
@@ -159,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Atributos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Links inversos para Atributos"
             }
           },
           {
@@ -178,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Atributos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Links de saída para Atributos"
             }
           },
           {
@@ -205,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Atributos.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Sumário de Atributos"
             }
           }
         ]
@@ -220,51 +169,52 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
       "remotely-save:Remotely Save": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0fc12b575b45d378",
+  "active": "8a71c27d1c15a61e",
   "lastOpenFiles": [
     "Canvas/_Fluxos.canvas",
-    "Atributos.md",
-    "Canvas",
-    "Briefing.md",
-    "Sistemas de Raças.md",
-    "Sem título.md",
-    "Status.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "__Referências BeatEmUp.md",
-    "ArtRef/_DA_ArtRef.md",
     "Canvas/_CreativeBoard.canvas",
-    "_Tabela de Conteúdo.md",
+    "Canvas",
+    "Sem título 2.md",
+    "Sem título 1.md",
+    "Untitled.md",
+    "Atributos.md",
+    "Briefing.md",
     "Arsenal.md",
+    "_Tabela de Conteúdo.md",
+    "_Fluxos.canvas",
+    "_CreativeBoard.canvas",
+    "Status.md",
+    "__Referências BeatEmUp.md",
+    "Sem título.md",
+    "_BoardOiala.canvas",
+    "Sistemas de Raças.md",
     "__Biblioteca de Nomenclaturas.md",
-    "Untitled 2.md",
-    "ArtRef/IMGs/Pasted image 20240919123537.png",
-    "ArtRef/IMGs/Pasted image 20240919121130.png",
-    "Pasted image 20241202091336.png",
-    "Pasted image 20241202091810.png",
-    "Pasted image 20241202091234.png",
-    "Pasted image 20241202091315.png",
+    "Welcome.md",
+    "Teste pra ver o sync.md",
     "IMG_Oiala/WoWCharacterPassives.png",
+    "IMG_Oiala/Teenage Mutant Ninja Turtles.png",
     "IMG_Oiala/Rotwood.png",
     "IMG_Oiala/Midnight Fight Express.png",
     "IMG_Oiala/Castle Crashers.png",
-    "Canvas",
-    "CanvasOiala 1.canvas",
+    "IMG_Oiala/AlbionSkills.png",
+    "IMG_Oiala",
+    "ArtRef/_DA_ArtRef.md",
+    "ArtRef/IMGs/TowerBorne.png",
+    "ArtRef/IMGs/Pasted image 20240919124146.png",
+    "ArtRef/IMGs/Pasted image 20240919123943.png",
+    "ArtRef/IMGs/Pasted image 20240919123831.png",
     "ArtRef/IMGs",
     "ArtRef",
-    "IMG_Oiala",
-    "Teste pra ver o sync.md",
-    "README.md",
-    "Welcome.md"
+    "README.md"
   ]
 }
