@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "8a71c27d1c15a61e",
+            "id": "da552781d337ca7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atributos.md",
+                "file": "Sem título.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Atributos"
+              "title": "Sem título"
             }
           }
         ],
@@ -179,15 +179,23 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "8a71c27d1c15a61e",
+  "active": "da552781d337ca7f",
   "lastOpenFiles": [
+    "Atributos.md",
+    "Sem título.md",
+    "GDD/_Tabela de Conteúdo.md",
+    "GDD/Status.md",
+    "GDD/Sistemas de Raças.md",
+    "GDD/Fórmulas e Cálculos.md",
+    "GDD/Atributos.md",
+    "GDD/Arsenal.md",
+    "GDD",
     "Canvas/_Fluxos.canvas",
     "Canvas/_CreativeBoard.canvas",
     "Canvas",
     "Sem título 2.md",
     "Sem título 1.md",
     "Untitled.md",
-    "Atributos.md",
     "Briefing.md",
     "Arsenal.md",
     "_Tabela de Conteúdo.md",
@@ -195,7 +203,6 @@
     "_CreativeBoard.canvas",
     "Status.md",
     "__Referências BeatEmUp.md",
-    "Sem título.md",
     "_BoardOiala.canvas",
     "Sistemas de Raças.md",
     "__Biblioteca de Nomenclaturas.md",
