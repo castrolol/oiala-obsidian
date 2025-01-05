@@ -35,17 +35,14 @@
             "id": "1d302eb405f0b994",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canvas/_CreativeBoard.canvas",
-                "viewState": {
-                  "x": 2070,
-                  "y": 1870,
-                  "zoom": -2.647023468853408
-                }
+                "file": "GDD/Art_Classes/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "_CreativeBoard"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -194,14 +191,17 @@
   },
   "active": "1d302eb405f0b994",
   "lastOpenFiles": [
-    "GDD/Raças/Terráqueos.md",
+    "GDD/Art_Raças/Terráqueos.md",
+    "GDD/Art_Classes/Untitled.md",
+    "GDD/Art_Classes",
+    "GDD/Classes.md",
     "Canvas/_CreativeBoard.canvas",
     "_Briefing.md",
     "__Referências BeatEmUp.md",
     "__Biblioteca de Nomenclaturas.md",
     "ArtRef/IMGs_Raças-Classes/HumanMale03.png",
     "Canvas/_Fluxos.canvas",
-    "GDD/Raças",
+    "GDD/Art_Raças",
     "ArtRef/IMGs_Raças-Classes/HumanFemale03.png",
     "ArtRef/IMGs_Raças-Classes/HumanFemale02.png",
     "ArtRef/Referências Animação.md",

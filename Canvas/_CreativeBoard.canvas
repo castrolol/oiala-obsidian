@@ -39,7 +39,7 @@
 		{"id":"6966e6e6a8501d9b","type":"file","file":"ArtRef/IMGs_Raças-Classes/HumanFemale01.png","x":3000,"y":4320,"width":243,"height":293},
 		{"id":"f9d903c48e9f710a","type":"file","file":"ArtRef/IMGs_Raças-Classes/HumanFemale02.png","x":3243,"y":4320,"width":277,"height":293},
 		{"id":"c3b88861282c142b","type":"file","file":"ArtRef/IMGs_Raças-Classes/HumanFemale03.png","x":3520,"y":4320,"width":391,"height":294},
-		{"id":"8117397c5cd5f28e","type":"file","file":"GDD/Raças/Terráqueos.md","x":3940,"y":3840,"width":660,"height":774}
+		{"id":"8117397c5cd5f28e","type":"file","file":"GDD/Art_Raças/Terráqueos.md","x":3940,"y":3840,"width":660,"height":774}
 	],
 	"edges":[
 		{"id":"68ecb81d44f22e24","fromNode":"059f109f892aff3e","fromSide":"right","toNode":"b83516761cbad39c","toSide":"left"},
