@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"3684daf8b8495987","type":"group","x":-4880,"y":-3280,"width":5780,"height":3300,"color":"#ff00c8","label":"IDEIAS INICIAIS"},
 		{"id":"f014872e731807b8","type":"group","x":4200,"y":-3280,"width":6200,"height":2800,"color":"2","label":"CLASSES"},
-		{"id":"d10658c14705049b","type":"group","x":4220,"y":-3240,"width":6060,"height":2720,"color":"1","label":"Soldados"},
+		{"id":"d10658c14705049b","type":"group","x":4220,"y":-3240,"width":6100,"height":2360,"color":"1","label":"Soldados"},
 		{"id":"bbec8620fc552abe","type":"group","x":5220,"y":-3200,"width":2680,"height":1200,"color":"#475dff","label":"Soldados Terráqueos"},
 		{"id":"dbe678de96eab36e","type":"group","x":2380,"y":-3280,"width":1720,"height":1040,"color":"5","label":"RAÇAS"},
 		{"id":"537338172f839df5","type":"group","x":2420,"y":-3200,"width":1640,"height":874,"color":"#756bff","label":"Terráqueos"},
@@ -37,7 +37,7 @@
 		{"id":"9fe6ce854fca959e","type":"file","file":"IMG_Oiala/WoWCharacterPassives.png","x":-3280,"y":-3225,"width":380,"height":459},
 		{"id":"f9bd1eb7fb0f80a0","type":"text","text":"\tCore Loop","x":-669,"y":-3275,"width":478,"height":143,"color":"3"},
 		{"id":"8ff059ec65211f4a","type":"text","text":"No Menu Principal o usuário consegue visualizar seus personagens existentes e criar novos personagens. Após selecionar seu personagem e dar o play o jogador passará por um loading e irá para a tela do HUB. Dentro da tela do HUB o usuário poderá executar algumas ações como criar equipamentos, melhorar seus equipamentos, alterar sua build e receber quests. \n==Durante sua permanência do HUB o usuário irá enxergar alguns outros jogadores também andando pelo HUB, como se todos estivessem no mesmo canal e terá algumas opções simples como adicionar essas pessoas como amigos, chamar para o grupo e visualizar os equipamentos, dentro do hub o usuário também pode utilizar o chat, tanto local quanto global.== Após formar um grupo todos os membros desse grupo passam a estar no mesmo canal.\nAgora com um grupo formado os usuários prosseguem para o quadro de missões checar se existe alguma quest disponível interessante, após o grupo decidir quais quests desejam fazer eles partem para o menu de exploração onde irão escolher seu destino de viagem. \nA escolha do destino de viagem acontece apenas através de uma tela de opções e o jogador é teleportado para o seu destino.\nTodos os jogadores aparecem no inicio do level e devem começar a se movimentar pelo mapa para explorar o ambiente. Durante a exploração o jogador e o grupo deverão escolher caminhos a seguir dentro de cada mapa e vencer desafios como armadilhas e inimigos. ","x":-1740,"y":-2032,"width":2620,"height":1052,"color":"6"},
-		{"id":"a7510185795750a2","type":"file","file":"GDD/Art_Classes/Soldados/Soldados Geral.md","x":4240,"y":-3200,"width":960,"height":807},
+		{"id":"a7510185795750a2","type":"file","file":"GDD/Art_Classes/Soldados/Soldados Geral.md","x":4240,"y":-3200,"width":960,"height":1200},
 		{"id":"cf1c668bbaf10f67","type":"file","file":"ArtRef/IMGs_Raças-Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo01.png","x":5240,"y":-3147,"width":256,"height":279},
 		{"id":"f28dd0b568770137","type":"file","file":"ArtRef/IMGs_Raças-Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo05.png","x":6338,"y":-3148,"width":271,"height":278},
 		{"id":"2fb05017ab2be1a1","type":"file","file":"ArtRef/IMGs_Raças-Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo11.png","x":6364,"y":-2813,"width":249,"height":333},
