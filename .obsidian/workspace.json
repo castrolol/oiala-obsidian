@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ArtRef/_DA_ArtRef.md",
+                "file": "GDD/Atributos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_DA_ArtRef"
+              "title": "Atributos"
             }
           }
         ],
@@ -191,18 +191,18 @@
   },
   "active": "1d302eb405f0b994",
   "lastOpenFiles": [
+    "GDD/Fórmulas e Cálculos.md",
+    "ArtRef/_DA_ArtRef.md",
     "__Referências BeatEmUp.md",
     "__Biblioteca de Nomenclaturas.md",
     "GDD/Status.md",
     "GDD/Sistemas de Raças.md",
-    "GDD/Fórmulas e Cálculos.md",
     "GDD/Atributos.md",
     "GDD/Arsenal.md",
     "GDD/_Tabela de Conteúdo.md",
     "ArtRef/Untitled.md",
     "Pasted image 20250105163337.png",
     "Pasted image 20250105163326.png",
-    "ArtRef/_DA_ArtRef.md",
     "ArtRef/IMGs/Pasted image 20240919120816.png",
     "ArtRef/IMGs/TowerBorne.png",
     "Canvas/_CreativeBoard.canvas",

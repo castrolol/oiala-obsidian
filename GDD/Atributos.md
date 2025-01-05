@@ -2,6 +2,24 @@
 Atributos são características que representam as capacidades de combate de um personagem. Esses atributos afetam o desempenho do personagem em diversas situações do jogo.
 Alguns atributos são adquiridos logo no momento da criação de seu personagem quando o jogador escolher sua raça.
 Os Atributos podem ser aumentados sempre que o usuário avançar de Level e através de itens do arsenal.
+
+- Funcionalidade Atributos Secundários
+	- Orc + Classe Rogue
+Cada Raça Tem seus Atributos Iniciais Diferentes
+Undead
+10 F
+5 Int
+3 Vi
+12 Dex
+Orc
+12 F
+1 int
+15 Vi
+2 Dex
+Orc
+- X Atributos Secundários
+Classe Rogue
+- X Atributos Secundários
 ## Listagem Atributos
 ### Atributos Primários
 - Força
@@ -9,7 +27,7 @@ Os Atributos podem ser aumentados sempre que o usuário avançar de Level e atra
 	- Aumenta Resistências a Ataque Físicos
 - Inteligência
 	- Aumenta Poder Mágico
-	- Aumenta Resistências a Poder Mágico
+	- Aumenta Resistências a Poder Elemental
 - Vigor
 	- Aumenta Vida do usuário
 	- Aumento da Mitigação
@@ -24,13 +42,13 @@ Os Atributos podem ser aumentados sempre que o usuário avançar de Level e atra
 		- O valor de armadura é responsável por diminuir danos físicos recebidos pelo usuário
 	- Resistência
 		- Valor que irá diminuir o dano recebido pelo usuário pelo determinado tipo de dano
-			- Resistência a dano Contundente
-			- Resistência a dano Cortante
-			- Resistência a dano Perfurante
-			- Resistência a dano de Fogo
-			- Resistência a dano Gelo
+			- Resistência a dano Contundente (Físico)
+			- Resistência a dano Cortante (Físico)
+			- Resistência a dano Perfurante (Físico)
+			- Resistência a dano de Fogo (Elementais)
+			- Resistência a dano Gelo (Elementais)
 			- ...
-	- Endurance
+	- Mitigação
 		- Redução dos status de controle de grupo recebidos pelo usuário
 	- Speed
 		- Velocidade de Movimento do usuário
