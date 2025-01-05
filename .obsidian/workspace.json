@@ -4,90 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "8b2200c321f30ae5",
+        "id": "ddb8cab9a9a0d6d9",
         "type": "tabs",
         "children": [
           {
-            "id": "d05c7c89d4381ca5",
+            "id": "90fef59bca0062db",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "541e05b0737d4aa7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__Referências BeatEmUp.md",
+                "file": "GDD/Arsenal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "__Referências BeatEmUp"
+              "title": "Arsenal"
             }
           },
           {
-            "id": "92a829ffb108d2e0",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "_Fluxos.canvas",
-                "viewState": {
-                  "x": 370,
-                  "y": 200,
-                  "zoom": -0.5907965420387798
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "_Fluxos"
-            }
-          },
-          {
-            "id": "bf644cdc34a9b013",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Canvas/_Fluxos.canvas",
-                "viewState": {
-                  "x": 370,
-                  "y": 200,
-                  "zoom": -0.589873807731092
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "_Fluxos"
-            }
-          },
-          {
-            "id": "1f1843101e58fe64",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Canvas/_CreativeBoard.canvas",
-                "viewState": {
-                  "x": 1875,
-                  "y": 840,
-                  "zoom": -2
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "_CreativeBoard"
-            }
-          },
-          {
-            "id": "aeaa578ca03d1794",
+            "id": "1d302eb405f0b994",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ArtRef/_DA_ArtRef.md",
+                "file": "GDD/Arsenal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_DA_ArtRef"
+              "title": "Arsenal"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -143,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 200
   },
   "right": {
     "id": "daf0d53b002ec91d",
@@ -232,21 +191,22 @@
   },
   "active": "0fc12b575b45d378",
   "lastOpenFiles": [
-    "Canvas/_Fluxos.canvas",
-    "Atributos.md",
-    "Canvas",
+    "GDD/Status.md",
+    "GDD/Atributos.md",
     "Briefing.md",
-    "Sistemas de Raças.md",
+    "GDD/Sistemas de Raças.md",
+    "GDD/Arsenal.md",
+    "GDD/_Tabela de Conteúdo.md",
+    "GDD",
+    "__Referências BeatEmUp.md",
+    "__Biblioteca de Nomenclaturas.md",
+    "Canvas/_Fluxos.canvas",
+    "Canvas/_CreativeBoard.canvas",
+    "ArtRef/_DA_ArtRef.md",
+    "Canvas",
     "Sem título.md",
-    "Status.md",
     "Untitled 1.md",
     "Untitled.md",
-    "__Referências BeatEmUp.md",
-    "ArtRef/_DA_ArtRef.md",
-    "Canvas/_CreativeBoard.canvas",
-    "_Tabela de Conteúdo.md",
-    "Arsenal.md",
-    "__Biblioteca de Nomenclaturas.md",
     "Untitled 2.md",
     "ArtRef/IMGs/Pasted image 20240919123537.png",
     "ArtRef/IMGs/Pasted image 20240919121130.png",
