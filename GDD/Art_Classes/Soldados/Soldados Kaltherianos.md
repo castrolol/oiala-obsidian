@@ -54,7 +54,7 @@ Os Kaltherianos Soldados combinam a elegância natural de sua raça com um pragm
 	- **Marcas Corporais Luminosas:** As marcas corporais bioluminescentes são traços que aparecem no corpo do soldado, indicando suas vitórias, lealdades ou desafios superados. São feitas de um pigmento que brilha suavemente, semelhante à luz de um vaga-lume, e podem ser ativadas por comandos mentais.
 	
 	- **Cinto de Suporte de Energia:** Um cinto especial contendo células de energia que mantêm o soldado alimentado durante o combate. Esses dispositivos geram pequenas quantidades de energia bioquímica, que podem ser usadas para recarregar suas armas de plasma ou ativar escudos temporários.
-
+	
 	- **Pulseiras de Navegação:** Os Kaltherianos Soldados também usam pulseiras de alta tecnologia que funcionam como dispositivos de navegação e comunicação, permitindo que se conectem a sistemas de comando e coordenem ataques em tempo real. Elas também funcionam como scanners para detectar presenças inimigas e mapear terrenos desconhecidos.
 
 ### **Personalidade

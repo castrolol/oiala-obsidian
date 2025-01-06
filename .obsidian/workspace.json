@@ -35,14 +35,17 @@
             "id": "1d302eb405f0b994",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "GDD/Art_Classes/Soldados/Soldados Kaltherianos.md",
-                "mode": "source",
-                "source": false
+                "file": "Canvas/_CreativeBoard.canvas",
+                "viewState": {
+                  "x": 8769.680293616591,
+                  "y": -2924.5245160375994,
+                  "zoom": 1
+                }
               },
-              "icon": "lucide-file",
-              "title": "Soldados Kaltherianos"
+              "icon": "lucide-layout-dashboard",
+              "title": "_CreativeBoard"
             }
           }
         ],
@@ -191,21 +194,22 @@
   },
   "active": "1d302eb405f0b994",
   "lastOpenFiles": [
-    "GDD/Art_Classes/Soldados/Soldados Terráqueos.md",
+    "SoldadosKaltherianos07.png",
     "GDD/Art_Classes/Soldados/Soldados Kaltherianos.md",
     "Canvas/_CreativeBoard.canvas",
-    "ArtRef/IMGs_Raças-Classes/RaçaKaltherianos/Kaltherianos23.png",
+    "SoldadosKaltherianos23.png",
+    "SoldadosKaltherianos17.png",
+    "SoldadosKaltherianos15.png",
+    "SoldadosKaltherianos05.png",
+    "SoldadosKaltherianos09.png",
+    "SoldadosKaltherianos14.png",
+    "SoldadosKaltherianos20.png",
+    "SoldadosKaltherianos19.png",
+    "SoldadosKaltherianos11.png",
+    "SoldadosKaltherianos22.png",
+    "GDD/Art_Classes/Soldados/Soldados Terráqueos.md",
     "ArtRef/IMGs_Raças-Classes/RaçaKaltherianos",
     "GDD/Art_Raças/Kaltherianos.md",
-    "ArtRef/IMGs_Raças-Classes/RaçaKaltherianos/Kaltherianos19.png",
-    "ArtRef/IMGs_Raças-Classes/RaçaKaltherianos/Kaltherianos18.png",
-    "ArtRef/IMGs_Raças-Classes/RaçaKaltherianos/Kaltherianos17.png",
-    "ArtRef/IMGs_Raças-Classes/RaçaKaltherianos/Kaltherianos16.png",
-    "ArtRef/IMGs_Raças-Classes/RaçaKaltherianos/Kaltherianos15.png",
-    "ArtRef/IMGs_Raças-Classes/RaçaKaltherianos/Kaltherianos14.png",
-    "ArtRef/IMGs_Raças-Classes/RaçaKaltherianos/Kaltherianos13.png",
-    "ArtRef/IMGs_Raças-Classes/RaçaKaltherianos/Kaltherianos12.png",
-    "ArtRef/IMGs_Raças-Classes/RaçaKaltherianos/Kaltherianos11.png",
     "GDD/Art_Classes/Soldados/Soldados Geral.md",
     "GDD/Art_Raças/Terráqueos.md",
     "GDD/_Tabela de Conteúdo.md",
