@@ -35,17 +35,14 @@
             "id": "1d302eb405f0b994",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canvas/_CreativeBoard.canvas",
-                "viewState": {
-                  "x": 4184.8222937740775,
-                  "y": -4389.146139653516,
-                  "zoom": 1.1102230246251565e-16
-                }
+                "file": "GDD/Art_Classes/Soldados/Soldados Terráqueos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "_CreativeBoard"
+              "icon": "lucide-file",
+              "title": "Soldados Terráqueos"
             }
           }
         ],
@@ -194,8 +191,14 @@
   },
   "active": "1d302eb405f0b994",
   "lastOpenFiles": [
+    "GDD/Art_Classes/Soldados/Soldados Kaltherianos.md",
+    "GDD/Art_Classes/Soldados/Soldados Geral.md",
+    "GDD/Art_Classes/Soldados/Soldados Terráqueos.md",
     "GDD/Art_Raças/Kaltherianos.md",
     "GDD/Art_Raças/Terráqueos.md",
+    "_Briefing.md",
+    "__Referências BeatEmUp.md",
+    "__Biblioteca de Nomenclaturas.md",
     "Canvas/_CreativeBoard.canvas",
     "Canvas/_Fluxos.canvas",
     "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos01.png",
@@ -204,7 +207,6 @@
     "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos23.png",
     "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano",
     "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos07.png",
-    "GDD/Art_Classes/Soldados/Soldados Kaltherianos.md",
     "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos17.png",
     "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos15.png",
     "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos05.png",
@@ -212,9 +214,7 @@
     "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos14.png",
     "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos20.png",
     "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos19.png",
-    "GDD/Art_Classes/Soldados/Soldados Terráqueos.md",
     "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos",
-    "GDD/Art_Classes/Soldados/Soldados Geral.md",
     "GDD/_Tabela de Conteúdo.md",
     "ArtRef/Referências Animação.md",
     "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoTerráqueo",
@@ -222,9 +222,6 @@
     "GDD/Art_Classes/Soldados",
     "GDD/Art_Classes",
     "GDD/Classes.md",
-    "_Briefing.md",
-    "__Referências BeatEmUp.md",
-    "__Biblioteca de Nomenclaturas.md",
     "GDD/Art_Raças",
     "ArtRef/IMGs_Raças-Classes",
     "ArtRef/_DA_ArtRef.md",
