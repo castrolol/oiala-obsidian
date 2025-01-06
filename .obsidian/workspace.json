@@ -39,9 +39,9 @@
               "state": {
                 "file": "Canvas/_CreativeBoard.canvas",
                 "viewState": {
-                  "x": 3000.10472323072,
-                  "y": -3690.5628625663867,
-                  "zoom": -0.6666666666666665
+                  "x": 3252.5983747174705,
+                  "y": -3878.2590369223017,
+                  "zoom": -0.3333333333333332
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -192,7 +192,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0fc12b575b45d378",
+  "active": "1d302eb405f0b994",
   "lastOpenFiles": [
     "GDD/Art_Raças/Kaltherianos.md",
     "GDD/Art_Raças/Terráqueos.md",
