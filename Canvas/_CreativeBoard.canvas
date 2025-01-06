@@ -3,10 +3,11 @@
 		{"id":"3684daf8b8495987","type":"group","x":-4880,"y":-3280,"width":5780,"height":3300,"color":"#ff00c8","label":"IDEIAS INICIAIS"},
 		{"id":"f014872e731807b8","type":"group","x":4200,"y":-3280,"width":6200,"height":2800,"color":"2","label":"CLASSES"},
 		{"id":"d10658c14705049b","type":"group","x":4220,"y":-3240,"width":6100,"height":2360,"color":"1","label":"Soldados"},
+		{"id":"dbe678de96eab36e","type":"group","x":2380,"y":-3280,"width":1720,"height":2800,"color":"5","label":"RAÇAS"},
 		{"id":"bbec8620fc552abe","type":"group","x":5220,"y":-3200,"width":2680,"height":1200,"color":"#475dff","label":"Soldados Terráqueos"},
-		{"id":"dbe678de96eab36e","type":"group","x":2380,"y":-3280,"width":1720,"height":1040,"color":"5","label":"RAÇAS"},
 		{"id":"537338172f839df5","type":"group","x":2420,"y":-3200,"width":1640,"height":874,"color":"#756bff","label":"Terráqueos"},
 		{"id":"66f5197eab273648","type":"group","x":-3091,"y":-2140,"width":1165,"height":1180,"label":"Estudo Câmeras"},
+		{"id":"4dc46d17ac984c1c","type":"group","x":2420,"y":-2280,"width":1640,"height":400,"color":"#85db9b","label":"Kaltherianos"},
 		{"id":"03f90d197a885e0c","type":"text","text":"Explorar Planetas","x":-1740,"y":-2809,"width":478,"height":143,"color":"1"},
 		{"id":"ca4d0954da41e68e","type":"text","text":"Subir de Level","x":-1205,"y":-2809,"width":478,"height":143,"color":"1"},
 		{"id":"8bc92a11d767935b","type":"text","text":"- Construção e melhoria dos equipamentos e armaduras através do loot acumulado durante suas explorações","x":-134,"y":-2606,"width":1014,"height":526,"color":"5"},
@@ -59,7 +60,8 @@
 		{"id":"c3b88861282c142b","type":"file","file":"ArtRef/IMGs_Raças-Classes/RaçaTerráqueos/HumanFemale03.png","x":2960,"y":-2640,"width":391,"height":294},
 		{"id":"8117397c5cd5f28e","type":"file","file":"GDD/Art_Raças/Terráqueos.md","x":3380,"y":-3120,"width":660,"height":774},
 		{"id":"889a00f9eca4ec6a","type":"file","file":"ArtRef/IMGs_Raças-Classes/RaçaTerráqueos/HumanMale02.png","x":2767,"y":-3120,"width":260,"height":400},
-		{"id":"3ea467c82365f834","type":"file","file":"ArtRef/IMGs_Raças-Classes/RaçaTerráqueos/HumanMale03.png","x":3027,"y":-3120,"width":324,"height":400}
+		{"id":"3ea467c82365f834","type":"file","file":"ArtRef/IMGs_Raças-Classes/RaçaTerráqueos/HumanMale03.png","x":3027,"y":-3120,"width":324,"height":400},
+		{"id":"b66f60066ae74abc","type":"file","file":"GDD/Art_Raças/Kaltherianos.md","x":3380,"y":-2220,"width":660,"height":400}
 	],
 	"edges":[
 		{"id":"68ecb81d44f22e24","fromNode":"059f109f892aff3e","fromSide":"right","toNode":"b83516761cbad39c","toSide":"left"},

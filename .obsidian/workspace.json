@@ -35,17 +35,14 @@
             "id": "1d302eb405f0b994",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canvas/_CreativeBoard.canvas",
-                "viewState": {
-                  "x": 6338.07154145402,
-                  "y": -2290.1696709670678,
-                  "zoom": -2.000000000000001
-                }
+                "file": "GDD/Art_Raças/Kaltherianos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "_CreativeBoard"
+              "icon": "lucide-file",
+              "title": "Kaltherianos"
             }
           }
         ],
@@ -194,13 +191,14 @@
   },
   "active": "1d302eb405f0b994",
   "lastOpenFiles": [
+    "Canvas/_CreativeBoard.canvas",
+    "GDD/Art_Raças/Kaltherianos.md",
     "GDD/Art_Classes/Soldados/SoldadosTerráqueos.md",
     "GDD/Art_Classes/Soldados/Soldados Geral.md",
     "GDD/Art_Raças/Terráqueos.md",
     "GDD/_Tabela de Conteúdo.md",
     "ArtRef/Referências Animação.md",
     "ArtRef/IMGs_Raças-Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo01.png",
-    "Canvas/_CreativeBoard.canvas",
     "ArtRef/IMGs_Raças-Classes/RaçaTerráqueos/HumanFemale01.png",
     "ArtRef/IMGs_Raças-Classes/ClasseSoldadoTerráqueo",
     "ArtRef/IMGs_Raças-Classes/RaçaTerráqueos",
