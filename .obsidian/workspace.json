@@ -35,12 +35,17 @@
             "id": "1d302eb405f0b994",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos01.png"
+                "file": "Canvas/_CreativeBoard.canvas",
+                "viewState": {
+                  "x": 7326.035811231271,
+                  "y": -2445.1233889146706,
+                  "zoom": -2.873383412178915
+                }
               },
-              "icon": "lucide-image",
-              "title": "SoldadosKaltherianos01"
+              "icon": "lucide-layout-dashboard",
+              "title": "_CreativeBoard"
             }
           }
         ],
@@ -187,8 +192,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0fc12b575b45d378",
+  "active": "1d302eb405f0b994",
   "lastOpenFiles": [
+    "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos01.png",
     "ArtRef/IMGs_Raças-Classes/Raças",
     "ArtRef/IMGs_Raças-Classes/Classes",
     "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos23.png",
@@ -229,7 +235,6 @@
     "GDD/Status.md",
     "GDD/Sistemas de Raças.md",
     "GDD/Fórmulas e Cálculos.md",
-    "GDD",
     "Sem título.md",
     "Untitled 1.md",
     "Untitled.md",
