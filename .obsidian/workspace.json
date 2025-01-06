@@ -35,12 +35,14 @@
             "id": "1d302eb405f0b994",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "ArtRef/IMGs_Raças-Classes/RaçaKaltherianos/Kaltherianos23.png"
+                "file": "GDD/Art_Classes/Soldados/Soldados Kaltherianos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Kaltherianos23"
+              "icon": "lucide-file",
+              "title": "Soldados Kaltherianos"
             }
           }
         ],
@@ -187,12 +189,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0fc12b575b45d378",
+  "active": "1d302eb405f0b994",
   "lastOpenFiles": [
     "GDD/Art_Classes/Soldados/Soldados Terráqueos.md",
-    "ArtRef/IMGs_Raças-Classes/RaçaKaltherianos",
-    "Canvas/_CreativeBoard.canvas",
     "GDD/Art_Classes/Soldados/Soldados Kaltherianos.md",
+    "Canvas/_CreativeBoard.canvas",
+    "ArtRef/IMGs_Raças-Classes/RaçaKaltherianos/Kaltherianos23.png",
+    "ArtRef/IMGs_Raças-Classes/RaçaKaltherianos",
     "GDD/Art_Raças/Kaltherianos.md",
     "ArtRef/IMGs_Raças-Classes/RaçaKaltherianos/Kaltherianos19.png",
     "ArtRef/IMGs_Raças-Classes/RaçaKaltherianos/Kaltherianos18.png",
@@ -203,7 +206,6 @@
     "ArtRef/IMGs_Raças-Classes/RaçaKaltherianos/Kaltherianos13.png",
     "ArtRef/IMGs_Raças-Classes/RaçaKaltherianos/Kaltherianos12.png",
     "ArtRef/IMGs_Raças-Classes/RaçaKaltherianos/Kaltherianos11.png",
-    "ArtRef/IMGs_Raças-Classes/RaçaKaltherianos/Kaltherianos10.png",
     "GDD/Art_Classes/Soldados/Soldados Geral.md",
     "GDD/Art_Raças/Terráqueos.md",
     "GDD/_Tabela de Conteúdo.md",
