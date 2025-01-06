@@ -9,6 +9,7 @@
 		{"id":"4dc46d17ac984c1c","type":"group","x":2420,"y":-2280,"width":1640,"height":1200,"color":"#85db9b","label":"Kaltherianos"},
 		{"id":"537338172f839df5","type":"group","x":2420,"y":-3200,"width":1640,"height":874,"color":"#756bff","label":"Terráqueos"},
 		{"id":"66a98f7aa1b5661c","x":2380,"y":-4080,"width":1720,"height":400,"color":"#000000","type":"group","label":"Armas"},
+		{"id":"586fda0660626d78","x":3640,"y":-4520,"width":920,"height":400,"color":"#ffffff","type":"group","label":"Brainstorm Armas"},
 		{"id":"66f5197eab273648","type":"group","x":-2459,"y":-2341,"width":1004,"height":1017,"label":"Estudo Câmeras"},
 		{"id":"0b2c94fd4d7028d3","type":"text","text":"- Loot","x":-372,"y":-2743,"width":412,"height":123,"color":"5"},
 		{"id":"7d119dcb2c760c37","type":"text","text":"- Recompensas Quests","x":-372,"y":-2577,"width":412,"height":123,"color":"5"},
@@ -108,7 +109,8 @@
 		{"id":"8ff059ec65211f4a","type":"text","text":"No Menu Principal o usuário consegue visualizar seus personagens existentes e criar novos personagens. Após selecionar seu personagem e dar o play o jogador passará por um loading e irá para a tela do HUB. Dentro da tela do HUB o usuário poderá executar algumas ações como criar equipamentos, melhorar seus equipamentos, alterar sua build e receber quests. \n==Durante sua permanência do HUB o usuário irá enxergar alguns outros jogadores também andando pelo HUB, como se todos estivessem no mesmo canal e terá algumas opções simples como adicionar essas pessoas como amigos, chamar para o grupo e visualizar os equipamentos, dentro do hub o usuário também pode utilizar o chat, tanto local quanto global.== Após formar um grupo todos os membros desse grupo passam a estar no mesmo canal.\nAgora com um grupo formado os usuários prosseguem para o quadro de missões checar se existe alguma quest disponível interessante, após o grupo decidir quais quests desejam fazer eles partem para o menu de exploração onde irão escolher seu destino de viagem. \nA escolha do destino de viagem acontece apenas através de uma tela de opções e o jogador é teleportado para o seu destino.\nTodos os jogadores aparecem no inicio do level e devem começar a se movimentar pelo mapa para explorar o ambiente. Durante a exploração o jogador e o grupo deverão escolher caminhos a seguir dentro de cada mapa e vencer desafios como armadilhas e inimigos. ","x":-1295,"y":-2248,"width":2257,"height":906,"color":"6"},
 		{"id":"fc6f1d2a9d3012f6","type":"text","text":"Melhorar Equipamentos","x":551,"y":-2917,"width":412,"height":123,"color":"1"},
 		{"id":"8bc92a11d767935b","type":"text","text":"- Construção e melhoria dos equipamentos e armaduras através do loot acumulado durante suas explorações","x":89,"y":-2743,"width":874,"height":453,"color":"5"},
-		{"id":"0801754171fc4840","type":"text","text":"Construir Equipamentos","x":89,"y":-2917,"width":412,"height":123,"color":"1"}
+		{"id":"0801754171fc4840","type":"text","text":"Construir Equipamentos","x":89,"y":-2917,"width":412,"height":123,"color":"1"},
+		{"id":"dd82f6f28d4bf89c","x":3650,"y":-4515,"width":270,"height":75,"type":"text","text":"Brainstorm inicial de possibilidades de Armas"}
 	],
 	"edges":[
 		{"id":"68ecb81d44f22e24","fromNode":"059f109f892aff3e","fromSide":"right","toNode":"b83516761cbad39c","toSide":"left"},
