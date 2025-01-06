@@ -46,3 +46,15 @@ Os Kaltherianos são introspectivos e pacíficos por natureza, mas sua experiên
 - **Cristais Orgânicos:** Incorporados às roupas ou à pele, os cristais Kaltherianos são uma extensão de seu corpo e podem emitir luz ou ser usados como fonte de energia.
 - **Padrões Naturais:** Marcas em suas peles semelhantes a galáxias ou nebulosas, criando uma aparência cósmica.
 
+#### **Referências Inspiradoras**
+
+1. **Elfos e Aasimar de D&D:** A estética elegante, traços finos e suaves com expressões de paz, tranquilidade e harmonia  divina dos elfos e aasimar serviu como base para a aparência refinada e etérea dos Kaltherianos.
+2. **Protoss (StarCraft):** A conexão espiritual e a combinação de tecnologia avançada com uma filosofia introspectiva foram inspiradas nessa raça.
+3. **Navi (Avatar):** A relação com a natureza e a aparência translúcida têm paralelos com os Navi, mas os Kaltherianos são menos primitivos e mais futuristas.
+4. **Cetaceanos Alienígenas (Mass Effect)**
+- Algumas criaturas em Mass Effect, como os Elcor, possuem uma ligação com conceitos aquáticos e uma presença tranquila. Elementos como bioluminescência e uma comunicação não-verbal podem ser aproveitados.
+5. **Arte Cósmica:** Estética que mistura nebulosas e paisagens estelares, evocando um visual alienígena e celestial ao mesmo tempo.
+6. **Axolotes**
+- Conhecidos por suas feições "amigáveis" e cores suaves, podem servir de base para traços mais dóceis e adaptáveis nos Kaltherianos.
+- 
+

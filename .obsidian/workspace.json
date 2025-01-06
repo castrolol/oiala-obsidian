@@ -35,17 +35,14 @@
             "id": "1d302eb405f0b994",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canvas/_CreativeBoard.canvas",
-                "viewState": {
-                  "x": 2316.302545104845,
-                  "y": -2052.2708304858747,
-                  "zoom": -0.3333333333333334
-                }
+                "file": "GDD/Art_Raças/Kaltherianos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "_CreativeBoard"
+              "icon": "lucide-file",
+              "title": "Kaltherianos"
             }
           }
         ],
@@ -194,25 +191,25 @@
   },
   "active": "1d302eb405f0b994",
   "lastOpenFiles": [
-    "GDD/Art_Raças/Kaltherianos.md",
     "Canvas/_CreativeBoard.canvas",
+    "Pasted image 20250105214203.png",
+    "Pasted image 20250105214155.png",
+    "Pasted image 20250105214147.png",
+    "Pasted image 20250105214137.png",
+    "Pasted image 20250105214129.png",
+    "Pasted image 20250105214120.png",
+    "Pasted image 20250105214111.png",
+    "Pasted image 20250105214101.png",
+    "Pasted image 20250105214051.png",
+    "GDD/Art_Raças/Kaltherianos.md",
     "GDD/Art_Classes/Soldados/SoldadosTerráqueos.md",
     "GDD/Art_Classes/Soldados/Soldados Geral.md",
     "GDD/Art_Raças/Terráqueos.md",
     "GDD/_Tabela de Conteúdo.md",
     "ArtRef/Referências Animação.md",
     "ArtRef/IMGs_Raças-Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo01.png",
-    "ArtRef/IMGs_Raças-Classes/RaçaTerráqueos/HumanFemale01.png",
     "ArtRef/IMGs_Raças-Classes/ClasseSoldadoTerráqueo",
     "ArtRef/IMGs_Raças-Classes/RaçaTerráqueos",
-    "ArtRef/IMGs_Raças-Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo14.png",
-    "ArtRef/IMGs_Raças-Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo04.png",
-    "ArtRef/IMGs_Raças-Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo03.png",
-    "ArtRef/IMGs_Raças-Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo02.png",
-    "ArtRef/IMGs_Raças-Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo09.png",
-    "ArtRef/IMGs_Raças-Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo08.png",
-    "ArtRef/IMGs_Raças-Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo06.png",
-    "ArtRef/IMGs_Raças-Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo07.png",
     "GDD/Art_Classes/Soldados",
     "GDD/Art_Classes",
     "GDD/Classes.md",
