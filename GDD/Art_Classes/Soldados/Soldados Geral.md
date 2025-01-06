@@ -12,7 +12,7 @@ Os Soldados podem vir de formações militares organizadas ou ser guerreiros ind
 - **Defesa Tática:** Uso de escudos energéticos ou barreiras improvisadas para proteger aliados e bloquear ataques.
 - **Formação de Equipe:** Habilidade de coordenar aliados para maximizar a eficiência em combate
 
-#### **Comportamento e Personalidade no Jogo
+#### **Comportamento e Personalidade no Jogo**
 
 **Geral:**  
 A estética deve evocar uma sensação de força e preparação constante, com um visual que comunique tanto a tradição militar quanto a modernidade.

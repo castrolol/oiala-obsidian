@@ -39,9 +39,9 @@
               "state": {
                 "file": "Canvas/_CreativeBoard.canvas",
                 "viewState": {
-                  "x": 7326.035811231271,
-                  "y": -2445.1233889146706,
-                  "zoom": -2.873383412178915
+                  "x": 3579.520855906071,
+                  "y": -2732.595144977514,
+                  "zoom": 1.1102230246251565e-16
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -194,12 +194,15 @@
   },
   "active": "1d302eb405f0b994",
   "lastOpenFiles": [
+    "GDD/Art_Raças/Kaltherianos.md",
+    "GDD/Art_Raças/Terráqueos.md",
+    "Canvas/_CreativeBoard.canvas",
+    "Canvas/_Fluxos.canvas",
     "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos01.png",
     "ArtRef/IMGs_Raças-Classes/Raças",
     "ArtRef/IMGs_Raças-Classes/Classes",
     "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos23.png",
     "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano",
-    "Canvas/_CreativeBoard.canvas",
     "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos07.png",
     "GDD/Art_Classes/Soldados/Soldados Kaltherianos.md",
     "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos17.png",
@@ -209,12 +212,9 @@
     "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos14.png",
     "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos20.png",
     "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos19.png",
-    "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos11.png",
     "GDD/Art_Classes/Soldados/Soldados Terráqueos.md",
     "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos",
-    "GDD/Art_Raças/Kaltherianos.md",
     "GDD/Art_Classes/Soldados/Soldados Geral.md",
-    "GDD/Art_Raças/Terráqueos.md",
     "GDD/_Tabela de Conteúdo.md",
     "ArtRef/Referências Animação.md",
     "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoTerráqueo",
@@ -225,7 +225,6 @@
     "_Briefing.md",
     "__Referências BeatEmUp.md",
     "__Biblioteca de Nomenclaturas.md",
-    "Canvas/_Fluxos.canvas",
     "GDD/Art_Raças",
     "ArtRef/IMGs_Raças-Classes",
     "ArtRef/_DA_ArtRef.md",
