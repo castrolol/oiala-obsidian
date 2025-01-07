@@ -15,5 +15,14 @@
 		- Somente ele estará nessa partida
 	- O jogador poderá criar um Lobby e convidar os seus amigos para entrarem no seu Lobby
 		- Sendo a capacidade máxima de um Lobby de até mais 3 membros
-- Após iniciar a partida Solo ou Grupo o jogador irá para o HUB, o HUB é
+- Após iniciar a partida Solo ou Grupo o jogador irá para o HUB
+	- Dentro do HUB o jogador terá acesso a diversas funcionalidades extremamente importantes para sua experiência e progressão
+		- Missões
+			- É através do HUB em que o usuário poderá visualizar todas as Quests disponíveis para serem aceitas
+		- Forja
+			- Dentro do HUB é o único local em que o jogador poderá estar realizando qualquer interação de Forja
+		- Banco
+			- Utilização do banco para armazenar Loot, Equipamentos, Armas, Etc
+		- Menu Exploração
+			- Menu onde o jogador irá decidir o próximo objetivo a ser explorador pelo seu time
 
