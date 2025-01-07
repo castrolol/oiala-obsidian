@@ -51,3 +51,12 @@
 		- Toda Arma Level 01
 		- Toda Arma Raridade 00
 
+
+# Controles
+
+### Movimentação
+
+- O jogador
+
+
+
