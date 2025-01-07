@@ -6,7 +6,7 @@ Acessórios da Categoria de Anéis são os únicos que não respeitam essa regra
 Esses itens são separados em:
 ### Equipamentos
 Cada Equipamento pode ter de 0 até 2 Atributos Primários, esse valor dependendo tanto de level do item quanto da sua raridade.
-Cada Equipamento pode ter de 0 até 3 Atributos Secundários, esse valor dependendo tanto de level do item quanto da sua raridade.Sendo 2 desses atributos secundários gerados aleatoriamente dentro das possibilidades de atributos do item ou pré-definidos por nós, o 3° atributo caso exista um slot é definido pelo jogador através de uma mecânica de craft.
+Cada Equipamento pode ter de 0 até 3 Atributos Secundários, esse valor dependendo tanto de level do item quanto da sua raridade. Sendo 2 desses atributos secundários gerados aleatoriamente dentro das possibilidades de atributos do item ou pré-definidos por nós, o 3° atributo caso exista um slot é definido pelo jogador através de uma mecânica de craft.
 Dentro dos Equipamentos teremos as seguintes Categorias de Equipamentos:
 #### Capacetes
 - Level
@@ -175,3 +175,4 @@ Dentro dos Acessórios teremos as seguintes Categorias de Acessórios:
 
 ### Armas
 Armas são todos os utensílios que podem ser utilizados pelo jogador na Mão Principal e ou Secundário do seu Personagem.
+As armas tem como função principal decidir as principais habilidades ofensivas do jogador, porém tendo também a possibilidade de trazerem habilidades de mobilidade ou defesa.
