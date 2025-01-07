@@ -1,9 +1,10 @@
 # Core
 
-- A ideia principal do jogo é o usuário [[Explorar]], acumular [[Recursos]], [[Progressão]] dos seus personagens.
+- A ideia principal do jogo é [[Exploração]], acumular [[Recursos]], [[Progressão]] dos seus personagens.
 
 
 # Primeira Gameplay
+
 - O usuário deverá criar seu personagem para iniciar uma partida.
 - Na criação do Personagem será definido pelo usuário:
 	- Nome (Inalterável Posteriormente)
@@ -17,12 +18,13 @@
 		- Sendo a capacidade máxima de um Lobby de até mais 3 membros
 - Após iniciar a partida Solo ou Grupo o jogador irá para o HUB
 	- Dentro do HUB o jogador terá acesso a diversas funcionalidades extremamente importantes para sua experiência e progressão
-		- Missões
+		- [[Missões]]
 			- É através do HUB em que o usuário poderá visualizar todas as Quests disponíveis para serem aceitas
-		- Forja
+		- [[Forja]]
 			- Dentro do HUB é o único local em que o jogador poderá estar realizando qualquer interação de Forja
-		- Banco
+		- [[Banco]]
 			- Utilização do banco para armazenar Loot, Equipamentos, Armas, Etc
-		- Menu Exploração
+		- [[Exploração]]
 			- Menu onde o jogador irá decidir o próximo objetivo a ser explorador pelo seu time
+- O usuário ficará livre para tomar a decisão de fazer o que ele quiser
 
