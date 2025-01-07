@@ -25,10 +25,14 @@
             "id": "90fef59bca0062db",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "GDD/Art_Classes/Soldados/Soldados Kaltherianos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Soldados Kaltherianos"
             }
           },
           {
@@ -37,15 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDD/Gameplay/_Gameplay e Controles.md",
+                "file": "GDD/Art_Classes/Soldados/Soldados Geral.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Gameplay e Controles"
+              "title": "Soldados Geral"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,10 +193,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "348f7eda1fb548ac",
+  "active": "1db061ba624650e1",
   "lastOpenFiles": [
-    "GDD/Gameplay/Missões.md",
+    "GDD/Art_Classes/Soldados/Soldados Kaltherianos.md",
+    "GDD/Art_Classes/Soldados/Soldados Geral.md",
+    "GDD/Gameplay/_Gameplay e Controles.md",
     "GDD/Spells&Talents/Soldado/Spell Soldados.md",
+    "GDD/Gameplay/Missões.md",
     "GDD/Spells&Talents/Soldado/Inspiração Máxima.md",
     "GDD/Spells&Talents/Soldado/Disparada.md",
     "GDD/Spells&Talents/Soldado/Avanço Fulminante.md",
@@ -200,7 +208,6 @@
     "GDD/Spells&Talents/Untitled.md",
     "GDD/Spells&Talents/Soldado",
     "GDD/Spells&Talents",
-    "GDD/Gameplay/_Gameplay e Controles.md",
     "GDD/Gameplay/Forja.md",
     "GDD/Gameplay/Exploração.md",
     "GDD/Gameplay/Banco.md",
@@ -216,8 +223,6 @@
     "GDD/Gameplay",
     "GDD/Fórmulas e Cálculos.md",
     "Canvas/_CreativeBoard.canvas",
-    "GDD/Art_Classes/Soldados/Soldados Geral.md",
-    "GDD/Art_Classes/Soldados/Soldados Kaltherianos.md",
     "GDD/Art_Classes/Soldados/Soldados Terráqueos.md",
     "GDD/Art_Raças/Kaltherianos.md",
     "GDD/Art_Raças/Terráqueos.md",
