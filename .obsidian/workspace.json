@@ -62,8 +62,7 @@
               "title": "_CreativeBoard"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,19 +205,25 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "8e2dcf42eceadabc",
+  "active": "348f7eda1fb548ac",
   "lastOpenFiles": [
+    "GDD/Gameplay/Banco.md",
+    "GDD/___Dúvidas.Início/_Biblioteca de Nomenclaturas.md",
+    "GDD/___Dúvidas.Início/Referências BeatEmUp.md",
+    "GDD/___Dúvidas.Início/__Dúvidas Tabela de Conteúdo.md",
+    "GDD/Spells&Talents/Soldado/Avanço Fulminante.md",
+    "GDD/___Dúvidas.Início/__Briefing.md",
+    "GDD/Gameplay/_Gameplay e Controles.md",
+    "Canvas/_CreativeBoard.canvas",
     "GDD/Classes/Soldados/Soldados Geral.md",
     "GDD/Spells&Talents/Soldado/Spells Soldados.md",
     "GDD/Raças/Terráqueos.md",
     "GDD/Raças/Kaltherianos.md",
     "GDD/Art_Classes/Untitled.md",
     "GDD/Classes/Soldados/Soldados Kaltherianos.md",
-    "GDD/Gameplay/_Gameplay e Controles.md",
     "GDD/Gameplay/Missões.md",
     "GDD/Spells&Talents/Soldado/Inspiração Máxima.md",
     "GDD/Spells&Talents/Soldado/Disparada.md",
-    "GDD/Spells&Talents/Soldado/Avanço Fulminante.md",
     "GDD/Atributos.md",
     "GDD/Spells&Talents/Soldado/asd.md",
     "GDD/Spells&Talents/Untitled.md",
@@ -226,19 +231,12 @@
     "GDD/Spells&Talents",
     "GDD/Gameplay/Forja.md",
     "GDD/Gameplay/Exploração.md",
-    "GDD/Gameplay/Banco.md",
     "GDD/Arsenal.md",
-    "GDD/___Dúvidas.Início/__Briefing.md",
-    "GDD/___Dúvidas.Início/Referências BeatEmUp.md",
-    "GDD/___Dúvidas.Início/_Biblioteca de Nomenclaturas.md",
-    "GDD/___Dúvidas.Início/__Dúvidas Tabela de Conteúdo.md",
     "GDD/___Dúvidas.Início",
     "Explorar.md",
     "GDD/Sistemas de Raças.md",
     "GDD/Status.md",
     "GDD/Gameplay",
-    "GDD/Fórmulas e Cálculos.md",
-    "Canvas/_CreativeBoard.canvas",
     "Canvas/_Fluxos.canvas",
     "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos01.png",
     "ArtRef/IMGs_Raças-Classes/Raças",
