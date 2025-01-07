@@ -15,4 +15,5 @@
 		- Somente ele estará nessa partida
 	- O jogador poderá criar um Lobby e convidar os seus amigos para entrarem no seu Lobby
 		- Sendo a capacidade máxima de um Lobby de até mais 3 membros
+- Após iniciar a partida Solo ou Grupo o jogador irá para o HUB, o HUB é
 
