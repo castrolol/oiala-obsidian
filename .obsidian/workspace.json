@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDD/___Dúvidas.Início/__Briefing.md",
+                "file": "GDD/Gameplay/_Gameplay e Controles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "__Briefing"
+              "title": "_Gameplay e Controles"
             }
           }
         ],
@@ -175,12 +175,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0fc12b575b45d378",
+  "active": "1db061ba624650e1",
   "lastOpenFiles": [
+    "GDD/___Dúvidas.Início/__Briefing.md",
     "GDD/___Dúvidas.Início/Referências BeatEmUp.md",
     "GDD/___Dúvidas.Início/_Biblioteca de Nomenclaturas.md",
     "GDD/___Dúvidas.Início/__Dúvidas Tabela de Conteúdo.md",
-    "GDD/___Dúvidas.Início/__Briefing.md",
     "GDD/Gameplay/_Gameplay e Controles.md",
     "GDD/___Dúvidas.Início",
     "GDD/Arsenal.md",

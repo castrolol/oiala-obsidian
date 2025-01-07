@@ -26,5 +26,11 @@
 			- Utilização do banco para armazenar Loot, Equipamentos, Armas, Etc
 		- [[Exploração]]
 			- Menu onde o jogador irá decidir o próximo objetivo a ser explorador pelo seu time
-- O usuário ficará livre para tomar a decisão de fazer o que ele quiser
+	- O usuário ficará livre para tomar a decisão de fazer o que ele quiser a partir do momento em que ele entrar no Hub, teremos alguns indicadores mostrando os principais NPC's, porém não é obrigatório nenhuma interação, caso o usuário decida simplesmente partir para uma [[Exploração]] ele estará livre para fazer isto
+- O personagem do usuário aparecerá no HUB da maneira que ele criou no menu de criação do personagem
+- # Personagem Inicial
+	- O personagem do usuário irá começar o jogo
+	- Level 01
+	- Com Raça Determinada na criação do Personagem e Imutável após isto
+	- Com Classe Determinada na criação do Personagem e Imutável após isto
 
