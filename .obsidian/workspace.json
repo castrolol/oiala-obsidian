@@ -35,10 +35,14 @@
             "id": "1d302eb405f0b994",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "GDD/Arsenal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arsenal"
             }
           }
         ],
@@ -187,7 +191,9 @@
   },
   "active": "1d302eb405f0b994",
   "lastOpenFiles": [
+    "__Biblioteca de Nomenclaturas.md",
     "GDD/_Tabela de Conteúdo.md",
+    "GDD/Arsenal.md",
     "GDD/Atributos.md",
     "GDD/Art_Classes/Soldados/Soldados Geral.md",
     "GDD/Art_Classes/Soldados/Soldados Kaltherianos.md",
@@ -196,7 +202,6 @@
     "GDD/Art_Raças/Terráqueos.md",
     "_Briefing.md",
     "__Referências BeatEmUp.md",
-    "__Biblioteca de Nomenclaturas.md",
     "Canvas/_CreativeBoard.canvas",
     "Canvas/_Fluxos.canvas",
     "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos01.png",
@@ -223,7 +228,6 @@
     "ArtRef/IMGs_Raças-Classes",
     "ArtRef/_DA_ArtRef.md",
     "AnimaçãoReff01.md",
-    "GDD/Arsenal.md",
     "GDD/Status.md",
     "GDD/Sistemas de Raças.md",
     "GDD/Fórmulas e Cálculos.md",

@@ -174,4 +174,4 @@ Dentro dos Acessórios teremos as seguintes Categorias de Acessórios:
 	- Poder Mágico
 
 ### Armas
-Dentro das Armas teremos as seguintes Categorias de Armas:
+Armas são todos os utensílios que podem ser utilizados pelo jogador na Mão Principal e ou Secundário do seu Personagem.
