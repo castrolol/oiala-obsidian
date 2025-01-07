@@ -32,5 +32,13 @@
 	- O personagem do usuário irá começar o jogo
 	- Level 01
 	- Com Raça Determinada na criação do Personagem e Imutável após isto
+		- Trazendo os Atributos e Habilidades Passivas
 	- Com Classe Determinada na criação do Personagem e Imutável após isto
+		- Trazendo as Spells Únicas iniciais
+	- Arsenal Base determinados pela Raça do personagem
+		- Todos Equipamentos Level 01
+		- Todos Equipamentos Raridade 00
+	- Arma base determinada pela Classe 
+		- Toda Arma Level 01
+		- Toda Arma Raridade 00
 
