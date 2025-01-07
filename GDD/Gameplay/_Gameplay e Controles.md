@@ -5,6 +5,8 @@
 
 # Primeira Gameplay
 
+>[!Descrição Geral de uma Gameplay Inicial]
+
 - O usuário deverá criar seu personagem para iniciar uma partida.
 - Na criação do Personagem será definido pelo usuário:
 	- Nome (Inalterável Posteriormente)
@@ -17,6 +19,7 @@
 	- O jogador poderá criar um Lobby e convidar os seus amigos para entrarem no seu Lobby
 		- Sendo a capacidade máxima de um Lobby de até mais 3 membros
 - Após iniciar a partida Solo ou Grupo o jogador irá para o HUB
+	- O personagem do usuário aparecerá no HUB da maneira que ele criou no menu de criação do personagem
 	- Dentro do HUB o jogador terá acesso a diversas funcionalidades extremamente importantes para sua experiência e progressão
 		- [[Missões]]
 			- É através do HUB em que o usuário poderá visualizar todas as Quests disponíveis para serem aceitas
@@ -27,7 +30,12 @@
 		- [[Exploração]]
 			- Menu onde o jogador irá decidir o próximo objetivo a ser explorador pelo seu time
 	- O usuário ficará livre para tomar a decisão de fazer o que ele quiser a partir do momento em que ele entrar no Hub, teremos alguns indicadores mostrando os principais NPC's, porém não é obrigatório nenhuma interação, caso o usuário decida simplesmente partir para uma [[Exploração]] ele estará livre para fazer isto
-- O personagem do usuário aparecerá no HUB da maneira que ele criou no menu de criação do personagem
+	- O usuário estará livre para interagir com todos os NPC's e conhecer um pouco mais o HUB, porém ele não terá muito o que fazer na [[Forja]] e[[Banco]], já que ele não tem ainda nenhum recurso.
+	- O quadro de [[Missões]] já apresentaram [[Missões]] para ele aceitar
+	- O menu de [[Exploração]] deverá ser o foco principal do usuário neste momento, aqui ele deverá selecionar seu primeiro destino e partir para a exploração
+- Durante a exploração o usuário deverá derrotar todas as hordas de inimigo e acumular a maior quantidade de recursos que conseguir até chegar ao fim da exploração e retornar ao Hub
+
+
 - # Personagem Inicial
 	- O personagem do usuário irá começar o jogo
 	- Level 01
@@ -38,7 +46,7 @@
 	- Arsenal Base determinados pela Raça do personagem
 		- Todos Equipamentos Level 01
 		- Todos Equipamentos Raridade 00
-	- Arma base determinada pela Classe 
+	- Arma Base determinada pela Classe 
 		- Toda Arma Level 01
 		- Toda Arma Raridade 00
 
