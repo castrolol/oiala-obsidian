@@ -3,8 +3,10 @@
 ## Raças - Classes
 
 Nem todas as Classes podem ser escolhidas por todas as Raças.
-[[]]
 
+[[Soldados Terráqueos]]
+[[Soldados Kaltherianos]]
+[[Spells Soldados]]
 #### **Descrição Geral**
 
 O Soldado é a linha de frente em qualquer batalha, moldado pela disciplina rígida e pela experiência em combates intensos. Ele é um símbolo de resiliência, resistência e eficácia tática, sendo capaz de suportar os maiores perigos e proteger aliados enquanto avança contra o inimigo. O Soldado domina o campo de batalha com uma mistura de força bruta e estratégia.
