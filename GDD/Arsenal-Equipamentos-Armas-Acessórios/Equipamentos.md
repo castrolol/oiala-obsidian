@@ -8,6 +8,8 @@ Dentro dos Equipamentos teremos as seguintes Categorias de Equipamentos:
 	- Definindo o level mínimo que o usuário deve ter para conseguir utilizar este item
 - Raridade
 	- Definindo valores de Atributos Primários ou Secundários, quantidade de Atributo e valor.
+- Slot
+	- Capacete
 - Possíveis Atributos Primários
 	- Força
 	- Inteligência
@@ -24,6 +26,8 @@ Dentro dos Equipamentos teremos as seguintes Categorias de Equipamentos:
 	- Definindo o level mínimo que o usuário deve ter para conseguir utilizar este item
 - Raridade
 	- Definindo valores de Atributos Primários ou Secundários, quantidade de Atributo e valor.
+- Slot
+	- Capa
 -  Possíveis Atributos Primários
 	- Força
 	- Inteligência
@@ -40,6 +44,8 @@ Dentro dos Equipamentos teremos as seguintes Categorias de Equipamentos:
 	- Definindo o level mínimo que o usuário deve ter para conseguir utilizar este item
 - Raridade
 	- Definindo valores de Atributos Primários ou Secundários, quantidade de Atributo e valor.
+- Slot
+	- Torso
 -  Atributos Primários
 	- Força
 	- Inteligência
@@ -56,6 +62,8 @@ Dentro dos Equipamentos teremos as seguintes Categorias de Equipamentos:
 	- Definindo o level mínimo que o usuário deve ter para conseguir utilizar este item
 - Raridade
 	- Definindo valores de Atributos Primários ou Secundários, quantidade de Atributo e valor.
+- Slot
+	- Perna
 -  Atributos Primários
 	- Força
 	- Inteligência
@@ -72,6 +80,8 @@ Dentro dos Equipamentos teremos as seguintes Categorias de Equipamentos:
 	- Definindo o level mínimo que o usuário deve ter para conseguir utilizar este item
 - Raridade
 	- Definindo valores de Atributos Primários ou Secundários, quantidade de Atributo e valor.
+- Slot
+	- Manopla
 -  Atributos Primários
 	- Força
 	- Inteligência
@@ -88,6 +98,8 @@ Dentro dos Equipamentos teremos as seguintes Categorias de Equipamentos:
 	- Definindo o level mínimo que o usuário deve ter para conseguir utilizar este item
 - Raridade
 	- Definindo valores de Atributos Primários ou Secundários, quantidade de Atributo e valor.
+- Slot
+	- Bota
 -  Atributos Primários
 	- Força
 	- Inteligência
@@ -97,20 +109,4 @@ Dentro dos Equipamentos teremos as seguintes Categorias de Equipamentos:
 	- Speed
 	- Dano Crítico
 	- Chance Dano Crítico
-	- Armadura
-#### Itens Mão Secundária
-- Level
-	- Definindo valores de Atributos Primários ou Secundários, quantidade de Atributo e valor.
-	- Definindo o level mínimo que o usuário deve ter para conseguir utilizar este item
-- Raridade
-	- Definindo valores de Atributos Primários ou Secundários, quantidade de Atributo e valor.
--  Atributos Primários
-	- Força
-	- Inteligência
-	- Vigor
-	- Dextreza
-- Atributos Secundários
-	- Chance Dano Crítico
-	- Dano Crítico
-	- Speed
 	- Armadura

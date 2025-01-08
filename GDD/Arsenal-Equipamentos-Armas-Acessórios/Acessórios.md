@@ -8,6 +8,9 @@ Dentro dos Acessórios teremos as seguintes Categorias de Acessórios:
 	- Definindo o level mínimo que o usuário deve ter para conseguir utilizar este item
 - Raridade
 	- Definindo valores de Atributos Primários ou Secundários, quantidade de Atributo e valor.
+- Slot
+	- Acessório 1
+	- Acessório 2
 -  Atributos Primários
 	- Força
 	- Inteligência
@@ -24,6 +27,8 @@ Dentro dos Acessórios teremos as seguintes Categorias de Acessórios:
 	- Definindo o level mínimo que o usuário deve ter para conseguir utilizar este item
 - Raridade
 	- Definindo valores de Atributos Primários ou Secundários, quantidade de Atributo e valor.
+-  Slot
+	- Colar
 -  Atributos Primários
 	- Força
 	- Inteligência
@@ -40,6 +45,9 @@ Dentro dos Acessórios teremos as seguintes Categorias de Acessórios:
 	- Definindo o level mínimo que o usuário deve ter para conseguir utilizar este item
 - Raridade
 	- Definindo valores de Atributos Primários ou Secundários, quantidade de Atributo e valor.
+-   Slot
+	- Brinco 1
+	- Brinco 2
 -  Atributos Primários
 	- Força
 	- Inteligência
