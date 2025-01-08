@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 255.5
   },
   "right": {
     "id": "daf0d53b002ec91d",
@@ -179,7 +179,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "1db061ba624650e1",
+  "active": "0fc12b575b45d378",
   "lastOpenFiles": [
     "GDD/Arsenal-Equipamentos-Armas-Acessórios/Equipamentos.md",
     "GDD/Arsenal-Equipamentos-Armas-Acessórios/_Arsenal.md",
