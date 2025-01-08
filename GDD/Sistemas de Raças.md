@@ -1,4 +1,4 @@
-7# Regras Sistemas Raças
+# Regras Sistemas Raças
 Traremos um sistema de raças  onde o jogador poderá escolher qual raça ele deseja jogar, podendo estas raças serem selecionadas desde o início do jogo ou desbloqueadas depois através de Quests.
 Cada Raça tem suas particularidades, como habilidades passivas únicas aquela raça e uma habilidade ativa única aquela raça.
 O usuário selecionar uma raça para jogar não impacta em nenhuma limitação em seu arsenal equipável. Todas as raças tem a possibilidade de estarem usando todos os itens disponíveis em seu Arsenal.
