@@ -3,7 +3,7 @@
 - [[_Biblioteca de Nomenclaturas]]
 - [[Atributos]]
 - [[Status]]
-- [[Arsenal]] 
+- [[_Arsenal]] 
 - [[Sistemas de Raças]]
 - [[_Gameplay e Controles]]
 - [[Banco]]
