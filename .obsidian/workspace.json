@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDD/Arsenal-Equipamentos-Armas-Acessórios/_Arsenal.md",
+                "file": "GDD/Arsenal-Equipamentos-Armas-Acessórios/Equipamentos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Arsenal"
+              "title": "Equipamentos"
             }
           }
         ],
@@ -181,13 +181,13 @@
   },
   "active": "1db061ba624650e1",
   "lastOpenFiles": [
+    "GDD/Arsenal-Equipamentos-Armas-Acessórios/Armas.md",
+    "GDD/Arsenal-Equipamentos-Armas-Acessórios/Acessórios.md",
+    "GDD/Arsenal-Equipamentos-Armas-Acessórios/_Arsenal.md",
     "GDD/Arsenal-Equipamentos-Armas-Acessórios/Equipamentos.md",
     "GDD/Atributos.md",
     "GDD/Sistemas de Raças.md",
     "GDD/Status.md",
-    "GDD/Arsenal-Equipamentos-Armas-Acessórios/_Arsenal.md",
-    "GDD/Arsenal-Equipamentos-Armas-Acessórios/Acessórios.md",
-    "GDD/Arsenal-Equipamentos-Armas-Acessórios/Armas.md",
     "GDD/Arsenal-Equipamentos-Armas-Acessórios",
     "Canvas/_CreativeBoard.canvas",
     "GDD/Gameplay/_Gameplay e Controles.md",
