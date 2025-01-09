@@ -1,0 +1,18 @@
+#### Itens Mão Secundária
+- Level
+	- Definindo valores de Atributos Primários ou Secundários, quantidade de Atributo e valor.
+	- Definindo o level mínimo que o usuário deve ter para conseguir utilizar este item
+- Raridade
+	- Definindo valores de Atributos Primários ou Secundários, quantidade de Atributo e valor.
+- Slot
+	- Mão Secundária
+-  Atributos Primários
+	- Força
+	- Inteligência
+	- Vigor
+	- Dextreza
+- Atributos Secundários
+	- Chance Dano Crítico
+	- Dano Crítico
+	- Speed
+	- Armadura
