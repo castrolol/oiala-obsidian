@@ -25,10 +25,14 @@
             "id": "1db061ba624650e1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "GDD/Atributos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Atributos"
             }
           }
         ],
@@ -88,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 269.5
   },
   "right": {
     "id": "daf0d53b002ec91d",
@@ -177,6 +181,19 @@
   },
   "active": "1db061ba624650e1",
   "lastOpenFiles": [
+    "GDD/Arsenal-Equipamentos-Armas-Acessórios/Itens Mão Primária.md",
+    "GDD/Arsenal-Equipamentos-Armas-Acessórios/Equipamentos.md",
+    "GDD/Arsenal-Equipamentos-Armas-Acessórios/Armas.md",
+    "GDD/Arsenal-Equipamentos-Armas-Acessórios/_Arsenal.md",
+    "Canvas/_CreativeBoard.canvas",
+    "GDD/Raças/Terráqueos.md",
+    "GDD/Raças/Kaltherianos.md",
+    "GDD/Arsenal-Equipamentos-Armas-Acessórios/Acessórios.md",
+    "GDD/Sistemas de Raças.md",
+    "GDD/Fórmulas e Cálculos.md",
+    "GDD/Atributos.md",
+    "GDD/Classes/Soldados/Soldados Geral.md",
+    "GDD/Gameplay/_Gameplay e Controles.md",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot2/Spells Soldados Slot2.md",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot3/Lança-Chamas.md",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot3/Punhais Gêmeos.md",
@@ -185,7 +202,6 @@
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados.md",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot2/Cinturão de Utilidades.md",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot3",
-    "GDD/Gameplay/_Gameplay e Controles.md",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot2/Kit de Reparos.md",
     "Sem título 1.md",
     "Sem título.md",
@@ -193,22 +209,10 @@
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot2/Untitled.md",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot1/Spells Soldados Slot 1.md",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot1/Inspiração Máxima.md",
-    "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot1/Disparada.md",
-    "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot1/Avanço Fulminante.md",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot2",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot1",
     "GDD/Spells&Talents/Soldado/Spells Soldados",
-    "GDD/Arsenal-Equipamentos-Armas-Acessórios/Itens Mão Primária.md",
-    "GDD/Arsenal-Equipamentos-Armas-Acessórios/Itens Mão Secundária.md",
-    "GDD/Arsenal-Equipamentos-Armas-Acessórios/Armas.md",
-    "GDD/Arsenal-Equipamentos-Armas-Acessórios/Equipamentos.md",
-    "GDD/Atributos.md",
-    "GDD/Arsenal-Equipamentos-Armas-Acessórios/Acessórios.md",
-    "GDD/Arsenal-Equipamentos-Armas-Acessórios/_Arsenal.md",
-    "Sem título 3.md",
-    "Sem título 2.md",
     "GDD/Arsenal-Equipamentos-Armas-Acessórios",
-    "Canvas/_CreativeBoard.canvas",
     "GDD/Spells&Talents/Soldado",
     "GDD/Spells&Talents",
     "GDD/___Dúvidas.Início",
