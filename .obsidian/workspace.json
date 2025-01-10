@@ -41,8 +41,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,8 +184,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "1db061ba624650e1",
+  "active": "348f7eda1fb548ac",
   "lastOpenFiles": [
+    "GDD/Gameplay/_Gameplay e Controles.md",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot2/Spells Soldados Slot2.md",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados.md",
     "GDD/Atributos.md",
@@ -201,7 +201,6 @@
     "GDD/Sistemas de Raças.md",
     "GDD/Fórmulas e Cálculos.md",
     "GDD/Classes/Soldados/Soldados Geral.md",
-    "GDD/Gameplay/_Gameplay e Controles.md",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot3/Lança-Chamas.md",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot3/Punhais Gêmeos.md",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot3/Spells Soldados Slot3.md",
