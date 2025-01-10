@@ -4,51 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "c303b39c201ab76b",
+        "id": "ddb8cab9a9a0d6d9",
         "type": "tabs",
         "children": [
           {
-            "id": "eb83130d73096ee5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "IMG_Oiala/Castle Crashers.png"
-              },
-              "icon": "lucide-image",
-              "title": "Castle Crashers"
-            }
-          },
-          {
-            "id": "2a2f1fff27acea5e",
+            "id": "348f7eda1fb548ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDD/Classes/Soldados/Soldados Kaltherianos.md",
+                "file": "GDD/Gameplay/_Gameplay e Controles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Soldados Kaltherianos"
+              "title": "_Gameplay e Controles"
             }
           },
           {
-            "id": "de07cdf5e56c7f25",
+            "id": "1db061ba624650e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDD/Arsenal-Equipamentos-Armas-Acessórios/Armas.md",
+                "file": "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot3/Lança-Chamas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Armas"
+              "title": "Lança-Chamas"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +58,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -87,7 +75,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Procurar"
+              "title": "Search"
             }
           },
           {
@@ -97,14 +85,14 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Marcadores"
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.5
   },
   "right": {
     "id": "daf0d53b002ec91d",
@@ -120,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atributos.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Atributos"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -139,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atributos.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Atributos"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -166,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atributos.md"
+                "file": "Untitled.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Atributos"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -181,68 +169,66 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
       "remotely-save:Remotely Save": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "de07cdf5e56c7f25",
+  "active": "0fc12b575b45d378",
   "lastOpenFiles": [
-    "GDD/Arsenal-Equipamentos-Armas-Acessórios/Acessórios.md",
-    "GDD/Arsenal-Equipamentos-Armas-Acessórios/_Arsenal.md",
-    "GDD/Status.md",
-    "GDD/Sistemas de Raças.md",
-    "GDD/Fórmulas e Cálculos.md",
-    "GDD/Atributos.md",
-    "GDD/Spells&Talents/Soldado/Spells Soldados.md",
-    "GDD/Spells&Talents/Soldado/Inspiração Máxima.md",
-    "GDD/Spells&Talents/Soldado/Disparada.md",
-    "GDD/Spells&Talents/Soldado/Avanço Fulminante.md",
+    "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot3/Punhais Gêmeos.md",
+    "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot3/Spells Soldados Slot3.md",
+    "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot3/Lança-Chamas.md",
+    "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot3/Lanterna Tática.md",
+    "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados.md",
+    "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot2/Cinturão de Utilidades.md",
+    "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot2/Spells Soldados Slot2.md",
+    "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot3",
+    "GDD/Gameplay/_Gameplay e Controles.md",
+    "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot2/Kit de Reparos.md",
+    "Sem título 1.md",
+    "Sem título.md",
+    "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot2/Bombas Congelantes.md",
+    "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot2/Untitled.md",
+    "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot1/Spells Soldados Slot 1.md",
+    "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot1/Inspiração Máxima.md",
+    "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot1/Disparada.md",
+    "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot1/Avanço Fulminante.md",
+    "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot2",
+    "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot1",
+    "GDD/Spells&Talents/Soldado/Spells Soldados",
     "GDD/Arsenal-Equipamentos-Armas-Acessórios/Itens Mão Primária.md",
+    "GDD/Arsenal-Equipamentos-Armas-Acessórios/Itens Mão Secundária.md",
     "GDD/Arsenal-Equipamentos-Armas-Acessórios/Armas.md",
     "GDD/Arsenal-Equipamentos-Armas-Acessórios/Equipamentos.md",
-    "Sem título 1.md",
-    "GDD/Classes/Soldados/Soldados Kaltherianos.md",
-    "GDD/Arsenal-Equipamentos-Armas-Acessórios/Itens Mão Secundária.md",
-    "GDD/Classes/Soldados/Soldados Geral.md",
-    "Sem título.md",
-    "IMG_Oiala/Castle Crashers.png",
-    "IMG_Oiala/AlbionSkills.png",
+    "GDD/Atributos.md",
+    "GDD/Arsenal-Equipamentos-Armas-Acessórios/Acessórios.md",
+    "GDD/Arsenal-Equipamentos-Armas-Acessórios/_Arsenal.md",
     "Sem título 3.md",
-    "GDD/Raças/Terráqueos.md",
-    "GDD/Raças/Kaltherianos.md",
-    "GDD/Classes/Soldados/Soldados Terráqueos.md",
     "Sem título 2.md",
-    "GDD/___Dúvidas.Início/__Dúvidas Tabela de Conteúdo.md",
-    "GDD/___Dúvidas.Início/__Briefing.md",
-    "GDD/___Dúvidas.Início/_Biblioteca de Nomenclaturas.md",
-    "GDD/___Dúvidas.Início",
+    "GDD/Arsenal-Equipamentos-Armas-Acessórios",
+    "Canvas/_CreativeBoard.canvas",
     "GDD/Spells&Talents/Soldado",
     "GDD/Spells&Talents",
-    "GDD/Raças",
+    "GDD/___Dúvidas.Início",
     "GDD/Gameplay",
-    "GDD/Classes/Soldados",
-    "GDD/Classes",
-    "GDD/Arsenal-Equipamentos-Armas-Acessórios",
-    "ArtRef/IMGs_Raças-Classes/Raças/RaçaTerráqueos/HumanMale03.png",
-    "ArtRef/IMGs_Raças-Classes/Raças/RaçaTerráqueos/HumanMale02.png",
-    "ArtRef/IMGs_Raças-Classes/Raças/RaçaTerráqueos/HumanMale01.png",
-    "ArtRef/IMGs_Raças-Classes/Raças/RaçaTerráqueos/HumanFemale03.png",
-    "ArtRef/IMGs_Raças-Classes/Raças/RaçaTerráqueos/HumanFemale02.png",
-    "ArtRef/IMGs_Raças-Classes/Raças/RaçaTerráqueos/HumanFemale01.png",
-    "ArtRef/IMGs_Raças-Classes/Raças/RaçaTerráqueos",
-    "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos23.png",
-    "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos22.png",
-    "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos",
     "Canvas/_Fluxos.canvas",
-    "Canvas/_CreativeBoard.canvas",
-    "_Fluxos.canvas",
-    "_CreativeBoard.canvas",
-    "_BoardOiala.canvas"
+    "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos01.png",
+    "ArtRef/IMGs_Raças-Classes/Raças",
+    "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos23.png",
+    "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos07.png",
+    "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos17.png",
+    "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos15.png",
+    "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos05.png",
+    "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos09.png",
+    "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos14.png",
+    "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos20.png",
+    "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos19.png",
+    "CanvasOiala 1.canvas"
   ]
 }
