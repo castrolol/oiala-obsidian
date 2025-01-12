@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDD/Atributos.md",
+                "file": "GDD/Raças/Terráqueos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Atributos"
+              "title": "Terráqueos"
             }
           }
         ],
@@ -193,6 +193,8 @@
   },
   "active": "de07cdf5e56c7f25",
   "lastOpenFiles": [
+    "GDD/Raças/Kaltherianos.md",
+    "GDD/Atributos.md",
     "GDD/Arsenal-Equipamentos-Armas-Acessórios/Armas.md",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot3/Spells Soldados Slot3.md",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot3/Punhais Gêmeos.md",
@@ -216,13 +218,11 @@
     "GDD/Status.md",
     "GDD/Sistemas de Raças.md",
     "GDD/Fórmulas e Cálculos.md",
-    "GDD/Atributos.md",
     "GDD/Spells&Talents/Soldado/Spells Soldados.md",
     "GDD/Spells&Talents/Soldado/Inspiração Máxima.md",
     "GDD/Spells&Talents/Soldado/Disparada.md",
     "GDD/Spells&Talents/Soldado/Avanço Fulminante.md",
     "GDD/Arsenal-Equipamentos-Armas-Acessórios/Itens Mão Primária.md",
-    "GDD/Arsenal-Equipamentos-Armas-Acessórios/Equipamentos.md",
     "IMG_Oiala/Castle Crashers.png",
     "IMG_Oiala/AlbionSkills.png",
     "GDD/___Dúvidas.Início",
