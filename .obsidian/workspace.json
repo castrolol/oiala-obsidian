@@ -37,14 +37,17 @@
             "id": "de07cdf5e56c7f25",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "GDD/Raças/Terráqueos.md",
-                "mode": "source",
-                "source": false
+                "file": "Canvas/_CreativeBoard.canvas",
+                "viewState": {
+                  "x": 9716.46016513828,
+                  "y": -3548.907929396938,
+                  "zoom": 0.41123091384910904
+                }
               },
-              "icon": "lucide-file",
-              "title": "Terráqueos"
+              "icon": "lucide-layout-dashboard",
+              "title": "_CreativeBoard"
             }
           }
         ],
@@ -70,7 +73,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -181,18 +184,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "remotely-save:Remotely Save": false,
       "github-sync:Sync with Remote": false
     }
   },
   "active": "de07cdf5e56c7f25",
   "lastOpenFiles": [
+    "Pasted image 20250115142908.png",
+    "GDD/Raças/Terráqueos.md",
     "GDD/Raças/Kaltherianos.md",
     "GDD/Atributos.md",
     "GDD/Arsenal-Equipamentos-Armas-Acessórios/Armas.md",
@@ -221,8 +226,6 @@
     "GDD/Spells&Talents/Soldado/Spells Soldados.md",
     "GDD/Spells&Talents/Soldado/Inspiração Máxima.md",
     "GDD/Spells&Talents/Soldado/Disparada.md",
-    "GDD/Spells&Talents/Soldado/Avanço Fulminante.md",
-    "GDD/Arsenal-Equipamentos-Armas-Acessórios/Itens Mão Primária.md",
     "IMG_Oiala/Castle Crashers.png",
     "IMG_Oiala/AlbionSkills.png",
     "GDD/___Dúvidas.Início",
