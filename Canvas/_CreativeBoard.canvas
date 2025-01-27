@@ -2,9 +2,9 @@
 	"nodes":[
 		{"id":"f014872e731807b8","type":"group","x":4200,"y":-3360,"width":8360,"height":2880,"color":"#ffffff","label":"CLASSES"},
 		{"id":"d10658c14705049b","type":"group","x":4220,"y":-3220,"width":7900,"height":2360,"color":"1","label":"Soldados"},
+		{"id":"e8491889c738102c","type":"group","x":7940,"y":-3180,"width":4060,"height":1200,"color":"2","label":"Soldados Kaltherianos"},
 		{"id":"3684daf8b8495987","type":"group","x":-4000,"y":-3323,"width":4980,"height":2843,"color":"#ff00c8","label":"IDEIAS INICIAIS"},
 		{"id":"dbe678de96eab36e","type":"group","x":2380,"y":-3360,"width":1720,"height":2880,"color":"5","label":"RAÇAS"},
-		{"id":"e8491889c738102c","type":"group","x":7940,"y":-3180,"width":4060,"height":1200,"color":"2","label":"Soldados Kaltherianos"},
 		{"id":"bbec8620fc552abe","type":"group","x":5220,"y":-3180,"width":2680,"height":1200,"color":"#475dff","label":"Soldados Terráqueos"},
 		{"id":"4dc46d17ac984c1c","type":"group","x":2420,"y":-2280,"width":1640,"height":1200,"color":"#85db9b","label":"Kaltherianos"},
 		{"id":"537338172f839df5","type":"group","x":2420,"y":-3200,"width":1640,"height":874,"color":"#756bff","label":"Terráqueos"},
@@ -113,7 +113,8 @@
 		{"id":"a7510185795750a2","type":"file","file":"GDD/Classes/Soldados/Soldados Geral.md","x":4240,"y":-3180,"width":960,"height":1200,"color":"#ff0000"},
 		{"id":"5aa95f27dcc6ab07","type":"file","file":"ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos10.png","x":11655,"y":-3127,"width":312,"height":303},
 		{"id":"e01c797d8aa24ba1","type":"file","file":"ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo04.png","x":7004,"y":-3128,"width":195,"height":279},
-		{"id":"5345a8e71aa5f67c","x":9500,"y":-3820,"width":377,"height":400,"type":"file","file":"Pasted image 20250115142908.png"}
+		{"id":"5345a8e71aa5f67c","type":"file","file":"Pasted image 20250115142908.png","x":9500,"y":-3820,"width":377,"height":400},
+		{"id":"79ba20bcf45c4260","type":"file","file":"Pasted image 20250115185231.png","x":9716,"y":-3549,"width":313,"height":400}
 	],
 	"edges":[
 		{"id":"68ecb81d44f22e24","fromNode":"059f109f892aff3e","fromSide":"right","toNode":"b83516761cbad39c","toSide":"left"},
