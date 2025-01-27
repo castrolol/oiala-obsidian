@@ -49,9 +49,23 @@
               "icon": "lucide-layout-dashboard",
               "title": "_CreativeBoard"
             }
+          },
+          {
+            "id": "b75f4764575c1f31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -194,8 +208,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "de07cdf5e56c7f25",
+  "active": "b75f4764575c1f31",
   "lastOpenFiles": [
+    "Canvas/_CreativeBoard.canvas",
+    "Untitled.md",
     "Pasted image 20250115185231.png",
     "Pasted image 20250115142908.png",
     "GDD/Raças/Terráqueos.md",
@@ -226,7 +242,6 @@
     "GDD/Fórmulas e Cálculos.md",
     "GDD/Spells&Talents/Soldado/Spells Soldados.md",
     "GDD/Spells&Talents/Soldado/Inspiração Máxima.md",
-    "GDD/Spells&Talents/Soldado/Disparada.md",
     "IMG_Oiala/Castle Crashers.png",
     "IMG_Oiala/AlbionSkills.png",
     "GDD/___Dúvidas.Início",
@@ -241,9 +256,7 @@
     "ArtRef/IMGs_Raças-Classes/Raças/RaçaTerráqueos/HumanFemale03.png",
     "ArtRef/IMGs_Raças-Classes/Raças/RaçaTerráqueos/HumanFemale02.png",
     "ArtRef/IMGs_Raças-Classes/Raças/RaçaTerráqueos/HumanFemale01.png",
-    "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos23.png",
     "Canvas/_Fluxos.canvas",
-    "Canvas/_CreativeBoard.canvas",
     "_Fluxos.canvas",
     "_CreativeBoard.canvas",
     "_BoardOiala.canvas"
