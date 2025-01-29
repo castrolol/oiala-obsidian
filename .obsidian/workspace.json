@@ -37,9 +37,21 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "5483dec3d817f782",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/FirstTest.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "FirstTest"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,13 +195,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6e28a932b77c565a",
+  "active": "0fc12b575b45d378",
   "lastOpenFiles": [
+    "Canvas/_CreativeBoard.canvas",
+    "Excalidraw/FirstTest.md",
+    "Excalidraw/Drawing 2025-01-28 21.17.26.excalidraw.md",
+    "Untitled.md",
     "Pasted image 20250115142908.png",
     "Pasted image 20250115185231.png",
-    "Excalidraw/FirstTest.md",
-    "Canvas/_CreativeBoard.canvas",
-    "Excalidraw/Drawing 2025-01-28 21.10.20.excalidraw.md",
     "Excalidraw",
     "ArtRef/_DA_ArtRef.md",
     "GDD/___Dúvidas.Início/_Biblioteca de Nomenclaturas.md",
@@ -201,7 +214,6 @@
     "GDD/Raças/Kaltherianos.md",
     "GDD/Raças/Terráqueos.md",
     "IMG_Oiala/Castle Crashers.png",
-    "Untitled.md",
     "GDD/Atributos.md",
     "GDD/Arsenal-Equipamentos-Armas-Acessórios/Armas.md",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot3/Spells Soldados Slot3.md",
@@ -214,7 +226,6 @@
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot2/Bombas Congelantes.md",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot1/Spells Soldados Slot 1.md",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot1/Inspiração Máxima.md",
-    "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot1/Disparada.md",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot3",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot2",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot1",
