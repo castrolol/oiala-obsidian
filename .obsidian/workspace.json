@@ -15,16 +15,29 @@
               "state": {
                 "file": "Canvas/_CreativeBoard.canvas",
                 "viewState": {
-                  "x": 5487.455819494856,
-                  "y": -2634.6108392779106,
-                  "zoom": -1.6666666666666665
+                  "x": 4077.9288381048236,
+                  "y": -4063.4456901540516,
+                  "zoom": -0.3333333333333332
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "_CreativeBoard"
             }
+          },
+          {
+            "id": "d481e3477c865839",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-28 21.10.20.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-28 21.10.20.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 255.5
   },
   "right": {
     "id": "daf0d53b002ec91d",
@@ -164,13 +177,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "remotely-save:Remotely Save": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b75f4764575c1f31",
+  "active": "d481e3477c865839",
   "lastOpenFiles": [
-    "GDD/Classes/Soldados/Soldados Kaltherianos.md",
     "Canvas/_CreativeBoard.canvas",
+    "Excalidraw/Drawing 2025-01-28 21.10.20.excalidraw.md",
+    "Excalidraw",
+    "ArtRef/_DA_ArtRef.md",
+    "GDD/___Dúvidas.Início/_Biblioteca de Nomenclaturas.md",
+    "GDD/___Dúvidas.Início/Referências BeatEmUp.md",
+    "GDD/___Dúvidas.Início/__Dúvidas Tabela de Conteúdo.md",
+    "GDD/___Dúvidas.Início/__Briefing.md",
+    "GDD/Classes/Soldados/Soldados Kaltherianos.md",
     "GDD/Classes/Soldados/Soldados Terráqueos.md",
     "GDD/Raças/Kaltherianos.md",
     "GDD/Raças/Terráqueos.md",
@@ -192,23 +213,16 @@
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot1/Inspiração Máxima.md",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot1/Disparada.md",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot1/Avanço Fulminante.md",
-    "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados.md",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot3",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot2",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot1",
     "GDD/Spells&Talents/Soldado/Spells Soldados",
-    "GDD/Arsenal-Equipamentos-Armas-Acessórios/Acessórios.md",
-    "GDD/Arsenal-Equipamentos-Armas-Acessórios/_Arsenal.md",
-    "GDD/Status.md",
-    "GDD/Sistemas de Raças.md",
-    "GDD/Fórmulas e Cálculos.md",
     "IMG_Oiala/AlbionSkills.png",
     "GDD/___Dúvidas.Início",
     "GDD/Spells&Talents/Soldado",
     "GDD/Spells&Talents",
     "GDD/Raças",
     "GDD/Gameplay",
-    "GDD/Classes/Soldados",
     "ArtRef/IMGs_Raças-Classes/Raças/RaçaTerráqueos/HumanMale03.png",
     "ArtRef/IMGs_Raças-Classes/Raças/RaçaTerráqueos/HumanMale02.png",
     "ArtRef/IMGs_Raças-Classes/Raças/RaçaTerráqueos/HumanMale01.png",
