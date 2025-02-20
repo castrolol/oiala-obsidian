@@ -73,7 +73,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -184,18 +184,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
       "remotely-save:Remotely Save": false,
       "github-sync:Sync with Remote": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0fc12b575b45d378",
+  "active": "5483dec3d817f782",
   "lastOpenFiles": [
     "Untitled.md",
     "Untitled 1.md",
