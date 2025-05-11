@@ -11,31 +11,24 @@
             "id": "b75f4764575c1f31",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canvas/_CreativeBoard.canvas",
-                "viewState": {
-                  "x": 4077.9288381048236,
-                  "y": -4063.4456901540516,
-                  "zoom": -0.3333333333333332
-                }
+                "file": "GDD/Classes/Soldados/Soldados Terráqueos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "_CreativeBoard"
+              "icon": "lucide-file",
+              "title": "Soldados Terráqueos"
             }
           },
           {
             "id": "6e28a932b77c565a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Nova aba"
             }
           },
           {
@@ -50,8 +43,7 @@
               "title": "FirstTest"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +62,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -195,12 +188,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5483dec3d817f782",
+  "active": "b75f4764575c1f31",
   "lastOpenFiles": [
+    "GDD/Raças/Terráqueos.md",
+    "GDD/Raças/Kaltherianos.md",
+    "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot3/Lanterna Tática.md",
+    "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot3/Lança-Chamas.md",
+    "GDD/Classes/Soldados/Soldados Kaltherianos.md",
+    "Canvas/_CreativeBoard.canvas",
+    "Excalidraw/FirstTest.md",
     "Untitled.md",
     "Untitled 1.md",
-    "Excalidraw/FirstTest.md",
-    "Canvas/_CreativeBoard.canvas",
     "Excalidraw/Drawing 2025-01-28 21.17.26.excalidraw.md",
     "Pasted image 20250115142908.png",
     "Pasted image 20250115185231.png",
@@ -210,17 +208,12 @@
     "GDD/___Dúvidas.Início/Referências BeatEmUp.md",
     "GDD/___Dúvidas.Início/__Dúvidas Tabela de Conteúdo.md",
     "GDD/___Dúvidas.Início/__Briefing.md",
-    "GDD/Classes/Soldados/Soldados Kaltherianos.md",
     "GDD/Classes/Soldados/Soldados Terráqueos.md",
-    "GDD/Raças/Kaltherianos.md",
-    "GDD/Raças/Terráqueos.md",
     "IMG_Oiala/Castle Crashers.png",
     "GDD/Atributos.md",
     "GDD/Arsenal-Equipamentos-Armas-Acessórios/Armas.md",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot3/Spells Soldados Slot3.md",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot3/Punhais Gêmeos.md",
-    "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot3/Lança-Chamas.md",
-    "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot3/Lanterna Tática.md",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot2/Spells Soldados Slot2.md",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot2/Kit de Reparos.md",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot2/Cinturão de Utilidades.md",
