@@ -11,17 +11,14 @@
             "id": "b75f4764575c1f31",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canvas/_CreativeBoard.canvas",
-                "viewState": {
-                  "x": 3595.0782370755373,
-                  "y": -2594.719518481238,
-                  "zoom": 0.12015330322782924
-                }
+                "file": "GDD/Arsenal-Equipamentos-Armas-Acessórios/Armas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "_CreativeBoard"
+              "icon": "lucide-file",
+              "title": "Armas"
             }
           }
         ]
@@ -171,22 +168,26 @@
   },
   "active": "b75f4764575c1f31",
   "lastOpenFiles": [
+    "GDD/Arsenal-Equipamentos-Armas-Acessórios/Equipamentos.md",
+    "GDD/Arsenal-Equipamentos-Armas-Acessórios/Itens Mão Primária.md",
+    "GDD/Arsenal-Equipamentos-Armas-Acessórios/Itens Mão Secundária.md",
+    "GDD/___Dúvidas.Início/Referências BeatEmUp.md",
+    "GDD/___Dúvidas.Início/_Biblioteca de Nomenclaturas.md",
+    "GDD/___Dúvidas.Início/__Dúvidas Tabela de Conteúdo.md",
+    "Canvas/_CreativeBoard.canvas",
+    "GDD/Status.md",
+    "GDD/Sistemas de Raças.md",
+    "GDD/Fórmulas e Cálculos.md",
+    "GDD/Arsenal-Equipamentos-Armas-Acessórios/Armas.md",
+    "GDD/Arsenal-Equipamentos-Armas-Acessórios/_Arsenal.md",
+    "GDD/Arsenal-Equipamentos-Armas-Acessórios/Acessórios.md",
+    "GDD/Raças/Kaltherianos.md",
+    "GDD/Classes/Soldados/Soldados Kaltherianos.md",
+    "GDD/Classes/Soldados/Soldados Geral.md",
     "Canvas/_Fluxos.canvas",
     "ArtRef/_DA_ArtRef.md",
     "ArtRef/Referências Animação.md",
-    "Canvas/_CreativeBoard.canvas",
     "GDD/___Dúvidas.Início/__Briefing.md",
-    "GDD/___Dúvidas.Início/__Dúvidas Tabela de Conteúdo.md",
-    "GDD/___Dúvidas.Início/_Biblioteca de Nomenclaturas.md",
-    "GDD/___Dúvidas.Início/Referências BeatEmUp.md",
-    "GDD/Classes/Soldados/Soldados Kaltherianos.md",
-    "GDD/Classes/Soldados/Soldados Geral.md",
-    "GDD/Sistemas de Raças.md",
-    "GDD/Arsenal-Equipamentos-Armas-Acessórios/Itens Mão Primária.md",
-    "GDD/Arsenal-Equipamentos-Armas-Acessórios/Equipamentos.md",
-    "GDD/Arsenal-Equipamentos-Armas-Acessórios/Armas.md",
-    "GDD/Arsenal-Equipamentos-Armas-Acessórios/Acessórios.md",
-    "GDD/Arsenal-Equipamentos-Armas-Acessórios/_Arsenal.md",
     "IMG_Oiala/AlbionSkills.png",
     "Pasted image 20250115142908.png",
     "Pasted image 20250115185231.png",
@@ -196,13 +197,9 @@
     "Excalidraw/Drawing 2025-01-28 21.17.26.excalidraw.md",
     "Excalidraw",
     "GDD/Classes/Soldados/Soldados Terráqueos.md",
-    "GDD/Raças/Kaltherianos.md",
     "GDD/Raças/Terráqueos.md",
     "IMG_Oiala/Castle Crashers.png",
     "GDD/Atributos.md",
-    "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot3/Spells Soldados Slot3.md",
-    "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot3/Punhais Gêmeos.md",
-    "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot3/Lança-Chamas.md",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot3",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot2",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot1",
