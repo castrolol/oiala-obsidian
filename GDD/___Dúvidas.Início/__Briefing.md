@@ -1,11 +1,8 @@
 
-- # Theme
-
-Shadows and Alchemy
-
-The community decided on combining the two winning themes of Shadows and Alchemy. Shadows can relate to a number of different subjects outside of light levels. Think about shadow governments, secret societies, or elemental effects. Alchemy can also be used for much more than mixing potions. Alchemy is about transformation, synthesis, combination, and hidden knowledge.
-
-Themes are meant to be a restriction that you need to solve your way out of. Don't despair if this is a theme you dislike, instead try to find a creative solution where you can have fun and try something you otherwise wouldn't have.
+- A ideia é conseguirmos mesclar diversas ideias de todos os participantes do projeto e criarmos um projeto que todos enxerguem sua participação nas ideias, sejam de gameplay, narrativa, criativa e ou artística
+- Nosso objetivo é estarmos criando um jogo Beatem'Up com foco em uma Gameplay Cooperativa
+- Estaremos mesclando ideias de jogos Plataforma, RPG's, RogueLike e Swarms(VampireSurvivor) e criarmos nossa visão de BeatemUp
+- Nosso enredo se passa no espaço, e nossos personagens/usuários são como que exploradores/desbravadores desse mundo e recebem missões para explorar e desbravar planetas
 
 - **Modelo Inicial para Concepção de Game Design**
 
