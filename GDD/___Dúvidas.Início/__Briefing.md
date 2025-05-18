@@ -59,6 +59,3 @@ Themes are meant to be a restriction that you need to solve your way out of. Don
 
 - **Próximos Passos:** [Próximas etapas para desenvolvimento - pesquisa adicional, prototipagem, etc.]
 - **Objetivos Principais:** [Metas principais a serem alcançadas com o desenvolvimento do jogo]
-
-
-[[GameJam - Ideia Uno]]
