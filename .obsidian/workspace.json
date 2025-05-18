@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDD/Atributos e Status/Listagem Atributos.md",
+                "file": "GDD/___Dúvidas.Início/_Biblioteca de Nomenclaturas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Listagem Atributos"
+              "title": "_Biblioteca de Nomenclaturas"
             }
           }
         ]
@@ -168,8 +168,8 @@
   },
   "active": "34ed85397bbdb331",
   "lastOpenFiles": [
+    "GDD/Atributos e Status/Definição Atributos.md",
     "GDD/Atributos e Status/Ordem Primários e Secundários.md",
-    "GDD/Atributos e Status/Listagem Atributos.md",
     "GDD/Atributos e Status/_Status.md",
     "GDD/Atributos e Status/_Atributos.md",
     "GDD/Atributos e Status",

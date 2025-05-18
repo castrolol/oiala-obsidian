@@ -20,6 +20,6 @@ Cada Raça Tem seus Atributos Iniciais Diferentes, ou seja, a escolha da Raça d
 
 [[Ordem Primários e Secundários]]
 
-[[Listagem Atributos]]
+[[Definição Atributos]]
 
 
