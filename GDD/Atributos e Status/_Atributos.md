@@ -14,7 +14,7 @@ Cada Raça Tem seus Atributos Iniciais Diferentes, ou seja, a escolha da Raça d
 
 ## Atributos Secundários
 
-- Atributos Secundários são a resultante dos Atributos Primários
+- Atributos Secundários são a resultante dos Atributos Primários, existem Atributos Secundários que não são resultantes de Atributos Primários
 - O usuário consegue aumentar seus Atributos Secundários é através de melhorar o Atributo Primário que comanda esse Atributo Secundário.
 - Equipamentos de level mais alto e de raridade elevada tem uma chance de aumentar diretamente os Atributos Secundários do usuário.
 

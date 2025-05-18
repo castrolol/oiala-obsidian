@@ -2,7 +2,6 @@
 
 - A ideia principal do jogo é [[Exploração]], acumular [[Recursos]], [[Progressão]] dos seus personagens.
 
-
 # Primeira Gameplay
 
 >[!Descrição Geral de uma Gameplay Inicial]

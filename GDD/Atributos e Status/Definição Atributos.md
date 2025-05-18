@@ -1,4 +1,5 @@
 
+# Atributos Primários
 Força
 	Ataque Físico
 		Define o valor de dano aplicado pelo usuário ou inimigo utilizando Ataques com a Tag Físico
@@ -17,35 +18,27 @@ Vigor
 Dextreza
 	Ataques a Distância
 	Redução no tempo de conjuração de habilidades
-	Redução no tempo de espera para usar novamente a habilidade
+	Redução no tempo de recarga para usar novamente a habilidade
 
-Atributos Secundários
-Defensivos
-Vida
-Valor de quantidade de pontos de vida que o usuário tem
+## Atributos Secundários
+
+Segue abaixo a definição dos Atributos Secundários que não são dependentes dos Atributos Primários.
+Esses Atributos o usuário só consegue aumentar através do seu Arsenal
+
 Armadura
-O valor de armadura é responsável por diminuir danos físicos recebidos pelo usuário
-Resistência
-Valor que irá diminuir o dano recebido pelo usuário pelo determinado tipo de dano
-Resistência a dano Contundente (Físico)
-Resistência a dano Cortante (Físico)
-Resistência a dano Perfurante (Físico)
-Resistência a dano de Fogo (Elementais)
-Resistência a dano Gelo (Elementais)
-
-Mitigação
-Redução dos status de controle de grupo recebidos pelo usuário
-Speed
-Velocidade de Movimento do usuário
-
-Ofensivos
-Ataque Físico
-Valor que define dano físico a curta distância executado pelo usuário
-Ataque Físico a Distância
-Valor que define dano físico a longa distância executado pelo usuário
+	Valor que tem como maior objetivo reduzir danos aplicados ao usuário
+Resistências
+	Resistência a dano Contundente (Físico)
+		Principal definidor no cálculo de redução do efeito com Tag Contundente
+	Resistência a dano Cortante (Físico)
+		Principal definidor no cálculo de redução do efeito com Tag Cortante
+	Resistência a dano Perfurante (Físico)
+		Principal definidor no cálculo de redução do efeito com Tag Perfurante
+	Resistência a dano de (Elementais)
+		Principal definidor no cálculo de redução do efeito com Tag Elemental
+Agilidade
+	Redução no tempo de recarga da habilidade de esquiva
 Dano Crítico
-Valor do multiplicador do dano crítico,  válido para dano Mágico ou físico
+	Valor do multiplicador do dano crítico,  válido para dano Mágico ou físico
 Chance Dano Crítico
-Chance um multiplicador de dano acontecer, válido para dano Mágico ou físico
-Poder Mágico
-Valor que define interações mágicas, tanto para curas quanto dano
+	Chance um multiplicador de dano acontecer, válido para dano Mágico ou físico
