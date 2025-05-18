@@ -41,21 +41,37 @@
 	- Level 01
 	- Com Raça Determinada na criação do Personagem e Imutável após isto
 		- Trazendo os Atributos e Habilidades Passivas
-	- Com Classe Determinada na criação do Personagem e Imutável após isto
+	- Com Classe Determinada na criação do Personagem
 		- Trazendo as Spells Únicas iniciais
 	- Arsenal Base determinados pela Raça do personagem
 		- Todos Equipamentos Level 01
 		- Todos Equipamentos Raridade 00
-	- Arma Base determinada pela Classe 
-		- Toda Arma Level 01
-		- Toda Arma Raridade 00
-
 
 # Controles
 
-### Movimentação
+### Teclado Mouse
+- Movimentação Básica
+	- Através do padrão WASD 
+- Esquiva
+	- Espaço
+		- Usuário executa uma Esquiva se deslocando rapidamente e ficando invulnerável durante sua execução
+- Ataque Básico
+	- Botão Esquerdo do Mouse
+		- Utilização do Ataque Básico da Arma em utilização
+- Habilidade 1
+	- Número 1
+		- 
+- Habilidade 2
+	- Número 2
+- Habilidade 3
+	- Número 3
+- Habilidade 4
+	- Número 4
+- Consumível 1
+	- Q
+- Consumível 2
+	- E
 
-- O jogador
 
 
 
