@@ -11,14 +11,34 @@
             "id": "34ed85397bbdb331",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "GDD/Arsenal-Equipamentos-Armas-Acessórios/Armas.md",
-                "mode": "source",
-                "source": false
+                "file": "Canvas/_Fluxos.canvas",
+                "viewState": {
+                  "x": 384.6381741947467,
+                  "y": 1150.3741722109482,
+                  "zoom": 0.3653945425656315
+                }
               },
-              "icon": "lucide-file",
-              "title": "Armas"
+              "icon": "lucide-layout-dashboard",
+              "title": "_Fluxos"
+            }
+          },
+          {
+            "id": "776aaf88d5dbe385",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Canvas/_CreativeBoard.canvas",
+                "viewState": {
+                  "x": 4280,
+                  "y": -2800,
+                  "zoom": -3.566078788174796
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "_CreativeBoard"
             }
           }
         ]
@@ -78,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 276.5
   },
   "right": {
     "id": "daf0d53b002ec91d",
@@ -168,35 +188,34 @@
   },
   "active": "34ed85397bbdb331",
   "lastOpenFiles": [
-    "GDD/Arsenal-Equipamentos-Armas-Acessórios/Acessórios.md",
-    "GDD/Arsenal-Equipamentos-Armas-Acessórios/_Arsenal.md",
+    "Canvas/_CreativeBoard.canvas",
+    "Canvas/_Fluxos.canvas",
+    "GDD/Raças/Terráqueos.md",
+    "GDD/Raças/Kaltherianos.md",
+    "GDD/Gameplay/Exploração.md",
+    "GDD/Gameplay/Banco.md",
+    "GDD/Gameplay/_Gameplay e Controles.md",
+    "GDD/Arsenal-Equipamentos-Armas-Acessórios/Itens Mão Secundária.md",
     "GDD/Arsenal-Equipamentos-Armas-Acessórios/Itens Mão Primária.md",
     "GDD/Arsenal-Equipamentos-Armas-Acessórios/Equipamentos.md",
+    "GDD/___Dúvidas.Início/_Biblioteca de Nomenclaturas.md",
+    "GDD/___Dúvidas.Início/Referências BeatEmUp.md",
+    "GDD/___Dúvidas.Início/__Dúvidas Tabela de Conteúdo.md",
+    "GDD/___Dúvidas.Início/__Briefing.md",
+    "GDD/Arsenal-Equipamentos-Armas-Acessórios/Acessórios.md",
     "GDD/Arsenal-Equipamentos-Armas-Acessórios/Armas.md",
-    "GDD/Arsenal-Equipamentos-Armas-Acessórios/Itens Mão Secundária.md",
+    "GDD/Atributos e Status/Definição Atributos.md",
+    "GDD/Atributos e Status/_Status.md",
+    "GDD/Atributos e Status/_Atributos.md",
+    "GDD/Arsenal-Equipamentos-Armas-Acessórios/_Arsenal.md",
+    "GDD/Gameplay/Missões.md",
+    "GDD/Gameplay/Forja.md",
     "GDD/Classes/Soldados/Soldados Terráqueos.md",
     "GDD/Classes/Soldados/Soldados Kaltherianos.md",
     "GDD/Classes/Soldados/Soldados Geral.md",
-    "GDD/Gameplay/_Gameplay e Controles.md",
-    "GDD/Gameplay/Banco.md",
-    "GDD/Gameplay/Exploração.md",
-    "GDD/Gameplay/Forja.md",
-    "GDD/Gameplay/Missões.md",
-    "GDD/Raças/Terráqueos.md",
-    "GDD/Raças/Kaltherianos.md",
     "GDD/Sistemas de Raças.md",
     "GDD/Fórmulas e Cálculos.md",
-    "GDD/Atributos e Status/Definição Atributos.md",
-    "GDD/Atributos e Status/_Atributos.md",
-    "GDD/Atributos e Status/_Status.md",
-    "GDD/___Dúvidas.Início/Referências BeatEmUp.md",
-    "GDD/Atributos e Status/Ordem Primários e Secundários.md",
-    "GDD/___Dúvidas.Início/_Biblioteca de Nomenclaturas.md",
     "GDD/Atributos e Status",
-    "Canvas/_Fluxos.canvas",
-    "GDD/___Dúvidas.Início/__Dúvidas Tabela de Conteúdo.md",
-    "GDD/___Dúvidas.Início/__Briefing.md",
-    "Canvas/_CreativeBoard.canvas",
     "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos24.png",
     "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos25.png",
     "ArtRef/IMGs_ReffsJogos/WoWCharacterPassives.png",
