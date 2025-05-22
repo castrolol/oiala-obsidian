@@ -5,7 +5,7 @@
 - [[_Status]]
 - [[_Arsenal]] 
 - [[Sistemas de Raças]]
-- [[_Gameplay e Controles]]
+- [[_Gameplay-PrimeiraGameplay]]
 - [[Banco]]
 - [[Exploração]]
 - [[Forja]]

@@ -1,3 +1,4 @@
+
 # Core
 
 - A ideia principal do jogo é [[Exploração]], acumular [[Recursos]], [[Progressão]] dos seus personagens.
@@ -46,36 +47,3 @@
 	- Arsenal Base determinados pela Raça do personagem
 		- Todos Equipamentos Level 01
 		- Todos Equipamentos Raridade 00
-
-# Controles
-
-### Teclado Mouse
-- Movimentação Básica
-	- Através do padrão WASD 
-- Esquiva
-	- Botão Meio Mouse
-		- Usuário executa uma Esquiva se deslocando rapidamente e ficando invulnerável durante sua execução
-- Pulo
-	- Espaço
-		- É... ele Pula?
-		- Pulo Duplo??????
-- Ataque Básico
-	- Botão Esquerdo do Mouse
-		- Utilização do Ataque Básico da Arma em utilização
-- R
-	- Habilidade Única da Arma
-		- 
-- Habilidade 2
-	- Número 2
-- Habilidade 3
-	- Número 3
-- Habilidade 4
-	- Número 4
-- Consumível 1
-	- Q
-- Consumível 2
-	- E
-
-
-
-
