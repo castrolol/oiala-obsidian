@@ -53,13 +53,17 @@
 - Movimentação Básica
 	- Através do padrão WASD 
 - Esquiva
-	- Espaço
+	- Botão Meio Mouse
 		- Usuário executa uma Esquiva se deslocando rapidamente e ficando invulnerável durante sua execução
+- Pulo
+	- Espaço
+		- É... ele Pula?
+		- Pulo Duplo??????
 - Ataque Básico
 	- Botão Esquerdo do Mouse
 		- Utilização do Ataque Básico da Arma em utilização
-- Habilidade 1
-	- Número 1
+- R
+	- Habilidade Única da Arma
 		- 
 - Habilidade 2
 	- Número 2

@@ -15,9 +15,9 @@
               "state": {
                 "file": "Canvas/_CreativeBoard.canvas",
                 "viewState": {
-                  "x": 6669.13290263929,
-                  "y": -4044.7403604092683,
-                  "zoom": -0.3333333333333332
+                  "x": -3394.0736912293105,
+                  "y": -3355.7064934400887,
+                  "zoom": -0.5354511108424256
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 243.5
   },
   "right": {
     "id": "daf0d53b002ec91d",
@@ -188,13 +188,13 @@
   },
   "active": "34ed85397bbdb331",
   "lastOpenFiles": [
-    "Canvas/_Fluxos.canvas",
+    "GDD/Gameplay/_Gameplay e Controles.md",
     "Canvas/_CreativeBoard.canvas",
+    "Canvas/_Fluxos.canvas",
     "GDD/Raças/Terráqueos.md",
     "GDD/Raças/Kaltherianos.md",
     "GDD/Gameplay/Exploração.md",
     "GDD/Gameplay/Banco.md",
-    "GDD/Gameplay/_Gameplay e Controles.md",
     "GDD/Arsenal-Equipamentos-Armas-Acessórios/Itens Mão Secundária.md",
     "GDD/Arsenal-Equipamentos-Armas-Acessórios/Itens Mão Primária.md",
     "GDD/Arsenal-Equipamentos-Armas-Acessórios/Equipamentos.md",
