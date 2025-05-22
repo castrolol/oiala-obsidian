@@ -25,17 +25,14 @@
             "id": "041b3e8884976b79",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canvas/_CreativeBoard.canvas",
-                "viewState": {
-                  "x": -2839.8398233941953,
-                  "y": 558.1504997213051,
-                  "zoom": -1
-                }
+                "file": "GDD/Gameplay/Controles.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "_CreativeBoard"
+              "icon": "lucide-file",
+              "title": "Controles"
             }
           },
           {
@@ -203,14 +200,14 @@
   },
   "active": "041b3e8884976b79",
   "lastOpenFiles": [
-    "GDD/Gameplay/_Gameplay-PrimeiraGameplay.md",
-    "GDD/Gameplay/Controles.md",
+    "GDD/Gameplay/Exploração.md",
+    "GDD/Gameplay/Banco.md",
     "Canvas/_CreativeBoard.canvas",
+    "GDD/Gameplay/Controles.md",
+    "GDD/Gameplay/_Gameplay-PrimeiraGameplay.md",
     "Canvas/_Fluxos.canvas",
     "GDD/Raças/Terráqueos.md",
     "GDD/Raças/Kaltherianos.md",
-    "GDD/Gameplay/Exploração.md",
-    "GDD/Gameplay/Banco.md",
     "GDD/Arsenal-Equipamentos-Armas-Acessórios/Itens Mão Secundária.md",
     "GDD/Arsenal-Equipamentos-Armas-Acessórios/Itens Mão Primária.md",
     "GDD/Arsenal-Equipamentos-Armas-Acessórios/Equipamentos.md",
@@ -230,7 +227,6 @@
     "GDD/Classes/Soldados/Soldados Kaltherianos.md",
     "GDD/Classes/Soldados/Soldados Geral.md",
     "GDD/Sistemas de Raças.md",
-    "GDD/Fórmulas e Cálculos.md",
     "GDD/Atributos e Status",
     "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos24.png",
     "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos25.png",

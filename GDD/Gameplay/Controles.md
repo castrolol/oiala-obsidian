@@ -3,9 +3,9 @@
 ### Teclado Mouse
 - Movimentação Básica
 	- Através do padrão WASD 
-- Esquiva
+- Habilidade Ativa Arma
 	- Botão Meio Mouse
-		- Usuário executa uma Esquiva se deslocando rapidamente e ficando invulnerável durante sua execução
+		- Cada tipo de Arma terá uma Habilidade Única
 - Pulo
 	- Espaço
 		- É... ele Pula?
