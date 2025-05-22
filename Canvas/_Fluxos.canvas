@@ -9,26 +9,11 @@
 		{"id":"6d982993709305fb","type":"text","text":"First Screen","x":-320,"y":-420,"width":250,"height":60,"color":"2"},
 		{"id":"bfaa829ef5a0c40b","type":"text","text":"Features\n- Seleção Personagem\n- Criação Novo Personagem\n- Deletar Personagem\n- Criação Lobby\n- Procurar Lobby\n- Single Player\n- Lista de Amigos\n- Opções","x":-320,"y":-360,"width":250,"height":480,"color":"2"},
 		{"id":"29bcfc42098c4a7f","type":"text","text":"Login","x":-660,"y":-420,"width":250,"height":60,"color":"2"},
-		{"id":"0608d8d8f8a87b8f","x":617,"y":880,"width":323,"height":60,"type":"text","text":"- Talentos Geram Bônus Passivos "},
-		{"id":"34cf7a35824d383f","x":1165,"y":960,"width":250,"height":60,"type":"text","text":"HABILIDADES???"},
-		{"id":"6899f4d4d6844c71","x":1165,"y":1064,"width":250,"height":60,"type":"text","text":"Como o usuário utiliza essas habilidades?"},
-		{"id":"2e4c4445c29df6d3","type":"text","text":"Habilidades vem de Hotkeys?","x":1290,"y":1164,"width":250,"height":60},
-		{"id":"905d1b154ac16a0e","type":"text","text":"Habilidades vem de Combos?","x":1040,"y":1164,"width":250,"height":60},
-		{"id":"bc754e31cf49c1b0","type":"text","text":"Classes","x":-144,"y":885,"width":250,"height":50},
-		{"id":"15c9d404c3a3be21","type":"text","text":"Árvore de Talentos","x":192,"y":880,"width":330,"height":60},
-		{"id":"22fd9f4f2746b7fe","type":"text","text":"- Estilo da Gameplay\n- Combos Próprios da Arma\n","x":192,"y":1380,"width":330,"height":160},
-		{"id":"3204208ddef6d9b3","type":"text","text":"Armas","x":-144,"y":1430,"width":250,"height":60},
-		{"id":"f9ade54d11ca28c4","type":"text","text":"Equipamentos","x":-144,"y":1120,"width":250,"height":60},
-		{"id":"c4d0e11866ae1b40","type":"text","text":"- Atributos Primários\n- Atributos Secundários","x":192,"y":1100,"width":330,"height":100}
+		{"id":"2e4c4445c29df6d3","type":"text","text":"???Habilidades vem de Hotkeys???","x":1315,"y":1394,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"368e056dbcd8161a","fromNode":"29bcfc42098c4a7f","fromSide":"right","toNode":"6d982993709305fb","toSide":"left"},
 		{"id":"ef528c07b65a21b6","fromNode":"6d982993709305fb","fromSide":"right","toNode":"9704dea1c33d513c","toSide":"left"},
-		{"id":"46893c98476098f6","fromNode":"9704dea1c33d513c","fromSide":"right","toNode":"f2c04b5455e4359c","toSide":"left"},
-		{"id":"5ab900872916b1c7","fromNode":"f9ade54d11ca28c4","fromSide":"right","toNode":"c4d0e11866ae1b40","toSide":"left"},
-		{"id":"177d5ce72cced693","fromNode":"bc754e31cf49c1b0","fromSide":"right","toNode":"15c9d404c3a3be21","toSide":"left"},
-		{"id":"f5f320bc6561d43a","fromNode":"3204208ddef6d9b3","fromSide":"right","toNode":"22fd9f4f2746b7fe","toSide":"left"},
-		{"id":"e54e7b7cd2c65cd8","fromNode":"15c9d404c3a3be21","fromSide":"right","toNode":"0608d8d8f8a87b8f","toSide":"left"},
-		{"id":"a0bca1728a3212bd","fromNode":"34cf7a35824d383f","fromSide":"bottom","toNode":"6899f4d4d6844c71","toSide":"top"}
+		{"id":"46893c98476098f6","fromNode":"9704dea1c33d513c","fromSide":"right","toNode":"f2c04b5455e4359c","toSide":"left"}
 	]
 }

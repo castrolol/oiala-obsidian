@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Canvas/_Fluxos.canvas",
+                "file": "Canvas/_CreativeBoard.canvas",
                 "viewState": {
-                  "x": 384.6381741947467,
-                  "y": 1150.3741722109482,
-                  "zoom": 0.3653945425656315
+                  "x": 6706.439789082759,
+                  "y": -3475.6126211688443,
+                  "zoom": -0.3333333333333332
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "_Fluxos"
+              "title": "_CreativeBoard"
             }
           },
           {
@@ -188,8 +188,8 @@
   },
   "active": "34ed85397bbdb331",
   "lastOpenFiles": [
-    "Canvas/_CreativeBoard.canvas",
     "Canvas/_Fluxos.canvas",
+    "Canvas/_CreativeBoard.canvas",
     "GDD/Raças/Terráqueos.md",
     "GDD/Raças/Kaltherianos.md",
     "GDD/Gameplay/Exploração.md",
