@@ -25,14 +25,12 @@
             "id": "041b3e8884976b79",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "GDD/Gameplay/Controles.md",
-                "mode": "source",
-                "source": false
+                "file": "ArtRef/IMGs/AnimaçãoReff02.png"
               },
-              "icon": "lucide-file",
-              "title": "Controles"
+              "icon": "lucide-image",
+              "title": "AnimaçãoReff02"
             }
           },
           {
@@ -200,10 +198,11 @@
   },
   "active": "041b3e8884976b79",
   "lastOpenFiles": [
+    "ArtRef/IMGs/AnimaçãoReff01.png",
+    "GDD/Gameplay/Controles.md",
     "GDD/Gameplay/Exploração.md",
     "GDD/Gameplay/Banco.md",
     "Canvas/_CreativeBoard.canvas",
-    "GDD/Gameplay/Controles.md",
     "GDD/Gameplay/_Gameplay-PrimeiraGameplay.md",
     "Canvas/_Fluxos.canvas",
     "GDD/Raças/Terráqueos.md",
