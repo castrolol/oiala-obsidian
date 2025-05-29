@@ -4,54 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "a073bcfe90e94450",
+        "id": "35fc39414e1ff1ca",
         "type": "tabs",
         "children": [
           {
-            "id": "34ed85397bbdb331",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GDD/Gameplay/_Gameplay-PrimeiraGameplay.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "_Gameplay-PrimeiraGameplay"
-            }
-          },
-          {
-            "id": "041b3e8884976b79",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "ArtRef/IMGs/AnimaçãoReff02.png"
-              },
-              "icon": "lucide-image",
-              "title": "AnimaçãoReff02"
-            }
-          },
-          {
-            "id": "776aaf88d5dbe385",
+            "id": "b102aabff5eaa889",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Canvas/_CreativeBoard.canvas",
                 "viewState": {
-                  "x": 4280,
-                  "y": -2800,
-                  "zoom": -3.566078788174796
+                  "x": -2455.4122538672154,
+                  "y": -2356.229947320668,
+                  "zoom": -0.9999999999999998
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "_CreativeBoard"
             }
+          },
+          {
+            "id": "db8a3b4a0ae81c2d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot3/Lança-Chamas.md",
+                "file": "Canvas/_CreativeBoard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lança-Chamas"
+              "title": "Backlinks for _CreativeBoard"
             }
           },
           {
@@ -196,47 +179,49 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "041b3e8884976b79",
+  "active": "b102aabff5eaa889",
   "lastOpenFiles": [
-    "ArtRef/IMGs/AnimaçãoReff01.png",
-    "GDD/Gameplay/Controles.md",
-    "GDD/Gameplay/Exploração.md",
-    "GDD/Gameplay/Banco.md",
+    "GDD/___Dúvidas.Início/Referências BeatEmUp.md",
     "Canvas/_CreativeBoard.canvas",
+    "Teste.md",
     "GDD/Gameplay/_Gameplay-PrimeiraGameplay.md",
+    "GDD/___Dúvidas.Início/__Briefing.md",
+    "Pasted image 20250529200935.png",
+    "ArtRef/_DA_ArtRef.md",
+    "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos19.png",
+    "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos16.png",
+    "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos07.png",
+    "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos02.png",
+    "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo09.png",
+    "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo06.png",
+    "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo03.png",
+    "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo01.png",
+    "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos25.png",
+    "GDD/Atributos e Status/_Atributos.md",
+    "GDD/___Dúvidas.Início/__Sumário.md",
+    "GDD/___Dúvidas.Início/_Biblioteca de Nomenclaturas.md",
+    "GDD/Gameplay/Controles.md",
+    "GDD/Gameplay/Banco.md",
+    "GDD/Gameplay/Missões.md",
+    "GDD/Gameplay/Untitled/Untitled",
+    "GDD/Gameplay/Untitled",
+    "Untitled.canvas",
+    "GDD/Classes/Soldados/Lucas.md",
+    "Recursos.md",
+    "GDD/Gameplay/Exploração.md",
     "Canvas/_Fluxos.canvas",
     "GDD/Raças/Terráqueos.md",
     "GDD/Raças/Kaltherianos.md",
     "GDD/Arsenal-Equipamentos-Armas-Acessórios/Itens Mão Secundária.md",
     "GDD/Arsenal-Equipamentos-Armas-Acessórios/Itens Mão Primária.md",
     "GDD/Arsenal-Equipamentos-Armas-Acessórios/Equipamentos.md",
-    "GDD/___Dúvidas.Início/_Biblioteca de Nomenclaturas.md",
-    "GDD/___Dúvidas.Início/Referências BeatEmUp.md",
-    "GDD/___Dúvidas.Início/__Dúvidas Tabela de Conteúdo.md",
-    "GDD/___Dúvidas.Início/__Briefing.md",
     "GDD/Arsenal-Equipamentos-Armas-Acessórios/Acessórios.md",
     "GDD/Arsenal-Equipamentos-Armas-Acessórios/Armas.md",
     "GDD/Atributos e Status/Definição Atributos.md",
     "GDD/Atributos e Status/_Status.md",
-    "GDD/Atributos e Status/_Atributos.md",
     "GDD/Arsenal-Equipamentos-Armas-Acessórios/_Arsenal.md",
-    "GDD/Gameplay/Missões.md",
     "GDD/Gameplay/Forja.md",
-    "GDD/Classes/Soldados/Soldados Terráqueos.md",
-    "GDD/Classes/Soldados/Soldados Kaltherianos.md",
-    "GDD/Classes/Soldados/Soldados Geral.md",
-    "GDD/Sistemas de Raças.md",
     "GDD/Atributos e Status",
-    "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos24.png",
-    "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos25.png",
-    "ArtRef/IMGs_ReffsJogos/WoWCharacterPassives.png",
-    "ArtRef/IMGs_ReffsJogos/Teenage Mutant Ninja Turtles.png",
-    "ArtRef/IMGs_ReffsJogos/Rotwood.png",
-    "ArtRef/IMGs_ReffsJogos/Midnight Fight Express.png",
-    "ArtRef/IMGs_ReffsJogos/Castle Crashers.png",
-    "ArtRef/IMGs/Pasted image 20240919121130.png",
-    "ArtRef/IMGs/Pasted image 20240919120816.png",
-    "ArtRef/IMGs/AnimaçãoReff02.png",
     "Excalidraw",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot3",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot2",
@@ -244,8 +229,6 @@
     "GDD/Spells&Talents/Soldado/Spells Soldados",
     "GDD/___Dúvidas.Início",
     "GDD/Spells&Talents/Soldado",
-    "GDD/Spells&Talents",
-    "GDD/Raças",
     "_Fluxos.canvas",
     "_CreativeBoard.canvas",
     "_BoardOiala.canvas"
