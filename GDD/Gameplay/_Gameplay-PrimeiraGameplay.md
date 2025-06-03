@@ -1,7 +1,7 @@
+
 # Core
 
 - A ideia principal do jogo é [[Exploração]], acumular [[Recursos]], [[Progressão]] dos seus personagens.
-
 
 # Primeira Gameplay
 
@@ -34,7 +34,7 @@
 	- O quadro de [[Missões]] já apresentaram [[Missões]] para ele aceitar
 	- O menu de [[Exploração]] deverá ser o foco principal do usuário neste momento, aqui ele deverá selecionar seu primeiro destino e partir para a exploração
 - Durante a exploração o usuário deverá derrotar todas as hordas de inimigo e acumular a maior quantidade de recursos que conseguir até chegar ao fim da exploração e retornar ao Hub
-- A partir do momento que o jogador retornar ao HUB ele poderá finalizar alguma [[Missões]], estocar qualquer recurso que desejar no [[Banco]] ou construir algum equipamento ou arma na [[Forja]], caso ele tenha acumulado recursos o suficiente
+- A partir do momento que o jogador retornar ao HUB ele poderá finalizar alguma [[Missões]], estocar qualquer recurso que desejar no [[Banco]] ou construir algum equipamento ou arma na [[Forja]], caso ele tenha acumulado recursos o suficiente, [[
 
 
 - # Personagem Inicial
@@ -42,21 +42,8 @@
 	- Level 01
 	- Com Raça Determinada na criação do Personagem e Imutável após isto
 		- Trazendo os Atributos e Habilidades Passivas
-	- Com Classe Determinada na criação do Personagem e Imutável após isto
+	- Com Classe Determinada na criação do Personagem
 		- Trazendo as Spells Únicas iniciais
 	- Arsenal Base determinados pela Raça do personagem
 		- Todos Equipamentos Level 01
 		- Todos Equipamentos Raridade 00
-	- Arma Base determinada pela Classe 
-		- Toda Arma Level 01
-		- Toda Arma Raridade 00
-
-
-# Controles
-
-### Movimentação
-
-- O jogador
-
-
-

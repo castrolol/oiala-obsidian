@@ -1,19 +1,15 @@
 - Conversamos sobre a ideia de trabalharmos em cima de um jogo do estilo BeatEmUp com elementos de Plataforma/RogueLike.
 - [[Referências BeatEmUp]]
 - [[_Biblioteca de Nomenclaturas]]
-- [[Atributos]]
-- [[Status]]
+- [[_Atributos]]
+- [[_Status]]
 - [[_Arsenal]] 
 - [[Sistemas de Raças]]
-- [[_Gameplay e Controles]]
+- [[_Gameplay-PrimeiraGameplay]]
 - [[Banco]]
 - [[Exploração]]
 - [[Forja]]
 - [[Missões]]
-- 
-
-
-
 
 
 
