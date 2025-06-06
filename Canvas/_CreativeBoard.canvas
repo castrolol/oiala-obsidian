@@ -242,24 +242,6 @@
       "y": -2220
     },
     {
-      "height": 359,
-      "id": "a663b03970fa07b3",
-      "label": "Group01",
-      "type": "group",
-      "width": 694,
-      "x": -3020,
-      "y": -6720
-    },
-    {
-      "height": 140,
-      "id": "d65d403541b2ddde",
-      "label": "Untitled group",
-      "type": "group",
-      "width": 640,
-      "x": -2240,
-      "y": -6740
-    },
-    {
       "color": "1",
       "height": 2360,
       "id": "d10658c14705049b",
@@ -288,16 +270,6 @@
       "width": 1720,
       "x": 2380,
       "y": -3360
-    },
-    {
-      "color": "2",
-      "height": 1200,
-      "id": "e8491889c738102c",
-      "label": "Soldados Kaltherianos",
-      "type": "group",
-      "width": 4060,
-      "x": 8080,
-      "y": 140
     },
     {
       "color": "4",
@@ -369,6 +341,15 @@
       "y": -5120
     },
     {
+      "height": 359,
+      "id": "a663b03970fa07b3",
+      "label": "Group01",
+      "type": "group",
+      "width": 694,
+      "x": -3020,
+      "y": -6720
+    },
+    {
       "height": 320,
       "id": "bd6dc435b103bb0d",
       "label": "Funcionamento Habilidades",
@@ -378,260 +359,23 @@
       "y": 40
     },
     {
-      "height": 853,
-      "id": "e1258947e98d804c",
-      "text": "Direções Iniciais\n\n- Queremos criar uma experiência divertida e casual;\n- Um ambiente onde você possa se juntar com seus amigos e ter a possibilidade de planejar como irão enfrentar os próximos desafios e gerarem combinações de builds para enfrentar esses desafios.\n\nSistemas Iniciais Comentados\n\n- Personagens únicos, com habilidades passivas únicas;\n- Combinação de equipamentos gerando habilidades;\n- Elementos que alteram suas habilidades passivas e ativas durante a gameplay, gerando uma variabilidade;\n- Construção de novos equipamentos, ampliando possibilidade de builds;\n- Interações com cenários\n- Combos novos durante a run",
-      "type": "text",
-      "width": 345,
-      "x": -2953,
-      "y": -3233
-    },
-    {
-      "color": "1",
-      "height": 123,
-      "id": "03f90d197a885e0c",
-      "text": "Explorar Planetas",
-      "type": "text",
-      "width": 412,
-      "x": -1255,
-      "y": -2874
-    },
-    {
-      "color": "5",
-      "height": 453,
-      "id": "8a0402e04a97a7f7",
-      "text": "- Exploração de Planetas para resolver quests e descobrir tesouros\n- Exploração Coop - Amigos ou matchmaking",
-      "type": "text",
-      "width": 412,
-      "x": -1255,
-      "y": -2700
-    },
-    {
-      "color": "1",
-      "height": 123,
-      "id": "ca4d0954da41e68e",
-      "text": "Subir de Level",
-      "type": "text",
-      "width": 412,
-      "x": -794,
-      "y": -2874
-    },
-    {
-      "color": "5",
-      "height": 453,
-      "id": "26a39d16b63bc6cc",
-      "text": "- Acúmulo de experiência em relação a dificuldade dos desafios vencidos",
-      "type": "text",
-      "width": 412,
-      "x": -794,
-      "y": -2700
-    },
-    {
-      "color": "1",
-      "height": 123,
-      "id": "875457aa1c398286",
-      "text": "Acumular Recursos",
-      "type": "text",
-      "width": 412,
-      "x": -332,
-      "y": -2874
-    },
-    {
-      "color": "5",
-      "height": 123,
-      "id": "0b2c94fd4d7028d3",
-      "text": "- Loot",
-      "type": "text",
-      "width": 412,
-      "x": -332,
-      "y": -2700
-    },
-    {
-      "color": "5",
-      "height": 123,
-      "id": "7d119dcb2c760c37",
-      "text": "- Recompensas Quests",
-      "type": "text",
-      "width": 412,
-      "x": -332,
-      "y": -2534
-    },
-    {
-      "color": "5",
-      "height": 123,
-      "id": "25d6a2f0fe8b60ff",
-      "text": "- Loots Únicos Bosses",
-      "type": "text",
-      "width": 412,
-      "x": -332,
-      "y": -2370
-    },
-    {
-      "color": "1",
-      "height": 123,
-      "id": "0801754171fc4840",
-      "text": "Construir Equipamentos",
-      "type": "text",
-      "width": 412,
-      "x": 129,
-      "y": -2874
-    },
-    {
-      "file": "ArtRef/IMGs_ReffsJogos/WoWCharacterPassives.png",
-      "height": 395,
-      "id": "9fe6ce854fca959e",
-      "type": "file",
-      "width": 327,
-      "x": -2581,
-      "y": -3233
-    },
-    {
-      "color": "6",
-      "height": 906,
-      "id": "8ff059ec65211f4a",
-      "text": "No Menu Principal o usuário consegue visualizar seus personagens existentes e criar novos personagens. Após selecionar seu personagem e dar o play o jogador passará por um loading e irá para a tela do HUB. Dentro da tela do HUB o usuário poderá executar algumas ações como criar equipamentos, melhorar seus equipamentos, alterar sua build e receber quests. \n==Durante sua permanência do HUB o usuário irá enxergar alguns outros jogadores também andando pelo HUB, como se todos estivessem no mesmo canal e terá algumas opções simples como adicionar essas pessoas como amigos, chamar para o grupo e visualizar os equipamentos, dentro do hub o usuário também pode utilizar o chat, tanto local quanto global.== Após formar um grupo todos os membros desse grupo passam a estar no mesmo canal.\nAgora com um grupo formado os usuários prosseguem para o quadro de missões checar se existe alguma quest disponível interessante, após o grupo decidir quais quests desejam fazer eles partem para o menu de exploração onde irão escolher seu destino de viagem. \nA escolha do destino de viagem acontece apenas através de uma tela de opções e o jogador é teleportado para o seu destino.\nTodos os jogadores aparecem no inicio do level e devem começar a se movimentar pelo mapa para explorar o ambiente. Durante a exploração o jogador e o grupo deverão escolher caminhos a seguir dentro de cada mapa e vencer desafios como armadilhas e inimigos. ",
-      "type": "text",
-      "width": 2257,
-      "x": -1255,
-      "y": -2205
-    },
-    {
-      "color": "3",
-      "height": 123,
-      "id": "f9bd1eb7fb0f80a0",
-      "text": "\tCore Loop",
-      "type": "text",
-      "width": 412,
-      "x": -332,
-      "y": -3276
-    },
-    {
-      "height": 551,
-      "id": "92d1b7bfb0f031ba",
-      "text": "### **Vampire Survivors**\n\n- **Jogabilidade Simples e Viciante:** O jogador controla o personagem principalmente através da movimentação, enquanto habilidades automáticas atacam os inimigos. O objetivo é sobreviver ao maior número possível de ondas de inimigos.\n- **Crescimento Rápido de Poder:** O jogador rapidamente acumula habilidades e armas que transformam seu personagem em uma verdadeira máquina de destruição conforme o jogo avança.\n- **Progressão Constante:** O jogo oferece upgrades e evoluções de habilidades de maneira constante, incentivando múltiplas tentativas (\"runs\") curtas e recompensadoras.\n- **Acessibilidade:** A simplicidade dos controles e a curta duração das sessões tornam o jogo altamente acessível, permitindo que seja fácil de começar e difícil de parar.",
-      "type": "text",
-      "width": 345,
-      "x": -2798,
-      "y": -2298
-    },
-    {
-      "height": 53,
-      "id": "333b6b1a84e7213e",
-      "text": "### **Diferentes posicionamentos de câmeras em BeatEmUp's**",
-      "type": "text",
-      "width": 968,
-      "x": -2401,
-      "y": -2280
-    },
-    {
-      "file": "ArtRef/IMGs_ReffsJogos/Teenage Mutant Ninja Turtles.png",
-      "height": 261,
-      "id": "047294bb906b7916",
-      "type": "file",
-      "width": 465,
-      "x": -2401,
-      "y": -2183
-    },
-    {
-      "file": "ArtRef/IMGs_ReffsJogos/Midnight Fight Express.png",
-      "height": 260,
-      "id": "22fce1bdd8c7aefe",
-      "type": "file",
-      "width": 465,
-      "x": -2401,
-      "y": -1871
-    },
-    {
-      "file": "ArtRef/IMGs_ReffsJogos/AlbionSkills.png",
-      "height": 395,
-      "id": "5fe279268c6a0b14",
-      "type": "file",
-      "width": 399,
+      "height": 140,
+      "id": "d65d403541b2ddde",
+      "label": "Group02",
+      "type": "group",
+      "width": 640,
       "x": -2240,
-      "y": -3233
+      "y": -6740
     },
     {
-      "height": 395,
-      "id": "40ac99465dd32699",
-      "text": "- Raças\n\t- Skills Passivas\n\t- Status\n- Equipamentos\n\t- Quais sao eles\n\t- Skills\n\t- Status\n- Armas\n\t- Quais sao eles\n\t- Skills\n\t- Spells\n\t- Status\n\t- Sistemas Combos\n- Movimentação do Jogador\n\t- Ações\n- Resumo\n\t- Sistema de Status\n\t- Ailments\n\t- ",
-      "type": "text",
-      "width": 300,
-      "x": -1820,
-      "y": -3233
-    },
-    {
-      "color": "1",
-      "height": 60,
-      "id": "f31fdd5b6ae4438e",
-      "text": "- Classe 1",
-      "type": "text",
-      "width": 148,
-      "x": -3060,
-      "y": 230
-    },
-    {
-      "height": 60,
-      "id": "96bbc099e35f0b78",
-      "text": "???Como o usuário utiliza essas habilidades???",
-      "type": "text",
-      "width": 250,
-      "x": -3810,
-      "y": 160
-    },
-    {
-      "color": "1",
-      "height": 60,
-      "id": "7526943fa5cac156",
-      "text": "- Talentos Geram Bônus Passivos 1",
-      "type": "text",
-      "width": 323,
-      "x": -2597,
-      "y": 170
-    },
-    {
-      "height": 60,
-      "id": "1f0bd691da3606f1",
-      "text": "???HABILIDADES???",
-      "type": "text",
-      "width": 250,
-      "x": -3810,
-      "y": 70
-    },
-    {
-      "height": 270,
-      "id": "58a46c1759cfd298",
-      "text": "- Regras de Talentos\n--------------------------------\n- Quantidade total de pontos para ser distribuída entre todas as Árvores\n- ",
-      "type": "text",
-      "width": 380,
-      "x": -2200,
-      "y": 170
-    },
-    {
-      "file": "ArtRef/IMGs_ReffsJogos/Castle Crashers.png",
-      "height": 262,
-      "id": "37323a65dbb4ede7",
-      "type": "file",
-      "width": 466,
-      "x": -1899,
-      "y": -2184
-    },
-    {
-      "file": "ArtRef/IMGs_ReffsJogos/Rotwood.png",
-      "height": 261,
-      "id": "9a6551cc08490d3e",
-      "type": "file",
-      "width": 464,
-      "x": -1896,
-      "y": -1872
-    },
-    {
-      "file": "ArtRef/IMGs/TowerBorne.png",
-      "height": 258,
-      "id": "9b019780f6539c88",
-      "type": "file",
-      "width": 461,
-      "x": -2401,
-      "y": -1557
+      "color": "2",
+      "height": 1200,
+      "id": "e8491889c738102c",
+      "label": "Soldados Kaltherianos",
+      "type": "group",
+      "width": 4060,
+      "x": 8080,
+      "y": 140
     },
     {
       "height": 60,
@@ -672,16 +416,6 @@
       "y": 595
     },
     {
-      "color": "1",
-      "height": 60,
-      "id": "6ad88df25f9e487e",
-      "text": "- Skills Combos 1",
-      "type": "text",
-      "width": 323,
-      "x": -2597,
-      "y": 290
-    },
-    {
       "height": 80,
       "id": "c04f1fad1ed51e92",
       "text": "- Atributos Primários\n- Atributos Secundários",
@@ -701,34 +435,6 @@
       "y": 655
     },
     {
-      "color": "1",
-      "height": 60,
-      "id": "37bf4cbbbf599a67",
-      "text": "- Árvore de Talentos 1",
-      "type": "text",
-      "width": 240,
-      "x": -2877,
-      "y": 230
-    },
-    {
-      "height": 60,
-      "id": "02b38d5f4a64d807",
-      "text": "???Habilidades vem de Combos???",
-      "type": "text",
-      "width": 250,
-      "x": -3935,
-      "y": 280
-    },
-    {
-      "height": 60,
-      "id": "73bc774f382d6031",
-      "text": "???Habilidades vem de Hotkeys???",
-      "type": "text",
-      "width": 250,
-      "x": -3685,
-      "y": 280
-    },
-    {
       "height": 50,
       "id": "f8431eeb0c089b8b",
       "text": "Classes",
@@ -746,15 +452,6 @@
       "width": 323,
       "x": -2597,
       "y": 500
-    },
-    {
-      "height": 190,
-      "id": "cf48e1789dd49da1",
-      "text": "- Seleção de Classe\n- Usuário tem Acesso a um número de Classes inicialmente\n- Desbloqueio de Novas Classes através de Quests\n- Ativação de até 3 Classes ao mesmo tempo, porém, não obrigatoriamente\n- Usuário pode alterar as classes ativas somente no HUB",
-      "type": "text",
-      "width": 508,
-      "x": -3628,
-      "y": 375
     },
     {
       "height": 140,
@@ -794,386 +491,6 @@
       "width": 240,
       "x": -2877,
       "y": 440
-    },
-    {
-      "color": "2",
-      "height": 60,
-      "id": "f3ec057cad78db1b",
-      "text": "- Talentos Geram Bônus Passivos 2",
-      "type": "text",
-      "width": 323,
-      "x": -2597,
-      "y": 380
-    },
-    {
-      "height": 551,
-      "id": "dd37258ce74a3e49",
-      "text": "### **Beat 'Em Up**\n\n- **Foco no Combate:** A mecânica principal é lutar contra ondas de inimigos em combate corpo a corpo ou com armas simples. O combate é geralmente rápido e direto.\n- **Movimentação Linear:** O jogador se move lateralmente ou em uma perspectiva isométrica, avançando através de níveis enquanto enfrenta diversos inimigos.\n- **Variedade de Inimigos e Chefes:** Os inimigos têm diferentes padrões de ataque, e o jogador geralmente enfrenta chefes mais fortes ao final das fases.\n- **Cooperação:** Muitos desses jogos permitem multiplayer cooperativo local, permitindo que os jogadores enfrentem inimigos juntos.",
-      "type": "text",
-      "width": 345,
-      "x": -3935,
-      "y": -2298
-    },
-    {
-      "file": "GDD/Raças/Kaltherianos.md",
-      "height": 1084,
-      "id": "b66f60066ae74abc",
-      "type": "file",
-      "width": 660,
-      "x": 3380,
-      "y": -2220
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos19.png",
-      "height": 190,
-      "id": "b335490144adc436",
-      "type": "file",
-      "width": 188,
-      "x": 3075,
-      "y": -1564
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos15.png",
-      "height": 195,
-      "id": "60e821aedde4b5a1",
-      "type": "file",
-      "width": 185,
-      "x": 3154,
-      "y": -1779
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos23.png",
-      "height": 195,
-      "id": "66cabc31de2ffe4f",
-      "type": "file",
-      "width": 140,
-      "x": 3033,
-      "y": -1331
-    },
-    {
-      "file": "GDD/___Dúvidas.Início/Referências BeatEmUp.md",
-      "height": 853,
-      "id": "b83516761cbad39c",
-      "type": "file",
-      "width": 379,
-      "x": -3384,
-      "y": -3233
-    },
-    {
-      "height": 1258,
-      "id": "fd036d864740101a",
-      "text": "### **BeatEmUp x ActionRPG**\n\n### **Foco no Combate e na Jogabilidade**:\n\n- **RPG de Ação**:\n    - Combina combate em tempo real com elementos de RPG, como progressão de personagem, melhoria de habilidades e narrativa.\n    - Os jogadores enfrentam combates enquanto gerenciam atributos (vida, mana, habilidades), evoluindo os personagens e tomando decisões estratégicas sobre equipamentos e habilidades.\n    - O combate é geralmente mais complexo, envolvendo combos, magias e táticas variadas.\n    - **Exemplos**: _The Witcher 3_, _Dark Souls_, _Diablo_.\n- **Beat 'Em Up**:\n    - Foca em combate corpo a corpo com controles simples (soco, chute, pulo) contra ondas de inimigos.\n    - A jogabilidade é frequentemente linear, com o jogador avançando através de níveis e enfrentando inimigos em combates próximos.\n    - Há pouca progressão de personagem além de pegar power-ups ou upgrades simples.\n    - **Exemplos**: _Streets of Rage_, _Double Dragon_, _Final Fight_.\n### **Progressão e História**:\n\n- **RPG de Ação**:\n    - Histórias profundas, exploração de mundo e personalização de personagem são centrais. As escolhas geralmente afetam o desfecho da história.\n    - A progressão do personagem é um elemento-chave, com pontos de experiência, árvores de habilidades e criação de equipamentos.\n    - A narrativa geralmente tem um papel significativo, com missões e lore (história).\n- **Beat 'Em Up**:\n    - A história é muitas vezes secundária ao combate, girando em torno de objetivos simples, como resgatar um personagem ou derrotar um vilão.\n    - A progressão é baseada na conclusão de níveis e derrota de inimigos, com ênfase limitada no desenvolvimento dos personagens ao longo do tempo.\n\n### **Estrutura de Jogabilidade**:\n\n- **RPG de Ação**:\n    - Estrutura de mundo aberto ou semi-aberto, onde os jogadores podem explorar no seu próprio ritmo, realizar missões secundárias e interagir com NPCs.\n    - O combate é muitas vezes combinado com exploração, resolução de quebra-cabeças e coleta de itens.\n- **Beat 'Em Up**:\n    - Baseado em níveis, com o jogador avançando através de estágios e lutando contra grupos de inimigos. O foco está em sequências de ação rápidas e curtas.\n    - Os níveis são geralmente lineares, com exploração ou interação limitada fora do combate.\n\n### **Multiplayer**:\n\n- **RPG de Ação**:\n    - Embora alguns RPGs de ação ofereçam modos multiplayer ou cooperativo (_Diablo_), o foco costuma ser em experiências single-player com mundos imersivos.\n- **Beat 'Em Up**:\n    - Frequentemente projetado para multiplayer cooperativo local, onde dois ou mais jogadores se unem para lutar lado a lado contra inimigos.\n    - O elemento cooperativo é uma parte importante do apelo dos jogos _Beat 'Em Up_.\n\n### **Complexidade**:\n\n- **RPG de Ação**:\n    - Mais complexo, com sistemas como criação de itens, gerenciamento de inventário e escolhas narrativas profundas.\n- **Beat 'Em Up**:\n    - Mais simples e direto, com foco no combate e ação, em vez de decisões estratégicas ou narrativas profundas.\n\n### Conclusão:\n\n- **RPGs de Ação** são mais complexos, combinando combate em tempo real com progressão de personagem, exploração de mundo e narrativa profunda.\n- **Beat 'Em Up** são mais simples, focando em combates rápidos e ação direta, com progressão e narrativa limitadas.",
-      "type": "text",
-      "width": 1482,
-      "x": -3935,
-      "y": -1712
-    },
-    {
-      "height": 551,
-      "id": "64c1f9d6d192b1a2",
-      "text": "### **Plataforma**\n\n- **Jogabilidade Baseada em Saltos:** A movimentação principal envolve pular entre plataformas, evitar armadilhas e inimigos, além de resolver pequenos quebra-cabeças.\n- **Níveis Bem Elaborados:** Os níveis são desenhados para serem desafiadores, exigindo precisão no movimento e habilidades específicas para avançar.\n- **Exploração:** Muitos jogos de plataforma incentivam a exploração, escondendo segredos e itens que ampliam a jogabilidade ou dão novas habilidades.\n- **Controle Preciso:** O controle do personagem precisa ser fluido e responsivo para que o jogador tenha domínio total sobre os saltos e movimentos.",
-      "type": "text",
-      "width": 345,
-      "x": -3556,
-      "y": -2298
-    },
-    {
-      "height": 551,
-      "id": "942e1103f3722bae",
-      "text": "### **Rogue-Like**\n\n- **Geração Procedural:** Os níveis são gerados aleatoriamente, proporcionando novas experiências a cada jogada.\n- **Permadeath (Morte Permanente):** Se o jogador morre, ele perde todo o progresso daquela tentativa, começando novamente do início.\n- **Desafios Progressivos:** Os desafios e inimigos se tornam progressivamente mais difíceis, forçando o jogador a se adaptar a cada novo cenário.\n- **Rejogabilidade:** O formato de gerar conteúdo novo a cada jogada faz com que o jogo tenha grande fator de rejogabilidade, recompensando a experimentação.",
-      "type": "text",
-      "width": 345,
-      "x": -3177,
-      "y": -2298
-    },
-    {
-      "color": "5",
-      "height": 453,
-      "id": "8bc92a11d767935b",
-      "text": "- Construção e melhoria dos equipamentos e armaduras através do loot acumulado durante suas explorações",
-      "type": "text",
-      "width": 874,
-      "x": 129,
-      "y": -2700
-    },
-    {
-      "file": "GDD/___Dúvidas.Início/__Sumário.md",
-      "height": 483,
-      "id": "059f109f892aff3e",
-      "type": "file",
-      "width": 345,
-      "x": -3935,
-      "y": -3048
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos08.png",
-      "height": 195,
-      "id": "d32e9e3d1a05acbd",
-      "type": "file",
-      "width": 125,
-      "x": 2787,
-      "y": -1994
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaTerráqueos/HumanMale02.png",
-      "height": 400,
-      "id": "889a00f9eca4ec6a",
-      "type": "file",
-      "width": 260,
-      "x": 2767,
-      "y": -3120
-    },
-    {
-      "file": "GDD/Raças/Terráqueos.md",
-      "height": 774,
-      "id": "8117397c5cd5f28e",
-      "type": "file",
-      "width": 660,
-      "x": 3380,
-      "y": -3120
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaTerráqueos/HumanMale03.png",
-      "height": 400,
-      "id": "3ea467c82365f834",
-      "type": "file",
-      "width": 324,
-      "x": 3027,
-      "y": -3120
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaTerráqueos/HumanFemale03.png",
-      "height": 294,
-      "id": "c3b88861282c142b",
-      "type": "file",
-      "width": 391,
-      "x": 2960,
-      "y": -2640
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos04.png",
-      "height": 195,
-      "id": "901d024a47e0be5e",
-      "type": "file",
-      "width": 146,
-      "x": 3008,
-      "y": -2220
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos09.png",
-      "height": 195,
-      "id": "248cf262d6b79641",
-      "type": "file",
-      "width": 199,
-      "x": 2936,
-      "y": -1994
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaTerráqueos/HumanMale01.png",
-      "height": 400,
-      "id": "d2c07414f5e61960",
-      "type": "file",
-      "width": 327,
-      "x": 2440,
-      "y": -3120
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos10.png",
-      "height": 195,
-      "id": "bf4b6bed70200b2b",
-      "type": "file",
-      "width": 169,
-      "x": 3154,
-      "y": -1994
-    },
-    {
-      "height": 75,
-      "id": "dd82f6f28d4bf89c",
-      "text": "Brainstorm inicial de possibilidades de Armas",
-      "type": "text",
-      "width": 270,
-      "x": 3650,
-      "y": -4515
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaTerráqueos/HumanFemale02.png",
-      "height": 293,
-      "id": "f9d903c48e9f710a",
-      "type": "file",
-      "width": 277,
-      "x": 2683,
-      "y": -2640
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos21.png",
-      "height": 195,
-      "id": "795e73b3dfd51dc5",
-      "type": "file",
-      "width": 146,
-      "x": 2719,
-      "y": -1331
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos18.png",
-      "height": 190,
-      "id": "4cd79524fab92887",
-      "type": "file",
-      "width": 190,
-      "x": 2857,
-      "y": -1564
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos14.png",
-      "height": 195,
-      "id": "5c7e916443a3f895",
-      "type": "file",
-      "width": 185,
-      "x": 2949,
-      "y": -1779
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos07.png",
-      "height": 195,
-      "id": "1a28b432d2da0cb8",
-      "type": "file",
-      "width": 147,
-      "x": 2613,
-      "y": -1994
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos06.png",
-      "height": 195,
-      "id": "abb24117196f7498",
-      "type": "file",
-      "width": 140,
-      "x": 2440,
-      "y": -1994
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos13.png",
-      "height": 195,
-      "id": "6ca409955ab251ce",
-      "type": "file",
-      "width": 171,
-      "x": 2765,
-      "y": -1779
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos22.png",
-      "height": 194,
-      "id": "6ad4324989b68f4a",
-      "type": "file",
-      "width": 135,
-      "x": 2886,
-      "y": -1331
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos03.png",
-      "height": 195,
-      "id": "fb3dfc02160ed422",
-      "type": "file",
-      "width": 166,
-      "x": 2822,
-      "y": -2220
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos05.png",
-      "height": 194,
-      "id": "d97b6e941ea26954",
-      "type": "file",
-      "width": 195,
-      "x": 3167,
-      "y": -2220
-    },
-    {
-      "file": "GDD/Sistemas de Raças.md",
-      "height": 517,
-      "id": "8265d0bb427ced27",
-      "type": "file",
-      "width": 1557,
-      "x": 343,
-      "y": -4897
-    },
-    {
-      "file": "GDD/Gameplay/_Gameplay-PrimeiraGameplay.md",
-      "height": 680,
-      "id": "1e550e09c8b1827c",
-      "type": "file",
-      "width": 1037,
-      "x": 343,
-      "y": -4340
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos02.png",
-      "height": 194,
-      "id": "0ef0e09bfe179a33",
-      "type": "file",
-      "width": 146,
-      "x": 2657,
-      "y": -2220
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos20.png",
-      "height": 195,
-      "id": "bbb96a35ace88b5f",
-      "type": "file",
-      "width": 145,
-      "x": 2562,
-      "y": -1331
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos11.png",
-      "height": 195,
-      "id": "fa3b2722ce4e72e9",
-      "type": "file",
-      "width": 173,
-      "x": 2440,
-      "y": -1779
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos16.png",
-      "height": 188,
-      "id": "0b1d483a86e1c082",
-      "type": "file",
-      "width": 195,
-      "x": 2440,
-      "y": -1564
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos01.png",
-      "height": 195,
-      "id": "0dff663e0a235c7c",
-      "type": "file",
-      "width": 194,
-      "x": 2440,
-      "y": -2220
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos12.png",
-      "height": 194,
-      "id": "0a4ccbd687e470df",
-      "type": "file",
-      "width": 119,
-      "x": 2629,
-      "y": -1779
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos17.png",
-      "height": 190,
-      "id": "9de948ead7e0d30a",
-      "type": "file",
-      "width": 176,
-      "x": 2657,
-      "y": -1564
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaTerráqueos/HumanFemale01.png",
-      "height": 293,
-      "id": "6966e6e6a8501d9b",
-      "type": "file",
-      "width": 243,
-      "x": 2440,
-      "y": -2640
     },
     {
       "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos19.png",
@@ -1228,16 +545,6 @@
       "width": 337,
       "x": 9602,
       "y": 945
-    },
-    {
-      "color": "1",
-      "height": 123,
-      "id": "fc6f1d2a9d3012f6",
-      "text": "Melhorar Equipamentos",
-      "type": "text",
-      "width": 412,
-      "x": 591,
-      "y": -2874
     },
     {
       "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos07.png",
@@ -1346,24 +653,6 @@
       "width": 262,
       "x": 11133,
       "y": 945
-    },
-    {
-      "file": "GDD/Classes/Soldados/Soldados Terráqueos.md",
-      "height": 1107,
-      "id": "8f5eeffa973edc85",
-      "type": "file",
-      "width": 880,
-      "x": 5380,
-      "y": 193
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo01.png",
-      "height": 279,
-      "id": "cf1c668bbaf10f67",
-      "type": "file",
-      "width": 256,
-      "x": 6300,
-      "y": 193
     },
     {
       "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos09.png",
@@ -1537,16 +826,6 @@
       "y": 920
     },
     {
-      "color": "#ff0000",
-      "file": "GDD/Classes/Soldados/Soldados Geral.md",
-      "height": 1200,
-      "id": "a7510185795750a2",
-      "type": "file",
-      "width": 960,
-      "x": 4380,
-      "y": 140
-    },
-    {
       "height": 60,
       "id": "bfe8e7bcd49a9b21",
       "text": "\t",
@@ -1595,6 +874,727 @@
       "width": 357,
       "x": -2700,
       "y": -6580
+    },
+    {
+      "file": "GDD/Sistemas de Raças.md",
+      "height": 517,
+      "id": "8265d0bb427ced27",
+      "type": "file",
+      "width": 1557,
+      "x": 343,
+      "y": -4897
+    },
+    {
+      "file": "GDD/Gameplay/_Gameplay-PrimeiraGameplay.md",
+      "height": 680,
+      "id": "1e550e09c8b1827c",
+      "type": "file",
+      "width": 1037,
+      "x": 343,
+      "y": -4340
+    },
+    {
+      "color": "3",
+      "height": 123,
+      "id": "f9bd1eb7fb0f80a0",
+      "text": "\tCore Loop",
+      "type": "text",
+      "width": 412,
+      "x": -332,
+      "y": -3276
+    },
+    {
+      "height": 853,
+      "id": "e1258947e98d804c",
+      "text": "Direções Iniciais\n\n- Queremos criar uma experiência divertida e casual;\n- Um ambiente onde você possa se juntar com seus amigos e ter a possibilidade de planejar como irão enfrentar os próximos desafios e gerarem combinações de builds para enfrentar esses desafios.\n\nSistemas Iniciais Comentados\n\n- Personagens únicos, com habilidades passivas únicas;\n- Combinação de equipamentos gerando habilidades;\n- Elementos que alteram suas habilidades passivas e ativas durante a gameplay, gerando uma variabilidade;\n- Construção de novos equipamentos, ampliando possibilidade de builds;\n- Interações com cenários\n- Combos novos durante a run",
+      "type": "text",
+      "width": 345,
+      "x": -2953,
+      "y": -3233
+    },
+    {
+      "file": "ArtRef/IMGs_ReffsJogos/WoWCharacterPassives.png",
+      "height": 395,
+      "id": "9fe6ce854fca959e",
+      "type": "file",
+      "width": 327,
+      "x": -2581,
+      "y": -3233
+    },
+    {
+      "file": "ArtRef/IMGs_ReffsJogos/AlbionSkills.png",
+      "height": 395,
+      "id": "5fe279268c6a0b14",
+      "type": "file",
+      "width": 399,
+      "x": -2240,
+      "y": -3233
+    },
+    {
+      "height": 395,
+      "id": "40ac99465dd32699",
+      "text": "- Raças\n\t- Skills Passivas\n\t- Status\n- Equipamentos\n\t- Quais sao eles\n\t- Skills\n\t- Status\n- Armas\n\t- Quais sao eles\n\t- Skills\n\t- Spells\n\t- Status\n\t- Sistemas Combos\n- Movimentação do Jogador\n\t- Ações\n- Resumo\n\t- Sistema de Status\n\t- Ailments\n\t- ",
+      "type": "text",
+      "width": 300,
+      "x": -1820,
+      "y": -3233
+    },
+    {
+      "file": "GDD/___Dúvidas.Início/__Sumário.md",
+      "height": 483,
+      "id": "059f109f892aff3e",
+      "type": "file",
+      "width": 345,
+      "x": -3935,
+      "y": -3048
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaTerráqueos/HumanMale02.png",
+      "height": 400,
+      "id": "889a00f9eca4ec6a",
+      "type": "file",
+      "width": 260,
+      "x": 2767,
+      "y": -3120
+    },
+    {
+      "file": "GDD/Raças/Terráqueos.md",
+      "height": 774,
+      "id": "8117397c5cd5f28e",
+      "type": "file",
+      "width": 660,
+      "x": 3380,
+      "y": -3120
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaTerráqueos/HumanMale03.png",
+      "height": 400,
+      "id": "3ea467c82365f834",
+      "type": "file",
+      "width": 324,
+      "x": 3027,
+      "y": -3120
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaTerráqueos/HumanMale01.png",
+      "height": 400,
+      "id": "d2c07414f5e61960",
+      "type": "file",
+      "width": 327,
+      "x": 2440,
+      "y": -3120
+    },
+    {
+      "color": "1",
+      "height": 123,
+      "id": "875457aa1c398286",
+      "text": "Acumular Recursos",
+      "type": "text",
+      "width": 412,
+      "x": -332,
+      "y": -2874
+    },
+    {
+      "color": "5",
+      "height": 123,
+      "id": "0b2c94fd4d7028d3",
+      "text": "- Loot",
+      "type": "text",
+      "width": 412,
+      "x": -332,
+      "y": -2700
+    },
+    {
+      "color": "5",
+      "height": 453,
+      "id": "8bc92a11d767935b",
+      "text": "- Construção e melhoria dos equipamentos e armaduras através do loot acumulado durante suas explorações",
+      "type": "text",
+      "width": 874,
+      "x": 129,
+      "y": -2700
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaTerráqueos/HumanFemale03.png",
+      "height": 294,
+      "id": "c3b88861282c142b",
+      "type": "file",
+      "width": 391,
+      "x": 2960,
+      "y": -2640
+    },
+    {
+      "height": 75,
+      "id": "dd82f6f28d4bf89c",
+      "text": "Brainstorm inicial de possibilidades de Armas",
+      "type": "text",
+      "width": 270,
+      "x": 3650,
+      "y": -4515
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaTerráqueos/HumanFemale02.png",
+      "height": 293,
+      "id": "f9d903c48e9f710a",
+      "type": "file",
+      "width": 277,
+      "x": 2683,
+      "y": -2640
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaTerráqueos/HumanFemale01.png",
+      "height": 293,
+      "id": "6966e6e6a8501d9b",
+      "type": "file",
+      "width": 243,
+      "x": 2440,
+      "y": -2640
+    },
+    {
+      "color": "1",
+      "height": 123,
+      "id": "fc6f1d2a9d3012f6",
+      "text": "Melhorar Equipamentos",
+      "type": "text",
+      "width": 412,
+      "x": 591,
+      "y": -2874
+    },
+    {
+      "color": "1",
+      "height": 123,
+      "id": "03f90d197a885e0c",
+      "text": "Explorar Planetas",
+      "type": "text",
+      "width": 412,
+      "x": -1255,
+      "y": -2874
+    },
+    {
+      "color": "5",
+      "height": 453,
+      "id": "8a0402e04a97a7f7",
+      "text": "- Exploração de Planetas para resolver quests e descobrir tesouros\n- Exploração Coop - Amigos ou matchmaking",
+      "type": "text",
+      "width": 412,
+      "x": -1255,
+      "y": -2700
+    },
+    {
+      "color": "1",
+      "height": 123,
+      "id": "ca4d0954da41e68e",
+      "text": "Subir de Level",
+      "type": "text",
+      "width": 412,
+      "x": -794,
+      "y": -2874
+    },
+    {
+      "color": "5",
+      "height": 453,
+      "id": "26a39d16b63bc6cc",
+      "text": "- Acúmulo de experiência em relação a dificuldade dos desafios vencidos",
+      "type": "text",
+      "width": 412,
+      "x": -794,
+      "y": -2700
+    },
+    {
+      "color": "5",
+      "height": 123,
+      "id": "7d119dcb2c760c37",
+      "text": "- Recompensas Quests",
+      "type": "text",
+      "width": 412,
+      "x": -332,
+      "y": -2534
+    },
+    {
+      "color": "1",
+      "height": 123,
+      "id": "0801754171fc4840",
+      "text": "Construir Equipamentos",
+      "type": "text",
+      "width": 412,
+      "x": 129,
+      "y": -2874
+    },
+    {
+      "file": "GDD/___Dúvidas.Início/Referências BeatEmUp.md",
+      "height": 853,
+      "id": "b83516761cbad39c",
+      "type": "file",
+      "width": 379,
+      "x": -3384,
+      "y": -3233
+    },
+    {
+      "color": "5",
+      "height": 123,
+      "id": "25d6a2f0fe8b60ff",
+      "text": "- Loots Únicos Bosses",
+      "type": "text",
+      "width": 412,
+      "x": -332,
+      "y": -2370
+    },
+    {
+      "height": 551,
+      "id": "92d1b7bfb0f031ba",
+      "text": "### **Vampire Survivors**\n\n- **Jogabilidade Simples e Viciante:** O jogador controla o personagem principalmente através da movimentação, enquanto habilidades automáticas atacam os inimigos. O objetivo é sobreviver ao maior número possível de ondas de inimigos.\n- **Crescimento Rápido de Poder:** O jogador rapidamente acumula habilidades e armas que transformam seu personagem em uma verdadeira máquina de destruição conforme o jogo avança.\n- **Progressão Constante:** O jogo oferece upgrades e evoluções de habilidades de maneira constante, incentivando múltiplas tentativas (\"runs\") curtas e recompensadoras.\n- **Acessibilidade:** A simplicidade dos controles e a curta duração das sessões tornam o jogo altamente acessível, permitindo que seja fácil de começar e difícil de parar.",
+      "type": "text",
+      "width": 345,
+      "x": -2798,
+      "y": -2298
+    },
+    {
+      "file": "GDD/Raças/Kaltherianos.md",
+      "height": 1084,
+      "id": "b66f60066ae74abc",
+      "type": "file",
+      "width": 660,
+      "x": 3380,
+      "y": -2220
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos04.png",
+      "height": 195,
+      "id": "901d024a47e0be5e",
+      "type": "file",
+      "width": 146,
+      "x": 3008,
+      "y": -2220
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos03.png",
+      "height": 195,
+      "id": "fb3dfc02160ed422",
+      "type": "file",
+      "width": 166,
+      "x": 2822,
+      "y": -2220
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos05.png",
+      "height": 194,
+      "id": "d97b6e941ea26954",
+      "type": "file",
+      "width": 195,
+      "x": 3167,
+      "y": -2220
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos02.png",
+      "height": 194,
+      "id": "0ef0e09bfe179a33",
+      "type": "file",
+      "width": 146,
+      "x": 2657,
+      "y": -2220
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos01.png",
+      "height": 195,
+      "id": "0dff663e0a235c7c",
+      "type": "file",
+      "width": 194,
+      "x": 2440,
+      "y": -2220
+    },
+    {
+      "color": "6",
+      "height": 906,
+      "id": "8ff059ec65211f4a",
+      "text": "No Menu Principal o usuário consegue visualizar seus personagens existentes e criar novos personagens. Após selecionar seu personagem e dar o play o jogador passará por um loading e irá para a tela do HUB. Dentro da tela do HUB o usuário poderá executar algumas ações como criar equipamentos, melhorar seus equipamentos, alterar sua build e receber quests. \n==Durante sua permanência do HUB o usuário irá enxergar alguns outros jogadores também andando pelo HUB, como se todos estivessem no mesmo canal e terá algumas opções simples como adicionar essas pessoas como amigos, chamar para o grupo e visualizar os equipamentos, dentro do hub o usuário também pode utilizar o chat, tanto local quanto global.== Após formar um grupo todos os membros desse grupo passam a estar no mesmo canal.\nAgora com um grupo formado os usuários prosseguem para o quadro de missões checar se existe alguma quest disponível interessante, após o grupo decidir quais quests desejam fazer eles partem para o menu de exploração onde irão escolher seu destino de viagem. \nA escolha do destino de viagem acontece apenas através de uma tela de opções e o jogador é teleportado para o seu destino.\nTodos os jogadores aparecem no inicio do level e devem começar a se movimentar pelo mapa para explorar o ambiente. Durante a exploração o jogador e o grupo deverão escolher caminhos a seguir dentro de cada mapa e vencer desafios como armadilhas e inimigos. ",
+      "type": "text",
+      "width": 2257,
+      "x": -1255,
+      "y": -2205
+    },
+    {
+      "height": 53,
+      "id": "333b6b1a84e7213e",
+      "text": "### **Diferentes posicionamentos de câmeras em BeatEmUp's**",
+      "type": "text",
+      "width": 968,
+      "x": -2401,
+      "y": -2280
+    },
+    {
+      "file": "ArtRef/IMGs_ReffsJogos/Teenage Mutant Ninja Turtles.png",
+      "height": 261,
+      "id": "047294bb906b7916",
+      "type": "file",
+      "width": 465,
+      "x": -2401,
+      "y": -2183
+    },
+    {
+      "file": "ArtRef/IMGs_ReffsJogos/Castle Crashers.png",
+      "height": 262,
+      "id": "37323a65dbb4ede7",
+      "type": "file",
+      "width": 466,
+      "x": -1899,
+      "y": -2184
+    },
+    {
+      "height": 551,
+      "id": "dd37258ce74a3e49",
+      "text": "### **Beat 'Em Up**\n\n- **Foco no Combate:** A mecânica principal é lutar contra ondas de inimigos em combate corpo a corpo ou com armas simples. O combate é geralmente rápido e direto.\n- **Movimentação Linear:** O jogador se move lateralmente ou em uma perspectiva isométrica, avançando através de níveis enquanto enfrenta diversos inimigos.\n- **Variedade de Inimigos e Chefes:** Os inimigos têm diferentes padrões de ataque, e o jogador geralmente enfrenta chefes mais fortes ao final das fases.\n- **Cooperação:** Muitos desses jogos permitem multiplayer cooperativo local, permitindo que os jogadores enfrentem inimigos juntos.",
+      "type": "text",
+      "width": 345,
+      "x": -3935,
+      "y": -2298
+    },
+    {
+      "height": 551,
+      "id": "64c1f9d6d192b1a2",
+      "text": "### **Plataforma**\n\n- **Jogabilidade Baseada em Saltos:** A movimentação principal envolve pular entre plataformas, evitar armadilhas e inimigos, além de resolver pequenos quebra-cabeças.\n- **Níveis Bem Elaborados:** Os níveis são desenhados para serem desafiadores, exigindo precisão no movimento e habilidades específicas para avançar.\n- **Exploração:** Muitos jogos de plataforma incentivam a exploração, escondendo segredos e itens que ampliam a jogabilidade ou dão novas habilidades.\n- **Controle Preciso:** O controle do personagem precisa ser fluido e responsivo para que o jogador tenha domínio total sobre os saltos e movimentos.",
+      "type": "text",
+      "width": 345,
+      "x": -3556,
+      "y": -2298
+    },
+    {
+      "height": 551,
+      "id": "942e1103f3722bae",
+      "text": "### **Rogue-Like**\n\n- **Geração Procedural:** Os níveis são gerados aleatoriamente, proporcionando novas experiências a cada jogada.\n- **Permadeath (Morte Permanente):** Se o jogador morre, ele perde todo o progresso daquela tentativa, começando novamente do início.\n- **Desafios Progressivos:** Os desafios e inimigos se tornam progressivamente mais difíceis, forçando o jogador a se adaptar a cada novo cenário.\n- **Rejogabilidade:** O formato de gerar conteúdo novo a cada jogada faz com que o jogo tenha grande fator de rejogabilidade, recompensando a experimentação.",
+      "type": "text",
+      "width": 345,
+      "x": -3177,
+      "y": -2298
+    },
+    {
+      "file": "ArtRef/IMGs_ReffsJogos/Midnight Fight Express.png",
+      "height": 260,
+      "id": "22fce1bdd8c7aefe",
+      "type": "file",
+      "width": 465,
+      "x": -2401,
+      "y": -1871
+    },
+    {
+      "file": "ArtRef/IMGs_ReffsJogos/Rotwood.png",
+      "height": 261,
+      "id": "9a6551cc08490d3e",
+      "type": "file",
+      "width": 464,
+      "x": -1896,
+      "y": -1872
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos08.png",
+      "height": 195,
+      "id": "d32e9e3d1a05acbd",
+      "type": "file",
+      "width": 125,
+      "x": 2787,
+      "y": -1994
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos09.png",
+      "height": 195,
+      "id": "248cf262d6b79641",
+      "type": "file",
+      "width": 199,
+      "x": 2936,
+      "y": -1994
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos10.png",
+      "height": 195,
+      "id": "bf4b6bed70200b2b",
+      "type": "file",
+      "width": 169,
+      "x": 3154,
+      "y": -1994
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos07.png",
+      "height": 195,
+      "id": "1a28b432d2da0cb8",
+      "type": "file",
+      "width": 147,
+      "x": 2613,
+      "y": -1994
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos06.png",
+      "height": 195,
+      "id": "abb24117196f7498",
+      "type": "file",
+      "width": 140,
+      "x": 2440,
+      "y": -1994
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos15.png",
+      "height": 195,
+      "id": "60e821aedde4b5a1",
+      "type": "file",
+      "width": 185,
+      "x": 3154,
+      "y": -1779
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos14.png",
+      "height": 195,
+      "id": "5c7e916443a3f895",
+      "type": "file",
+      "width": 185,
+      "x": 2949,
+      "y": -1779
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos13.png",
+      "height": 195,
+      "id": "6ca409955ab251ce",
+      "type": "file",
+      "width": 171,
+      "x": 2765,
+      "y": -1779
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos11.png",
+      "height": 195,
+      "id": "fa3b2722ce4e72e9",
+      "type": "file",
+      "width": 173,
+      "x": 2440,
+      "y": -1779
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos12.png",
+      "height": 194,
+      "id": "0a4ccbd687e470df",
+      "type": "file",
+      "width": 119,
+      "x": 2629,
+      "y": -1779
+    },
+    {
+      "height": 1258,
+      "id": "fd036d864740101a",
+      "text": "### **BeatEmUp x ActionRPG**\n\n### **Foco no Combate e na Jogabilidade**:\n\n- **RPG de Ação**:\n    - Combina combate em tempo real com elementos de RPG, como progressão de personagem, melhoria de habilidades e narrativa.\n    - Os jogadores enfrentam combates enquanto gerenciam atributos (vida, mana, habilidades), evoluindo os personagens e tomando decisões estratégicas sobre equipamentos e habilidades.\n    - O combate é geralmente mais complexo, envolvendo combos, magias e táticas variadas.\n    - **Exemplos**: _The Witcher 3_, _Dark Souls_, _Diablo_.\n- **Beat 'Em Up**:\n    - Foca em combate corpo a corpo com controles simples (soco, chute, pulo) contra ondas de inimigos.\n    - A jogabilidade é frequentemente linear, com o jogador avançando através de níveis e enfrentando inimigos em combates próximos.\n    - Há pouca progressão de personagem além de pegar power-ups ou upgrades simples.\n    - **Exemplos**: _Streets of Rage_, _Double Dragon_, _Final Fight_.\n### **Progressão e História**:\n\n- **RPG de Ação**:\n    - Histórias profundas, exploração de mundo e personalização de personagem são centrais. As escolhas geralmente afetam o desfecho da história.\n    - A progressão do personagem é um elemento-chave, com pontos de experiência, árvores de habilidades e criação de equipamentos.\n    - A narrativa geralmente tem um papel significativo, com missões e lore (história).\n- **Beat 'Em Up**:\n    - A história é muitas vezes secundária ao combate, girando em torno de objetivos simples, como resgatar um personagem ou derrotar um vilão.\n    - A progressão é baseada na conclusão de níveis e derrota de inimigos, com ênfase limitada no desenvolvimento dos personagens ao longo do tempo.\n\n### **Estrutura de Jogabilidade**:\n\n- **RPG de Ação**:\n    - Estrutura de mundo aberto ou semi-aberto, onde os jogadores podem explorar no seu próprio ritmo, realizar missões secundárias e interagir com NPCs.\n    - O combate é muitas vezes combinado com exploração, resolução de quebra-cabeças e coleta de itens.\n- **Beat 'Em Up**:\n    - Baseado em níveis, com o jogador avançando através de estágios e lutando contra grupos de inimigos. O foco está em sequências de ação rápidas e curtas.\n    - Os níveis são geralmente lineares, com exploração ou interação limitada fora do combate.\n\n### **Multiplayer**:\n\n- **RPG de Ação**:\n    - Embora alguns RPGs de ação ofereçam modos multiplayer ou cooperativo (_Diablo_), o foco costuma ser em experiências single-player com mundos imersivos.\n- **Beat 'Em Up**:\n    - Frequentemente projetado para multiplayer cooperativo local, onde dois ou mais jogadores se unem para lutar lado a lado contra inimigos.\n    - O elemento cooperativo é uma parte importante do apelo dos jogos _Beat 'Em Up_.\n\n### **Complexidade**:\n\n- **RPG de Ação**:\n    - Mais complexo, com sistemas como criação de itens, gerenciamento de inventário e escolhas narrativas profundas.\n- **Beat 'Em Up**:\n    - Mais simples e direto, com foco no combate e ação, em vez de decisões estratégicas ou narrativas profundas.\n\n### Conclusão:\n\n- **RPGs de Ação** são mais complexos, combinando combate em tempo real com progressão de personagem, exploração de mundo e narrativa profunda.\n- **Beat 'Em Up** são mais simples, focando em combates rápidos e ação direta, com progressão e narrativa limitadas.",
+      "type": "text",
+      "width": 1482,
+      "x": -3935,
+      "y": -1712
+    },
+    {
+      "file": "ArtRef/IMGs/TowerBorne.png",
+      "height": 258,
+      "id": "9b019780f6539c88",
+      "type": "file",
+      "width": 461,
+      "x": -2401,
+      "y": -1557
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos19.png",
+      "height": 190,
+      "id": "b335490144adc436",
+      "type": "file",
+      "width": 188,
+      "x": 3075,
+      "y": -1564
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos18.png",
+      "height": 190,
+      "id": "4cd79524fab92887",
+      "type": "file",
+      "width": 190,
+      "x": 2857,
+      "y": -1564
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos16.png",
+      "height": 188,
+      "id": "0b1d483a86e1c082",
+      "type": "file",
+      "width": 195,
+      "x": 2440,
+      "y": -1564
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos17.png",
+      "height": 190,
+      "id": "9de948ead7e0d30a",
+      "type": "file",
+      "width": 176,
+      "x": 2657,
+      "y": -1564
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos23.png",
+      "height": 195,
+      "id": "66cabc31de2ffe4f",
+      "type": "file",
+      "width": 140,
+      "x": 3033,
+      "y": -1331
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos21.png",
+      "height": 195,
+      "id": "795e73b3dfd51dc5",
+      "type": "file",
+      "width": 146,
+      "x": 2719,
+      "y": -1331
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos22.png",
+      "height": 194,
+      "id": "6ad4324989b68f4a",
+      "type": "file",
+      "width": 135,
+      "x": 2886,
+      "y": -1331
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos20.png",
+      "height": 195,
+      "id": "bbb96a35ace88b5f",
+      "type": "file",
+      "width": 145,
+      "x": 2562,
+      "y": -1331
+    },
+    {
+      "height": 60,
+      "id": "1f0bd691da3606f1",
+      "text": "???HABILIDADES???",
+      "type": "text",
+      "width": 250,
+      "x": -3810,
+      "y": 70
+    },
+    {
+      "height": 60,
+      "id": "96bbc099e35f0b78",
+      "text": "???Como o usuário utiliza essas habilidades???",
+      "type": "text",
+      "width": 250,
+      "x": -3810,
+      "y": 160
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "7526943fa5cac156",
+      "text": "- Talentos Geram Bônus Passivos 1",
+      "type": "text",
+      "width": 323,
+      "x": -2597,
+      "y": 170
+    },
+    {
+      "height": 270,
+      "id": "58a46c1759cfd298",
+      "text": "- Regras de Talentos\n--------------------------------\n- Quantidade total de pontos para ser distribuída entre todas as Árvores\n- ",
+      "type": "text",
+      "width": 380,
+      "x": -2200,
+      "y": 170
+    },
+    {
+      "color": "#ff0000",
+      "file": "GDD/Classes/Soldados/Soldados Geral.md",
+      "height": 1200,
+      "id": "a7510185795750a2",
+      "type": "file",
+      "width": 960,
+      "x": 4380,
+      "y": 140
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "f31fdd5b6ae4438e",
+      "text": "- Classe 1",
+      "type": "text",
+      "width": 148,
+      "x": -3060,
+      "y": 230
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "37bf4cbbbf599a67",
+      "text": "- Árvore de Talentos 1",
+      "type": "text",
+      "width": 240,
+      "x": -2877,
+      "y": 230
+    },
+    {
+      "file": "GDD/Classes/Soldados/Soldados Terráqueos.md",
+      "height": 1107,
+      "id": "8f5eeffa973edc85",
+      "type": "file",
+      "width": 880,
+      "x": 5380,
+      "y": 193
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo01.png",
+      "height": 279,
+      "id": "cf1c668bbaf10f67",
+      "type": "file",
+      "width": 256,
+      "x": 6300,
+      "y": 193
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "6ad88df25f9e487e",
+      "text": "- Skills Combos 1",
+      "type": "text",
+      "width": 323,
+      "x": -2597,
+      "y": 290
+    },
+    {
+      "height": 60,
+      "id": "02b38d5f4a64d807",
+      "text": "???Habilidades vem de Combos???",
+      "type": "text",
+      "width": 250,
+      "x": -3935,
+      "y": 280
+    },
+    {
+      "height": 60,
+      "id": "73bc774f382d6031",
+      "text": "???Habilidades vem de Hotkeys???",
+      "type": "text",
+      "width": 250,
+      "x": -3685,
+      "y": 280
+    },
+    {
+      "height": 190,
+      "id": "cf48e1789dd49da1",
+      "text": "- Seleção de Classe\n- Usuário tem Acesso a um número de Classes inicialmente\n- Desbloqueio de Novas Classes através de Quests\n- Ativação de até 3 Classes ao mesmo tempo, porém, não obrigatoriamente\n- Usuário pode alterar as classes ativas somente no HUB",
+      "type": "text",
+      "width": 508,
+      "x": -3628,
+      "y": 375
+    },
+    {
+      "color": "2",
+      "height": 60,
+      "id": "f3ec057cad78db1b",
+      "text": "- Talentos Geram Bônus Passivos 2",
+      "type": "text",
+      "width": 323,
+      "x": -2597,
+      "y": 380
     }
   ]
 }
