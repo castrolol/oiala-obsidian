@@ -163,170 +163,6 @@
       "y": -790
     },
     {
-      "color": "2",
-      "height": 60,
-      "id": "a786cdb261edd0c6",
-      "text": "- Skills Combos 2",
-      "type": "text",
-      "width": 323,
-      "x": -37,
-      "y": -330
-    },
-    {
-      "color": "3",
-      "height": 60,
-      "id": "e606c959206bc7f3",
-      "text": "- Talentos Geram Bônus Passivos 3",
-      "type": "text",
-      "width": 323,
-      "x": -37,
-      "y": -235
-    },
-    {
-      "color": "3",
-      "height": 60,
-      "id": "5f7a2169311974ee",
-      "text": "- Skills Combos 2",
-      "type": "text",
-      "width": 323,
-      "x": -37,
-      "y": -115
-    },
-    {
-      "color": "3",
-      "height": 60,
-      "id": "349724008a2855b1",
-      "text": "- Árvore de Talentos 3",
-      "type": "text",
-      "width": 240,
-      "x": -317,
-      "y": -175
-    },
-    {
-      "height": 50,
-      "id": "07b900f4cfc9c999",
-      "text": "Classes",
-      "type": "text",
-      "width": 250,
-      "x": -1404,
-      "y": -385
-    },
-    {
-      "height": 60,
-      "id": "e3fbdabc25bf8a4a",
-      "text": "Equipamentos",
-      "type": "text",
-      "width": 250,
-      "x": -1404,
-      "y": -225
-    },
-    {
-      "height": 60,
-      "id": "3ced230fdddd78d2",
-      "text": "Armas",
-      "type": "text",
-      "width": 250,
-      "x": -1404,
-      "y": -70
-    },
-    {
-      "color": "2",
-      "height": 60,
-      "id": "760dec0c6cf82c44",
-      "text": "- Árvore de Talentos 2",
-      "type": "text",
-      "width": 240,
-      "x": -317,
-      "y": -390
-    },
-    {
-      "color": "1",
-      "height": 60,
-      "id": "8824a5875bebbaf4",
-      "text": "- Classe 1",
-      "type": "text",
-      "width": 148,
-      "x": -500,
-      "y": -600
-    },
-    {
-      "color": "1",
-      "height": 60,
-      "id": "a53b2eefb1088958",
-      "text": "- Árvore de Talentos 1",
-      "type": "text",
-      "width": 240,
-      "x": -317,
-      "y": -600
-    },
-    {
-      "color": "2",
-      "height": 60,
-      "id": "8c555b98d6efc324",
-      "text": "- Classe 2",
-      "type": "text",
-      "width": 148,
-      "x": -500,
-      "y": -390
-    },
-    {
-      "height": 190,
-      "id": "e7fb4ec647773d5a",
-      "text": "- Seleção de Classe\n- Usuário tem Acesso a um número de Classes inicialmente\n- Desbloqueio de Novas Classes através de Quests\n- Ativação de até 3 Classes ao mesmo tempo, porém, não obrigatoriamente\n- Usuário pode alterar as classes ativas somente no HUB",
-      "type": "text",
-      "width": 508,
-      "x": -1068,
-      "y": -455
-    },
-    {
-      "height": 80,
-      "id": "1d537525d036b49e",
-      "text": "- Atributos Primários\n- Atributos Secundários",
-      "type": "text",
-      "width": 330,
-      "x": -1068,
-      "y": -235
-    },
-    {
-      "color": "3",
-      "height": 60,
-      "id": "8f89017bc7cebf5a",
-      "text": "- Classe 3",
-      "type": "text",
-      "width": 148,
-      "x": -500,
-      "y": -175
-    },
-    {
-      "height": 140,
-      "id": "5b4537a632f88228",
-      "text": "- Estilo da Gameplay\n- Combos Próprios da Arma\n- Habilidades Única da Arma\n- Habilidade (Hotkey)",
-      "type": "text",
-      "width": 330,
-      "x": -1068,
-      "y": -110
-    },
-    {
-      "color": "1",
-      "height": 60,
-      "id": "a08d309abc7ed675",
-      "text": "- Talentos Geram Bônus Passivos 1",
-      "type": "text",
-      "width": 323,
-      "x": -37,
-      "y": -660
-    },
-    {
-      "color": "1",
-      "height": 60,
-      "id": "05b18434bc449d01",
-      "text": "- Skills Combos 1",
-      "type": "text",
-      "width": 323,
-      "x": -37,
-      "y": -540
-    },
-    {
       "height": 60,
       "id": "929bed989079e7a0",
       "text": "???Habilidades vem de Combos???",
@@ -334,25 +170,6 @@
       "width": 250,
       "x": -1375,
       "y": -550
-    },
-    {
-      "height": 60,
-      "id": "d27c1d992cdea33b",
-      "text": "???Habilidades vem de Hotkeys???",
-      "type": "text",
-      "width": 250,
-      "x": -1125,
-      "y": -550
-    },
-    {
-      "color": "2",
-      "height": 60,
-      "id": "8331ad944def2bb8",
-      "text": "- Talentos Geram Bônus Passivos 2",
-      "type": "text",
-      "width": 323,
-      "x": -37,
-      "y": -450
     },
     {
       "height": 270,
@@ -380,6 +197,189 @@
       "width": 250,
       "x": -1250,
       "y": -760
+    },
+    {
+      "height": 140,
+      "id": "5b4537a632f88228",
+      "text": "- Estilo da Gameplay\n- Combos Próprios da Arma\n- Habilidades Única da Arma\n- Habilidade (Hotkey)",
+      "type": "text",
+      "width": 330,
+      "x": -1068,
+      "y": -110
+    },
+    {
+      "height": 60,
+      "id": "3ced230fdddd78d2",
+      "text": "Armas",
+      "type": "text",
+      "width": 250,
+      "x": -1404,
+      "y": -70
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "a08d309abc7ed675",
+      "text": "- Talentos Geram Bônus Passivos 1",
+      "type": "text",
+      "width": 323,
+      "x": -37,
+      "y": -660
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "349724008a2855b1",
+      "text": "- Árvore de Talentos 3",
+      "type": "text",
+      "width": 240,
+      "x": -317,
+      "y": -175
+    },
+    {
+      "height": 50,
+      "id": "07b900f4cfc9c999",
+      "text": "Classes",
+      "type": "text",
+      "width": 250,
+      "x": -1404,
+      "y": -385
+    },
+    {
+      "height": 60,
+      "id": "d27c1d992cdea33b",
+      "text": "???Habilidades vem de Hotkeys???",
+      "type": "text",
+      "width": 250,
+      "x": -1125,
+      "y": -550
+    },
+    {
+      "color": "2",
+      "height": 60,
+      "id": "a786cdb261edd0c6",
+      "text": "- Skills Combos 2",
+      "type": "text",
+      "width": 323,
+      "x": -37,
+      "y": -330
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "e606c959206bc7f3",
+      "text": "- Talentos Geram Bônus Passivos 3",
+      "type": "text",
+      "width": 323,
+      "x": -37,
+      "y": -235
+    },
+    {
+      "height": 60,
+      "id": "e3fbdabc25bf8a4a",
+      "text": "Equipamentos",
+      "type": "text",
+      "width": 250,
+      "x": -1404,
+      "y": -225
+    },
+    {
+      "color": "2",
+      "height": 60,
+      "id": "760dec0c6cf82c44",
+      "text": "- Árvore de Talentos 2",
+      "type": "text",
+      "width": 240,
+      "x": -317,
+      "y": -390
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "8824a5875bebbaf4",
+      "text": "- Classe 1",
+      "type": "text",
+      "width": 148,
+      "x": -500,
+      "y": -600
+    },
+    {
+      "height": 190,
+      "id": "e7fb4ec647773d5a",
+      "text": "- Seleção de Classe\n- Usuário tem Acesso a um número de Classes inicialmente\n- Desbloqueio de Novas Classes através de Quests\n- Ativação de até 3 Classes ao mesmo tempo, porém, não obrigatoriamente\n- Usuário pode alterar as classes ativas somente no HUB",
+      "type": "text",
+      "width": 508,
+      "x": -1068,
+      "y": -455
+    },
+    {
+      "height": 80,
+      "id": "1d537525d036b49e",
+      "text": "- Atributos Primários\n- Atributos Secundários",
+      "type": "text",
+      "width": 330,
+      "x": -1068,
+      "y": -235
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "5f7a2169311974ee",
+      "text": "- Skills Combos 2",
+      "type": "text",
+      "width": 323,
+      "x": -37,
+      "y": -115
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "a53b2eefb1088958",
+      "text": "- Árvore de Talentos 1",
+      "type": "text",
+      "width": 240,
+      "x": -317,
+      "y": -600
+    },
+    {
+      "color": "2",
+      "height": 60,
+      "id": "8c555b98d6efc324",
+      "text": "- Classe 2",
+      "type": "text",
+      "width": 148,
+      "x": -500,
+      "y": -390
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "8f89017bc7cebf5a",
+      "text": "- Classe 3",
+      "type": "text",
+      "width": 148,
+      "x": -500,
+      "y": -175
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "05b18434bc449d01",
+      "text": "- Skills Combos 1",
+      "type": "text",
+      "width": 323,
+      "x": -37,
+      "y": -540
+    },
+    {
+      "color": "2",
+      "height": 60,
+      "id": "8331ad944def2bb8",
+      "text": "- Talentos Geram Bônus Passivos 2",
+      "type": "text",
+      "width": 323,
+      "x": -37,
+      "y": -450
     }
   ]
 }

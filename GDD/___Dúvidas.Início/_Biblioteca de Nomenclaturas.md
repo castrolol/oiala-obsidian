@@ -41,5 +41,3 @@
 - Habilidades Raciais Passivas
 	- Habilidades Únicas para cada Raça que não necessitam do jogador apertar nenhum botão para ativar
 
-[[_Fluxos.canvas|FluxoProduçãoInicial
-]]

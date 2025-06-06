@@ -40,13 +40,32 @@
       "y": -460
     },
     {
-      "height": 400,
+      "height": 960,
       "id": "884f8fba60393940",
       "label": "FluxoProduçãoInicial",
       "type": "group",
-      "width": 1720,
-      "x": -3160,
-      "y": 80
+      "width": 2620,
+      "x": -700,
+      "y": 960
+    },
+    {
+      "color": "#fbff00",
+      "height": 880,
+      "id": "ca2b661f35293fd9",
+      "label": "Protótipo Ideal",
+      "type": "group",
+      "width": 660,
+      "x": -680,
+      "y": 1020
+    },
+    {
+      "height": 400,
+      "id": "f9dce43946dadc71",
+      "label": "Arte",
+      "type": "group",
+      "width": 560,
+      "x": 50,
+      "y": 1120
     },
     {
       "color": "2",
@@ -81,16 +100,6 @@
     {
       "color": "2",
       "height": 60,
-      "id": "f2c04b5455e4359c",
-      "text": "Seleção de Planetas",
-      "type": "text",
-      "width": 250,
-      "x": 960,
-      "y": -420
-    },
-    {
-      "color": "2",
-      "height": 60,
       "id": "6d982993709305fb",
       "text": "First Screen",
       "type": "text",
@@ -119,15 +128,27 @@
       "y": -420
     },
     {
-      "height": 60,
-      "id": "2c10d550513d64cb",
+      "height": 760,
+      "id": "2e49ccd3970bcca5",
       "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
       },
-      "text": "",
+      "text": "# Prioridades a Serem Testadas\n\n---\n\n## Arte \n\n- Cenário\n\t- Estilo de Arte do Cenário\n\t- Cenários Procedurais\n\t- Objetos não Interagíveis e Objetos Interagíveis\n- Personagens\n\t- Estilo de Arte dos Personagens\n\t- Rigging?\n\t- Animações\n\t- Soldado Humano\n\t- Soldado Kaltheriano\n- Estilo de Arte das Armas\n- \n- Animação dos Personagens\n- ",
       "type": "text",
-      "width": 260,
-      "x": -3140,
-      "y": 180
+      "width": 620,
+      "x": -660,
+      "y": 1040
+    },
+    {
+      "color": "2",
+      "height": 60,
+      "id": "f2c04b5455e4359c",
+      "text": "Seleção de Planetas",
+      "type": "text",
+      "width": 250,
+      "x": 960,
+      "y": -420
     },
     {
       "color": "2",
@@ -138,6 +159,17 @@
       "width": 250,
       "x": 960,
       "y": -360
+    },
+    {
+      "height": 220,
+      "id": "2c10d550513d64cb",
+      "styleAttributes": {
+      },
+      "text": "# Listagem Da Tarefas Principais\n\n---\n",
+      "type": "text",
+      "width": 500,
+      "x": 70,
+      "y": 1140
     }
   ]
 }

@@ -35,14 +35,17 @@
             "id": "2e65c1263c0a70cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "GDD/___Dúvidas.Início/_Biblioteca de Nomenclaturas.md",
-                "mode": "source",
-                "source": false
+                "file": "Canvas/_Fluxos.canvas",
+                "viewState": {
+                  "x": -362.58276222123595,
+                  "y": 1512.167479202979,
+                  "zoom": 0.3333333333333334
+                }
               },
-              "icon": "lucide-file",
-              "title": "_Biblioteca de Nomenclaturas"
+              "icon": "lucide-layout-dashboard",
+              "title": "_Fluxos"
             }
           }
         ],
@@ -103,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 256.5
   },
   "right": {
     "id": "daf0d53b002ec91d",
@@ -193,14 +196,14 @@
   },
   "active": "2e65c1263c0a70cb",
   "lastOpenFiles": [
+    "Canvas/_Regras.canvas",
+    "Canvas/_Art.canvas",
     "Canvas/_Fluxos.canvas",
     "GDD/___Dúvidas.Início/_Biblioteca de Nomenclaturas.md",
     "GDD/___Dúvidas.Início/__Briefing.md",
     "GDD/___Dúvidas.Início/Referências BeatEmUp.md",
-    "Canvas/_Regras.canvas",
     "Canvas/_CreativeBoard.canvas",
     "GDD/___Dúvidas.Início/__Sumário.md",
-    "Canvas/_Art.canvas",
     "Excalidraw/FirstTest.md",
     "Sem título.md",
     "Untitled.canvas",

@@ -115,51 +115,6 @@
       "y": -16
     },
     {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos01.png",
-      "height": 195,
-      "id": "705c02772c2eb90e",
-      "type": "file",
-      "width": 194,
-      "x": -5180,
-      "y": -242
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos02.png",
-      "height": 194,
-      "id": "1d93b688fe219bf1",
-      "type": "file",
-      "width": 146,
-      "x": -4963,
-      "y": -242
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos06.png",
-      "height": 195,
-      "id": "134a8b4df964c1eb",
-      "type": "file",
-      "width": 140,
-      "x": -5180,
-      "y": -16
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos16.png",
-      "height": 188,
-      "id": "b52a6c7b9bf15c0a",
-      "type": "file",
-      "width": 195,
-      "x": -5180,
-      "y": 414
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos17.png",
-      "height": 190,
-      "id": "5533d89d4f75fa45",
-      "type": "file",
-      "width": 176,
-      "x": -4963,
-      "y": 414
-    },
-    {
       "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos21.png",
       "height": 195,
       "id": "91fb924d9e07adc2",
@@ -178,22 +133,58 @@
       "y": 647
     },
     {
-      "file": "GDD/Classes/Soldados/Soldados Kaltherianos.md",
-      "height": 1107,
-      "id": "c826b447a5b74b57",
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos23.png",
+      "height": 195,
+      "id": "90df61a76f0b8deb",
       "type": "file",
-      "width": 880,
-      "x": 460,
-      "y": -789
+      "width": 140,
+      "x": -4587,
+      "y": 647
     },
     {
-      "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo10.png",
-      "height": 333,
-      "id": "1fbdd394fcc9a465",
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos22.png",
+      "height": 194,
+      "id": "c7445598840a56c5",
       "type": "file",
-      "width": 253,
-      "x": -496,
-      "y": -455
+      "width": 135,
+      "x": -4734,
+      "y": 647
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos13.png",
+      "height": 195,
+      "id": "abdd16ba72981660",
+      "type": "file",
+      "width": 171,
+      "x": -4855,
+      "y": 199
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos08.png",
+      "height": 195,
+      "id": "27467d0e30554eb4",
+      "type": "file",
+      "width": 125,
+      "x": -4833,
+      "y": -16
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos14.png",
+      "height": 195,
+      "id": "13d667471b4b9e33",
+      "type": "file",
+      "width": 185,
+      "x": -4671,
+      "y": 199
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos17.png",
+      "height": 190,
+      "id": "5533d89d4f75fa45",
+      "type": "file",
+      "width": 176,
+      "x": -4963,
+      "y": 414
     },
     {
       "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo09.png",
@@ -203,15 +194,6 @@
       "width": 264,
       "x": -780,
       "y": -455
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo05.png",
-      "height": 278,
-      "id": "b19357071607b86a",
-      "type": "file",
-      "width": 271,
-      "x": -242,
-      "y": -790
     },
     {
       "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo08.png",
@@ -232,15 +214,6 @@
       "y": -62
     },
     {
-      "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo04.png",
-      "height": 279,
-      "id": "b5365aacbdc4f8a9",
-      "type": "file",
-      "width": 195,
-      "x": -496,
-      "y": -790
-    },
-    {
       "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo13.png",
       "height": 333,
       "id": "7c0699aeff04483a",
@@ -257,6 +230,51 @@
       "width": 255,
       "x": -1340,
       "y": -455
+    },
+    {
+      "file": "GDD/Classes/Soldados/Soldados Terráqueos.md",
+      "height": 1107,
+      "id": "ccdce9f4af1346c8",
+      "type": "file",
+      "width": 880,
+      "x": -2260,
+      "y": -789
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos18.png",
+      "height": 190,
+      "id": "c3908ca7cb5fd35b",
+      "type": "file",
+      "width": 190,
+      "x": -4763,
+      "y": 414
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos19.png",
+      "height": 190,
+      "id": "f61edae86d10e859",
+      "type": "file",
+      "width": 188,
+      "x": -4545,
+      "y": 414
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos06.png",
+      "height": 195,
+      "id": "134a8b4df964c1eb",
+      "type": "file",
+      "width": 140,
+      "x": -5180,
+      "y": -16
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos16.png",
+      "height": 188,
+      "id": "b52a6c7b9bf15c0a",
+      "type": "file",
+      "width": 195,
+      "x": -5180,
+      "y": 414
     },
     {
       "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo02.png",
@@ -286,15 +304,6 @@
       "y": -789
     },
     {
-      "file": "GDD/Classes/Soldados/Soldados Terráqueos.md",
-      "height": 1107,
-      "id": "ccdce9f4af1346c8",
-      "type": "file",
-      "width": 880,
-      "x": -2260,
-      "y": -789
-    },
-    {
       "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo01.png",
       "height": 279,
       "id": "b16d795038a02719",
@@ -302,6 +311,60 @@
       "width": 256,
       "x": -1340,
       "y": -789
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos11.png",
+      "height": 195,
+      "id": "405eef257b1ccfdf",
+      "type": "file",
+      "width": 173,
+      "x": -5180,
+      "y": 199
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos10.png",
+      "height": 195,
+      "id": "a938ffa5523a0519",
+      "type": "file",
+      "width": 169,
+      "x": -4466,
+      "y": -16
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos15.png",
+      "height": 195,
+      "id": "83dcddaa9023eb29",
+      "type": "file",
+      "width": 185,
+      "x": -4466,
+      "y": 199
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos07.png",
+      "height": 195,
+      "id": "ffcf97e621853439",
+      "type": "file",
+      "width": 147,
+      "x": -5007,
+      "y": -16
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos01.png",
+      "height": 195,
+      "id": "705c02772c2eb90e",
+      "type": "file",
+      "width": 194,
+      "x": -5180,
+      "y": -242
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos02.png",
+      "height": 194,
+      "id": "1d93b688fe219bf1",
+      "type": "file",
+      "width": 146,
+      "x": -4963,
+      "y": -242
     },
     {
       "color": "#ff0000",
@@ -312,42 +375,6 @@
       "width": 960,
       "x": -3260,
       "y": -842
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos07.png",
-      "height": 302,
-      "id": "6ec3a319667da057",
-      "type": "file",
-      "width": 291,
-      "x": 3265,
-      "y": -789
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos18.png",
-      "height": 347,
-      "id": "b0de27d1e904f252",
-      "type": "file",
-      "width": 433,
-      "x": 3880,
-      "y": -451
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos10.png",
-      "height": 303,
-      "id": "6f955b106094150c",
-      "type": "file",
-      "width": 312,
-      "x": 4155,
-      "y": -789
-    },
-    {
-      "file": "GDD/Raças/Terráqueos.md",
-      "height": 774,
-      "id": "b45c1fff6e069e73",
-      "type": "file",
-      "width": 660,
-      "x": -4240,
-      "y": -1142
     },
     {
       "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaTerráqueos/HumanFemale03.png",
@@ -377,30 +404,84 @@
       "y": -662
     },
     {
-      "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos04.png",
-      "height": 303,
-      "id": "d3c5cc2155df7f7f",
+      "file": "GDD/Raças/Kaltherianos.md",
+      "height": 1084,
+      "id": "a56dc6442a294236",
       "type": "file",
-      "width": 292,
-      "x": 2272,
+      "width": 660,
+      "x": -4240,
+      "y": -242
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos05.png",
+      "height": 194,
+      "id": "5baa59b5187c3d8f",
+      "type": "file",
+      "width": 195,
+      "x": -4453,
+      "y": -242
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos12.png",
+      "height": 194,
+      "id": "5cf912f9c04c20a7",
+      "type": "file",
+      "width": 119,
+      "x": -4991,
+      "y": 199
+    },
+    {
+      "file": "GDD/Raças/Terráqueos.md",
+      "height": 774,
+      "id": "b45c1fff6e069e73",
+      "type": "file",
+      "width": 660,
+      "x": -4240,
+      "y": -1142
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaTerráqueos/HumanMale03.png",
+      "height": 400,
+      "id": "68a14db0a6110376",
+      "type": "file",
+      "width": 324,
+      "x": -4593,
+      "y": -1142
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaTerráqueos/HumanMale02.png",
+      "height": 400,
+      "id": "5769dc4bfe531d7d",
+      "type": "file",
+      "width": 260,
+      "x": -4853,
+      "y": -1142
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaTerráqueos/HumanMale01.png",
+      "height": 400,
+      "id": "0c7c257470b529d5",
+      "type": "file",
+      "width": 327,
+      "x": -5180,
+      "y": -1142
+    },
+    {
+      "file": "GDD/Classes/Soldados/Soldados Kaltherianos.md",
+      "height": 1107,
+      "id": "c826b447a5b74b57",
+      "type": "file",
+      "width": 880,
+      "x": 460,
       "y": -789
     },
     {
-      "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos22.png",
-      "height": 335,
-      "id": "7e84697480d67681",
-      "type": "file",
-      "width": 330,
-      "x": 2335,
-      "y": -37
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos14.png",
+      "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos18.png",
       "height": 347,
-      "id": "5690f16701359979",
+      "id": "b0de27d1e904f252",
       "type": "file",
-      "width": 266,
-      "x": 2459,
+      "width": 433,
+      "x": 3880,
       "y": -451
     },
     {
@@ -440,31 +521,76 @@
       "y": -789
     },
     {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaTerráqueos/HumanMale03.png",
-      "height": 400,
-      "id": "68a14db0a6110376",
+      "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos12.png",
+      "height": 347,
+      "id": "c70c7ec8f6a9a0e7",
       "type": "file",
-      "width": 324,
-      "x": -4593,
-      "y": -1142
+      "width": 449,
+      "x": 1638,
+      "y": -451
     },
     {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaTerráqueos/HumanMale02.png",
-      "height": 400,
-      "id": "5769dc4bfe531d7d",
+      "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos19.png",
+      "height": 335,
+      "id": "c1f51ba83f8b6636",
       "type": "file",
-      "width": 260,
-      "x": -4853,
-      "y": -1142
+      "width": 255,
+      "x": 1362,
+      "y": -37
     },
     {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaTerráqueos/HumanMale01.png",
-      "height": 400,
-      "id": "0c7c257470b529d5",
+      "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos01.png",
+      "height": 303,
+      "id": "fb77e55c18959c7e",
       "type": "file",
-      "width": 327,
-      "x": -5180,
-      "y": -1142
+      "width": 307,
+      "x": 1360,
+      "y": -789
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos11.png",
+      "height": 347,
+      "id": "44940e00eb494af3",
+      "type": "file",
+      "width": 255,
+      "x": 1360,
+      "y": -451
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos07.png",
+      "height": 302,
+      "id": "6ec3a319667da057",
+      "type": "file",
+      "width": 291,
+      "x": 3265,
+      "y": -789
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos10.png",
+      "height": 303,
+      "id": "6f955b106094150c",
+      "type": "file",
+      "width": 312,
+      "x": 4155,
+      "y": -789
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos22.png",
+      "height": 335,
+      "id": "7e84697480d67681",
+      "type": "file",
+      "width": 330,
+      "x": 2335,
+      "y": -37
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos14.png",
+      "height": 347,
+      "id": "5690f16701359979",
+      "type": "file",
+      "width": 266,
+      "x": 2459,
+      "y": -451
     },
     {
       "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos24.png",
@@ -476,48 +602,12 @@
       "y": -37
     },
     {
-      "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos12.png",
-      "height": 347,
-      "id": "c70c7ec8f6a9a0e7",
-      "type": "file",
-      "width": 449,
-      "x": 1638,
-      "y": -451
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos13.png",
-      "height": 347,
-      "id": "607360ca91636378",
-      "type": "file",
-      "width": 309,
-      "x": 2113,
-      "y": -451
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos20.png",
-      "height": 335,
-      "id": "77355ef9f7c62a64",
-      "type": "file",
-      "width": 249,
-      "x": 1669,
-      "y": -37
-    },
-    {
       "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos23.png",
       "height": 335,
       "id": "f7cd0230942874ff",
       "type": "file",
       "width": 280,
       "x": 2726,
-      "y": -37
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos21.png",
-      "height": 335,
-      "id": "7112059c072dc44b",
-      "type": "file",
-      "width": 337,
-      "x": 1962,
       "y": -37
     },
     {
@@ -557,12 +647,66 @@
       "y": -451
     },
     {
-      "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos19.png",
-      "height": 335,
-      "id": "c1f51ba83f8b6636",
+      "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo10.png",
+      "height": 333,
+      "id": "1fbdd394fcc9a465",
       "type": "file",
-      "width": 255,
-      "x": 1362,
+      "width": 253,
+      "x": -496,
+      "y": -455
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo05.png",
+      "height": 278,
+      "id": "b19357071607b86a",
+      "type": "file",
+      "width": 271,
+      "x": -242,
+      "y": -790
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo04.png",
+      "height": 279,
+      "id": "b5365aacbdc4f8a9",
+      "type": "file",
+      "width": 195,
+      "x": -496,
+      "y": -790
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos04.png",
+      "height": 303,
+      "id": "d3c5cc2155df7f7f",
+      "type": "file",
+      "width": 292,
+      "x": 2272,
+      "y": -789
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos13.png",
+      "height": 347,
+      "id": "607360ca91636378",
+      "type": "file",
+      "width": 309,
+      "x": 2113,
+      "y": -451
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos20.png",
+      "height": 335,
+      "id": "77355ef9f7c62a64",
+      "type": "file",
+      "width": 249,
+      "x": 1669,
+      "y": -37
+    },
+    {
+      "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos21.png",
+      "height": 335,
+      "id": "7112059c072dc44b",
+      "type": "file",
+      "width": 337,
+      "x": 1962,
       "y": -37
     },
     {
@@ -575,24 +719,6 @@
       "y": -789
     },
     {
-      "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos01.png",
-      "height": 303,
-      "id": "fb77e55c18959c7e",
-      "type": "file",
-      "width": 307,
-      "x": 1360,
-      "y": -789
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos11.png",
-      "height": 347,
-      "id": "44940e00eb494af3",
-      "type": "file",
-      "width": 255,
-      "x": 1360,
-      "y": -451
-    },
-    {
       "file": "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos02.png",
       "height": 303,
       "id": "4b98ab2732d8e67f",
@@ -600,132 +726,6 @@
       "width": 301,
       "x": 1702,
       "y": -789
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos18.png",
-      "height": 190,
-      "id": "c3908ca7cb5fd35b",
-      "type": "file",
-      "width": 190,
-      "x": -4763,
-      "y": 414
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos19.png",
-      "height": 190,
-      "id": "f61edae86d10e859",
-      "type": "file",
-      "width": 188,
-      "x": -4545,
-      "y": 414
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos23.png",
-      "height": 195,
-      "id": "90df61a76f0b8deb",
-      "type": "file",
-      "width": 140,
-      "x": -4587,
-      "y": 647
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos22.png",
-      "height": 194,
-      "id": "c7445598840a56c5",
-      "type": "file",
-      "width": 135,
-      "x": -4734,
-      "y": 647
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos11.png",
-      "height": 195,
-      "id": "405eef257b1ccfdf",
-      "type": "file",
-      "width": 173,
-      "x": -5180,
-      "y": 199
-    },
-    {
-      "file": "GDD/Raças/Kaltherianos.md",
-      "height": 1084,
-      "id": "a56dc6442a294236",
-      "type": "file",
-      "width": 660,
-      "x": -4240,
-      "y": -242
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos05.png",
-      "height": 194,
-      "id": "5baa59b5187c3d8f",
-      "type": "file",
-      "width": 195,
-      "x": -4453,
-      "y": -242
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos10.png",
-      "height": 195,
-      "id": "a938ffa5523a0519",
-      "type": "file",
-      "width": 169,
-      "x": -4466,
-      "y": -16
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos15.png",
-      "height": 195,
-      "id": "83dcddaa9023eb29",
-      "type": "file",
-      "width": 185,
-      "x": -4466,
-      "y": 199
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos12.png",
-      "height": 194,
-      "id": "5cf912f9c04c20a7",
-      "type": "file",
-      "width": 119,
-      "x": -4991,
-      "y": 199
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos13.png",
-      "height": 195,
-      "id": "abdd16ba72981660",
-      "type": "file",
-      "width": 171,
-      "x": -4855,
-      "y": 199
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos07.png",
-      "height": 195,
-      "id": "ffcf97e621853439",
-      "type": "file",
-      "width": 147,
-      "x": -5007,
-      "y": -16
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos08.png",
-      "height": 195,
-      "id": "27467d0e30554eb4",
-      "type": "file",
-      "width": 125,
-      "x": -4833,
-      "y": -16
-    },
-    {
-      "file": "ArtRef/IMGs_Raças-Classes/Raças/RaçaKaltherianos/Kaltherianos14.png",
-      "height": 195,
-      "id": "13d667471b4b9e33",
-      "type": "file",
-      "width": 185,
-      "x": -4671,
-      "y": 199
     }
   ]
 }
