@@ -6,6 +6,7 @@
       {
         "id": "35fc39414e1ff1ca",
         "type": "tabs",
+        "dimension": 54.1025641025641,
         "children": [
           {
             "id": "db8a3b4a0ae81c2d",
@@ -63,6 +64,7 @@
       {
         "id": "4bf8dcc15a2166ec",
         "type": "tabs",
+        "dimension": 45.8974358974359,
         "children": [
           {
             "id": "b1dd46c1b609a6e5",
@@ -151,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/FirstTest.md",
+                "file": "Kanban/Arte/_Kanban - Arte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for FirstTest"
+              "title": "Backlinks for _Kanban - Arte"
             }
           },
           {
@@ -170,12 +172,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atributos.md",
+                "file": "Kanban/Arte/_Kanban - Arte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Atributos"
+              "title": "Outgoing links from _Kanban - Arte"
             }
           },
           {
@@ -197,17 +199,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atributos.md"
+                "file": "Kanban/Arte/_Kanban - Arte.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Atributos"
+              "title": "Outline of _Kanban - Arte"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -224,10 +230,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b1dd46c1b609a6e5",
+  "active": "2e65c1263c0a70cb",
   "lastOpenFiles": [
-    "Kanban/Arte/_Kanban - Arte.md",
     "Kanban/Arte/Cards/Arte - Cenário Direções.md",
+    "Kanban/Arte/_Kanban - Arte.md",
     "Kanban/Arte/Cards/Arte - Cenário.md",
     "Kanban/Arte/Cards/Arte - Personagens.md",
     "Arte - Cenário.md",
