@@ -11,9 +11,11 @@
           {
             "id": "db8a3b4a0ae81c2d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
+              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
@@ -51,14 +53,23 @@
             "id": "fef2b96d07a2cbd2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "GDD/Ambientes/Planetas.md",
-                "mode": "source",
-                "source": false
+                "file": "Kanban/Arte/_Kanban - Arte.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Planetas"
+              "icon": "lucide-trello",
+              "title": "_Kanban - Arte"
             }
           }
         ],
@@ -156,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GDD/Ambientes/Planetas.md",
+                "file": "Kanban/Arte/_Kanban - Arte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +177,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Planetas"
+              "title": "Backlinks for _Kanban - Arte"
             }
           },
           {
@@ -175,12 +186,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GDD/Ambientes/Planetas.md",
+                "file": "Kanban/Arte/_Kanban - Arte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Planetas"
+              "title": "Outgoing links from _Kanban - Arte"
             }
           },
           {
@@ -202,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GDD/Ambientes/Planetas.md",
+                "file": "Kanban/Arte/_Kanban - Arte.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Planetas"
+              "title": "Outline of _Kanban - Arte"
             }
           }
         ],
@@ -235,16 +246,29 @@
   },
   "active": "fef2b96d07a2cbd2",
   "lastOpenFiles": [
+    "Kanban/Arte/Cards/Arte - Cenário Direções.md",
+    "Kanban/Arte/_Kanban - Arte.md",
     "GDD/Ambientes/_Sistemas.md",
-    "GDD/Ambientes/Planetas.md",
-    "ArtRef/IMGs/TowerBorne.png",
+    "Excalidraw/FirstTest.md",
     "Canvas/_Fluxos.canvas",
+    "ArtRef/IMGs/TowerBorne.png",
+    "Canvas/_Regras.canvas",
+    "GDD/Gameplay/_Gameplay-PrimeiraGameplay.md",
+    "GDD/Gameplay/Banco.md",
+    "GDD/Raças/Kaltherianos.md",
+    "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot1/Disparada.md",
+    "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot1/Inspiração Máxima.md",
+    "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot1/Avanço Fulminante.md",
+    "GDD/Sistemas de Raças.md",
+    "GDD/Gameplay/Fórmulas e Cálculos.md",
+    "GDD/Atributos e Status/Definição Atributos.md",
+    "GDD/Atributos e Status/_Status.md",
+    "GDD/Atributos e Status/_Atributos.md",
+    "GDD/Ambientes/Planetas.md",
     "Untitled.canvas",
     "GDD/Gameplay/Controles.md",
-    "Kanban/Arte/Cards/Arte - Cenário Direções.md",
     "GDD/Arsenal-Equipamentos-Armas-Acessórios/_Arsenal.md",
     "GDD/Ambientes",
-    "Kanban/Arte/_Kanban - Arte.md",
     "ArtRef/IMGs/Pasted image 20240919124146.png",
     "ArtRef/IMGs/Pasted image 20240919123943.png",
     "ArtRef/IMGs/Pasted image 20240919123831.png",
@@ -259,26 +283,13 @@
     "Arte - Cenário.md",
     "Arte - Cenário Direções 1.md",
     "Arte - Cenário Direções 1 1.md",
-    "Canvas/_Regras.canvas",
     "GDD/___Dúvidas.Início/__Briefing.md",
     "Kanban/Arte/Cards",
     "Kanban/Arte",
     "Kanban",
     "GDD/___Dúvidas.Início/_Biblioteca de Nomenclaturas.md",
     "Canvas/_Art.canvas",
-    "GDD/___Dúvidas.Início/Referências BeatEmUp.md",
     "Canvas/_CreativeBoard.canvas",
-    "GDD/___Dúvidas.Início/__Sumário.md",
-    "Excalidraw/FirstTest.md",
-    "Sem título.md",
-    "Untitled.md",
-    "2025-05-29.md",
-    "GDD/Raças/Terráqueos.md",
-    "Teste.md",
-    "GDD/Gameplay/_Gameplay-PrimeiraGameplay.md",
-    "ArtRef/_DA_ArtRef.md",
-    "GDD/Atributos e Status/_Atributos.md",
-    "GDD/Gameplay/Banco.md",
     "GDD/Gameplay/Untitled/Untitled",
     "GDD/Gameplay/Untitled",
     "GDD/Atributos e Status",
