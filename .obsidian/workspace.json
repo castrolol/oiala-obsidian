@@ -35,52 +35,9 @@
             "id": "2e65c1263c0a70cb",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanban/Arte/_Kanban - Arte.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "_Kanban - Arte"
-            }
-          },
-          {
-            "id": "530f4340a07ef89e",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanban/Arte/_Kanban - Arte.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "_Kanban - Arte"
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "20b2980f10a67783",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "30cc95194330de0d",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/Arte - Cenário.md",
+                "file": "Kanban/Arte/Cards/Arte - Cenário.md",
                 "mode": "source",
                 "source": false
               },
@@ -88,7 +45,8 @@
               "title": "Arte - Cenário"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -234,18 +192,19 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "0fc12b575b45d378",
+  "active": "2e65c1263c0a70cb",
   "lastOpenFiles": [
-    "Cards/Arte - Cenário.md",
     "Kanban/Arte/_Kanban - Arte.md",
-    "Cards",
+    "Kanban/Arte/Cards/Arte - Personagens.md",
+    "Kanban/Arte/Cards/Arte - Cenário.md",
+    "GDD/___Dúvidas.Início/__Briefing.md",
+    "Kanban/Arte/Cards",
     "Kanban/Arte",
     "Kanban",
     "Canvas/_Fluxos.canvas",
     "GDD/___Dúvidas.Início/_Biblioteca de Nomenclaturas.md",
     "Canvas/_Regras.canvas",
     "Canvas/_Art.canvas",
-    "GDD/___Dúvidas.Início/__Briefing.md",
     "GDD/___Dúvidas.Início/Referências BeatEmUp.md",
     "Canvas/_CreativeBoard.canvas",
     "GDD/___Dúvidas.Início/__Sumário.md",

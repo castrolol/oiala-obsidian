@@ -4,15 +4,36 @@ kanban-plugin: board
 
 ---
 
-## PiepeLine Geral
+## Backlog
 
-- [ ] [[Arte - Cenário]] ^n4i0zx
+- [ ] [[Arte - Cenário]]
+- [ ] [[Arte - Personagens]]
+
+
+## ToDo
+
+
+
+## InProgress
+
+
+
+## ForDevTest
+
+
+
+## ForReview
+
+
+
+## Done
+
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false]}
 ```
 %%
