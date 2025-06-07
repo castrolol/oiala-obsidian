@@ -172,15 +172,6 @@
       "y": -550
     },
     {
-      "height": 270,
-      "id": "e582792a1d7dbc9f",
-      "text": "- Regras de Talentos\n--------------------------------\n- Quantidade total de pontos para ser distribuída entre todas as Árvores\n- ",
-      "type": "text",
-      "width": 380,
-      "x": 360,
-      "y": -660
-    },
-    {
       "height": 60,
       "id": "daaef3fef65ba61e",
       "text": "???Como o usuário utiliza essas habilidades???",
@@ -199,15 +190,6 @@
       "y": -760
     },
     {
-      "height": 140,
-      "id": "5b4537a632f88228",
-      "text": "- Estilo da Gameplay\n- Combos Próprios da Arma\n- Habilidades Única da Arma\n- Habilidade (Hotkey)",
-      "type": "text",
-      "width": 330,
-      "x": -1068,
-      "y": -110
-    },
-    {
       "height": 60,
       "id": "3ced230fdddd78d2",
       "text": "Armas",
@@ -215,6 +197,52 @@
       "width": 250,
       "x": -1404,
       "y": -70
+    },
+    {
+      "height": 50,
+      "id": "07b900f4cfc9c999",
+      "text": "Classes",
+      "type": "text",
+      "width": 250,
+      "x": -1404,
+      "y": -385
+    },
+    {
+      "height": 60,
+      "id": "e3fbdabc25bf8a4a",
+      "text": "Equipamentos",
+      "type": "text",
+      "width": 250,
+      "x": -1404,
+      "y": -225
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "5f7a2169311974ee",
+      "text": "- Skills Combos 2",
+      "type": "text",
+      "width": 323,
+      "x": -37,
+      "y": -115
+    },
+    {
+      "height": 270,
+      "id": "e582792a1d7dbc9f",
+      "text": "- Regras de Talentos\n--------------------------------\n- Quantidade total de pontos para ser distribuída entre todas as Árvores\n- ",
+      "type": "text",
+      "width": 380,
+      "x": 360,
+      "y": -660
+    },
+    {
+      "height": 140,
+      "id": "5b4537a632f88228",
+      "text": "- Estilo da Gameplay\n- Combos Próprios da Arma\n- Habilidades Única da Arma\n- Habilidade (Hotkey)",
+      "type": "text",
+      "width": 330,
+      "x": -1068,
+      "y": -110
     },
     {
       "color": "1",
@@ -225,25 +253,6 @@
       "width": 323,
       "x": -37,
       "y": -660
-    },
-    {
-      "color": "3",
-      "height": 60,
-      "id": "349724008a2855b1",
-      "text": "- Árvore de Talentos 3",
-      "type": "text",
-      "width": 240,
-      "x": -317,
-      "y": -175
-    },
-    {
-      "height": 50,
-      "id": "07b900f4cfc9c999",
-      "text": "Classes",
-      "type": "text",
-      "width": 250,
-      "x": -1404,
-      "y": -385
     },
     {
       "height": 60,
@@ -275,13 +284,52 @@
       "y": -235
     },
     {
-      "height": 60,
-      "id": "e3fbdabc25bf8a4a",
-      "text": "Equipamentos",
+      "height": 190,
+      "id": "e7fb4ec647773d5a",
+      "text": "- Seleção de Classe\n- Usuário tem Acesso a um número de Classes inicialmente\n- Desbloqueio de Novas Classes através de Quests\n- Ativação de até 3 Classes ao mesmo tempo, porém, não obrigatoriamente\n- Usuário pode alterar as classes ativas somente no HUB",
       "type": "text",
-      "width": 250,
-      "x": -1404,
-      "y": -225
+      "width": 508,
+      "x": -1068,
+      "y": -455
+    },
+    {
+      "height": 80,
+      "id": "1d537525d036b49e",
+      "text": "- Atributos Primários\n- Atributos Secundários",
+      "type": "text",
+      "width": 330,
+      "x": -1068,
+      "y": -235
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "05b18434bc449d01",
+      "text": "- Skills Combos 1",
+      "type": "text",
+      "width": 323,
+      "x": -37,
+      "y": -540
+    },
+    {
+      "color": "2",
+      "height": 60,
+      "id": "8331ad944def2bb8",
+      "text": "- Talentos Geram Bônus Passivos 2",
+      "type": "text",
+      "width": 323,
+      "x": -37,
+      "y": -450
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "349724008a2855b1",
+      "text": "- Árvore de Talentos 3",
+      "type": "text",
+      "width": 240,
+      "x": -317,
+      "y": -175
     },
     {
       "color": "2",
@@ -302,34 +350,6 @@
       "width": 148,
       "x": -500,
       "y": -600
-    },
-    {
-      "height": 190,
-      "id": "e7fb4ec647773d5a",
-      "text": "- Seleção de Classe\n- Usuário tem Acesso a um número de Classes inicialmente\n- Desbloqueio de Novas Classes através de Quests\n- Ativação de até 3 Classes ao mesmo tempo, porém, não obrigatoriamente\n- Usuário pode alterar as classes ativas somente no HUB",
-      "type": "text",
-      "width": 508,
-      "x": -1068,
-      "y": -455
-    },
-    {
-      "height": 80,
-      "id": "1d537525d036b49e",
-      "text": "- Atributos Primários\n- Atributos Secundários",
-      "type": "text",
-      "width": 330,
-      "x": -1068,
-      "y": -235
-    },
-    {
-      "color": "3",
-      "height": 60,
-      "id": "5f7a2169311974ee",
-      "text": "- Skills Combos 2",
-      "type": "text",
-      "width": 323,
-      "x": -37,
-      "y": -115
     },
     {
       "color": "1",
@@ -360,26 +380,6 @@
       "width": 148,
       "x": -500,
       "y": -175
-    },
-    {
-      "color": "1",
-      "height": 60,
-      "id": "05b18434bc449d01",
-      "text": "- Skills Combos 1",
-      "type": "text",
-      "width": 323,
-      "x": -37,
-      "y": -540
-    },
-    {
-      "color": "2",
-      "height": 60,
-      "id": "8331ad944def2bb8",
-      "text": "- Talentos Geram Bônus Passivos 2",
-      "type": "text",
-      "width": 323,
-      "x": -37,
-      "y": -450
     }
   ]
 }

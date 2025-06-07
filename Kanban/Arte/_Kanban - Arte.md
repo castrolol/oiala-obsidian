@@ -6,8 +6,8 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] [[Arte - Cenário]]
-- [ ] [[Arte - Personagens]]
+- [ ] [[Arte - Cenário Direções]]
+- [ ] [[Arte - Personagens Direções]]
 
 
 ## ToDo
