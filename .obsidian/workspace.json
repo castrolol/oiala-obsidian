@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDD/Ambientes/_Galáxia e Galáxias.md",
+                "file": "GDD/Ambientes/Planetas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Galáxia e Galáxias"
+              "title": "Planetas"
             }
           }
         ],
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GDD/Ambientes/_Galáxia e Galáxias.md",
+                "file": "GDD/Ambientes/Planetas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _Galáxia e Galáxias"
+              "title": "Backlinks for Planetas"
             }
           },
           {
@@ -175,12 +175,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GDD/Ambientes/_Galáxia e Galáxias.md",
+                "file": "GDD/Ambientes/Planetas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from _Galáxia e Galáxias"
+              "title": "Outgoing links from Planetas"
             }
           },
           {
@@ -202,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GDD/Ambientes/_Galáxia e Galáxias.md",
+                "file": "GDD/Ambientes/Planetas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _Galáxia e Galáxias"
+              "title": "Outline of Planetas"
             }
           }
         ],
@@ -235,13 +235,15 @@
   },
   "active": "fef2b96d07a2cbd2",
   "lastOpenFiles": [
+    "GDD/Ambientes/_Sistemas.md",
     "GDD/Ambientes/Planetas.md",
-    "GDD/Ambientes/_Galáxia e Galáxias.md",
+    "ArtRef/IMGs/TowerBorne.png",
+    "Canvas/_Fluxos.canvas",
+    "Untitled.canvas",
+    "GDD/Gameplay/Controles.md",
     "Kanban/Arte/Cards/Arte - Cenário Direções.md",
     "GDD/Arsenal-Equipamentos-Armas-Acessórios/_Arsenal.md",
-    "Canvas/_Fluxos.canvas",
     "GDD/Ambientes",
-    "ArtRef/IMGs/TowerBorne.png",
     "Kanban/Arte/_Kanban - Arte.md",
     "ArtRef/IMGs/Pasted image 20240919124146.png",
     "ArtRef/IMGs/Pasted image 20240919123943.png",
@@ -269,7 +271,6 @@
     "GDD/___Dúvidas.Início/__Sumário.md",
     "Excalidraw/FirstTest.md",
     "Sem título.md",
-    "Untitled.canvas",
     "Untitled.md",
     "2025-05-29.md",
     "GDD/Raças/Terráqueos.md",
@@ -277,9 +278,7 @@
     "GDD/Gameplay/_Gameplay-PrimeiraGameplay.md",
     "ArtRef/_DA_ArtRef.md",
     "GDD/Atributos e Status/_Atributos.md",
-    "GDD/Gameplay/Controles.md",
     "GDD/Gameplay/Banco.md",
-    "GDD/Gameplay/Missões.md",
     "GDD/Gameplay/Untitled/Untitled",
     "GDD/Gameplay/Untitled",
     "GDD/Atributos e Status",

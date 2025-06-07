@@ -9,6 +9,6 @@ TowerBorne é nossa principal referência de Cenário e de posicionamento de câ
 
 
 Definições Conceituais dos nossos ambientes
-[[_Galáxia e Galáxias]]
+[[_Sistemas]]
 
 
