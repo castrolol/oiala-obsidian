@@ -1,4 +1,6 @@
 
+- Arsenal
+	- A nomenclatura de Arsenal será utilizada para quando estivermos falando de quaisquer regras válidas tanto para Equipamentos, Armas, Acessórios
 - Equipamentos
 	- Equipamentos contempla itens como:
 		- Capacetes
@@ -8,14 +10,12 @@
 		- Manoplas (Luvas)
 		- Botas
 		- Itens Mão Secundária
+- Armas
+	- Quaisquer tipos de itens que sejam equipados na mão dos personagens para sentar o cacete nos inimigos
 - Acessórios
 	- Anéis
 	- Colares
 	- Brincos
-- Armas
-	- Quaisquer tipos de itens que sejam equipados na mão dos personagens para sentar o cacete nos inimigos
-- Arsenal
-	- A nomenclatura de Arsenal será utilizada para quando estivermos falando de quaisquer regras válidas tanto para Equipamentos, Armas, Acessórios
 - Atributos
 	- Características que representam as capacidades físicas de um personagem. Esses atributos afetam o desempenho do personagem em diversas situações do jogo
 		- Atributos Primários
@@ -40,5 +40,4 @@
 	- Habilidades Únicas para cada Raça, e que o jogador pode ativar ela no momento que desejar
 - Habilidades Raciais Passivas
 	- Habilidades Únicas para cada Raça que não necessitam do jogador apertar nenhum botão para ativar
-
 

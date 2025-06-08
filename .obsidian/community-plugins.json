@@ -1,5 +1,8 @@
 [
   "remotely-save",
   "github-sync",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "canvas-mindmap",
+  "advanced-canvas",
+  "obsidian-kanban"
 ]

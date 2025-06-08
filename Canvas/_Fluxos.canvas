@@ -1,19 +1,54 @@
 {
-	"nodes":[
-		{"id":"8d92607f7c66c28b","type":"group","x":-700,"y":-460,"width":2140,"height":1320,"color":"1","label":"Fluxos Telas Iniciais"},
-		{"id":"9704dea1c33d513c","type":"text","text":"Hub","x":20,"y":-420,"width":250,"height":60,"color":"2"},
-		{"id":"7468b849cad2c675","type":"text","text":"Descrição\n- Independente de um Hub Singleplayer ou Online ele terá as mesma funcionalidades;","x":20,"y":-360,"width":250,"height":200,"color":"2"},
-		{"id":"1f6a18eaf58fec95","type":"text","text":"Features\n- Lista de Amigos\n- Opções\n- Alterar Personagem\n- Convidar Amigos para Lobby\n\t- Caso anteriormente um Lobby SinglePlayer, agora ele altera para um Lobby Online\n- Quests\n\t- Aceitar Quests (Interagir com NPC para aceitar)\n\t- Visualizar atuais Quests (Quests que o usuário já aceitou)\n\t- Deletar Quests\n- Visualização dos Status do seu personagem\n- Visualização do seu Level e progressão dele\n- Visualizar seus equipamentos\n- Alterar seus equipamentos\n- Craftar novos equipamentos para seu personagem (Interação com NPC)\n- Checar Banco (Interação com NPC)\n\t- Visualização de itens adquiridos nas partidas\n\t- Banco compartilhado entre Personagens do usuário\n\t\t- Itens adquiridos durante as partidas são automaticamente movidos para o banco do usuário (Depois elaboramos mais a regra sobre para qual banco o item vai em uma partidar Online)\n- Visualizar equipamentos dos membros do grupo\n- Explorar Planetas\n\t- Interface de Seleção de Missão","x":20,"y":-160,"width":720,"height":880,"color":"2"},
-		{"id":"f2c04b5455e4359c","type":"text","text":"Seleção de Planetas","x":960,"y":-420,"width":250,"height":60,"color":"2"},
-		{"id":"71d390f6ad9a51f2","type":"text","text":"Descrição\n- Tela onde o jogador estará selecionando missão a ser explorada","x":960,"y":-360,"width":250,"height":200,"color":"2"},
-		{"id":"6d982993709305fb","type":"text","text":"First Screen","x":-320,"y":-420,"width":250,"height":60,"color":"2"},
-		{"id":"bfaa829ef5a0c40b","type":"text","text":"Features\n- Seleção Personagem\n- Criação Novo Personagem\n- Deletar Personagem\n- Criação Lobby\n- Procurar Lobby\n- Single Player\n- Lista de Amigos\n- Opções","x":-320,"y":-360,"width":250,"height":480,"color":"2"},
-		{"id":"29bcfc42098c4a7f","type":"text","text":"Login","x":-660,"y":-420,"width":250,"height":60,"color":"2"},
-		{"id":"2e4c4445c29df6d3","type":"text","text":"???Habilidades vem de Hotkeys???","x":1315,"y":1394,"width":250,"height":60}
-	],
 	"edges":[
-		{"id":"368e056dbcd8161a","fromNode":"29bcfc42098c4a7f","fromSide":"right","toNode":"6d982993709305fb","toSide":"left"},
-		{"id":"ef528c07b65a21b6","fromNode":"6d982993709305fb","fromSide":"right","toNode":"9704dea1c33d513c","toSide":"left"},
-		{"id":"46893c98476098f6","fromNode":"9704dea1c33d513c","fromSide":"right","toNode":"f2c04b5455e4359c","toSide":"left"}
+		{"fromNode":"29bcfc42098c4a7f","fromSide":"right","id":"368e056dbcd8161a","toNode":"6d982993709305fb","toSide":"left"},
+		{"fromNode":"6d982993709305fb","fromSide":"right","id":"ef528c07b65a21b6","toNode":"9704dea1c33d513c","toSide":"left"},
+		{"fromNode":"9704dea1c33d513c","fromSide":"right","id":"46893c98476098f6","toNode":"f2c04b5455e4359c","toSide":"left"}
+	],
+	"metadata":{
+		"frontmatter":{},
+		"startNode":"5d93c1b36ed1c280",
+		"version":"1.0-1.0"
+	},
+	"nodes":[
+		{"color":"#ffffff","height":2060,"id":"884f8fba60393940","label":"FluxoProduçãoInicial","type":"group","width":2620,"x":-700,"y":940},
+		{"color":"1","height":1260,"id":"8d92607f7c66c28b","label":"Fluxos Telas Iniciais","type":"group","width":2620,"x":-700,"y":-460},
+		{"color":"#fbff00","height":1640,"id":"ca2b661f35293fd9","label":"Protótipo Ideal","type":"group","width":1240,"x":-680,"y":1000},
+		{"color":"2","height":60,"id":"6d982993709305fb","text":"First Screen","type":"text","width":250,"x":-320,"y":-420},
+		{"color":"2","height":480,"id":"bfaa829ef5a0c40b","text":"Features\n- Seleção Personagem\n- Criação Novo Personagem\n- Deletar Personagem\n- Criação Lobby\n- Procurar Lobby\n- Single Player\n- Lista de Amigos\n- Opções","type":"text","width":250,"x":-320,"y":-360},
+		{"color":"2","height":60,"id":"29bcfc42098c4a7f","text":"Login","type":"text","width":250,"x":-660,"y":-420},
+		{"color":"2","height":60,"id":"9704dea1c33d513c","text":"Hub","type":"text","width":250,"x":20,"y":-420},
+		{"color":"2","height":880,"id":"1f6a18eaf58fec95","text":"Features\n- Lista de Amigos\n- Opções\n- Alterar Personagem\n- Convidar Amigos para Lobby\n\t- Caso anteriormente um Lobby SinglePlayer, agora ele altera para um Lobby Online\n- Quests\n\t- Aceitar Quests (Interagir com NPC para aceitar)\n\t- Visualizar atuais Quests (Quests que o usuário já aceitou)\n\t- Deletar Quests\n- Visualização dos Status do seu personagem\n- Visualização do seu Level e progressão dele\n- Visualizar seus equipamentos\n- Alterar seus equipamentos\n- Craftar novos equipamentos para seu personagem (Interação com NPC)\n- Checar Banco (Interação com NPC)\n\t- Visualização de itens adquiridos nas partidas\n\t- Banco compartilhado entre Personagens do usuário\n\t\t- Itens adquiridos durante as partidas são automaticamente movidos para o banco do usuário (Depois elaboramos mais a regra sobre para qual banco o item vai em uma partidar Online)\n- Visualizar equipamentos dos membros do grupo\n- Explorar Planetas\n\t- Interface de Seleção de Missão","type":"text","width":720,"x":20,"y":-160},
+		{
+			"color":"#000000",
+			"height":780,
+			"id":"2e49ccd3970bcca5",
+			"styleAttributes":{
+				"shape":null,
+				"textAlign":null
+			},
+			"text":"# Prioridades a Serem Testadas\n\n---\n\n## Arte \n- Cenário\n\t- Estilo de Arte do Cenário\n\t- Cenários Procedurais\n\t- Objetos não Interagíveis e Objetos Interagíveis\n- Personagens\n\t- Estilo de Arte dos Personagens\n\t- Rigging?\n\t- Animações\n\t- Soldado Humano\n\t- Soldado Kaltheriano\n- Arsenal\n\t- Estilo de Arte das Armas\n\t- 3 Tipos de Armas\n\t- Progressão da Arma\n\t- Ícones de Equipamentos (Menor Prioridade em relação aos outros)\n- Inimigo\n\t- Estilo de Arte do Inimigo Inicial\n\t- Animações\n\t- Progressão Visual",
+			"type":"text",
+			"width":580,
+			"x":-660,
+			"y":1020
+		},
+		{
+			"color":"#000000",
+			"height":780,
+			"id":"995b50f664a6c0b0",
+			"styleAttributes":{
+				"shape":null,
+				"textAlign":null
+			},
+			"text":"# Prioridades a Serem Testadas\n\n---\n\n## Tech \n- Cenário\n\t- Cenários Procedurais\n\t- Objetos Interagíveis\n- Personagens\n\t- Movimentação\n\t- Animações\n\t- Sistema de Raças e Classes\n\t- Status\n\t- Atributos\n\t- Progressão de Level (Menor Prioridade em relação aos outros)\n- Arsenal\n\t- Ataques e Combos básicos de Cada tipo de Arma\n\t- Sistema de Equipamentos (Menor Prioridade em relação aos outros)\n- Inimigo\n\t- Estilo de Arte do Inimigo Inicial\n\t- Animações\n\t- Progressão Visual",
+			"type":"text",
+			"width":580,
+			"x":-40,
+			"y":1020
+		},
+		{"color":"2","height":60,"id":"f2c04b5455e4359c","text":"Seleção de Planetas","type":"text","width":250,"x":960,"y":-420},
+		{"color":"2","height":200,"id":"71d390f6ad9a51f2","text":"Descrição\n- Tela onde o jogador estará selecionando missão a ser explorada","type":"text","width":250,"x":960,"y":-360},
+		{"color":"2","height":200,"id":"7468b849cad2c675","text":"Descrição\n- Independente de um Hub Singleplayer ou Online ele terá as mesma funcionalidades;","type":"text","width":250,"x":20,"y":-360},
+		{"file":"Kanban/Arte/_Kanban - Arte.md","height":400,"id":"854ce0ce0abf4e31","type":"file","width":400,"x":-660,"y":1820}
 	]
 }
