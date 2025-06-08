@@ -192,6 +192,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -199,8 +200,7 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "remotely-save:Remotely Save": false,
-      "github-sync:Sync with Remote": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "c3545474b5debbd1",
