@@ -6,7 +6,7 @@
       {
         "id": "35fc39414e1ff1ca",
         "type": "tabs",
-        "dimension": 59.61538461538461,
+        "dimension": 66.34615384615384,
         "children": [
           {
             "id": "db8a3b4a0ae81c2d",
@@ -28,8 +28,8 @@
               "state": {
                 "file": "Canvas/_Fluxos.canvas",
                 "viewState": {
-                  "x": -165.2527075992401,
-                  "y": 1834.6473680312242,
+                  "x": -252.70325704978958,
+                  "y": 1164.5100053938613,
                   "zoom": 0.07316641256197098
                 }
               },
@@ -66,12 +66,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDD/Ambientes/_Sistemas.md",
+                "file": "GDD/Lore/_Lore Inicial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Sistemas"
+              "title": "_Lore Inicial"
             }
           }
         ],
@@ -80,7 +80,7 @@
       {
         "id": "d2d4d93d98c67322",
         "type": "tabs",
-        "dimension": 40.38461538461539,
+        "dimension": 33.65384615384615,
         "children": [
           {
             "id": "2e65c1263c0a70cb",
@@ -246,33 +246,39 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5edba8db2236c176",
+  "active": "0fc12b575b45d378",
   "lastOpenFiles": [
-    "Kanban/Arte/Cards/Arte - Cenário Direções.md",
-    "GDD/Ambientes/_Sistemas.md",
+    "GDD/Lore/Ambientes/_Sistemas.md",
+    "GDD/Lore/_Lore Inicial.md",
+    "GDD/Lore/Ambientes/Planetas.md",
+    "GDD/Lore/Classes/Soldados/Soldados Kaltherianos.md",
+    "GDD/Lore/Classes/Soldados/Soldados Geral.md",
+    "GDD/Regras",
     "Canvas/_Fluxos.canvas",
     "Kanban/Arte/_Kanban - Arte.md",
+    "Kanban/Arte/Cards/Arte - Cenário Direções.md",
+    "GDD/Lore/Raças/Terráqueos.md",
+    "GDD/Lore/Raças/Kaltherianos.md",
+    "GDD/Lore",
     "ArtRef/IMGs/TowerBorne.png",
     "Sem título 1.md",
     "Untitled.md",
     "Excalidraw/FirstTest.md",
     "Canvas/_Regras.canvas",
-    "GDD/Gameplay/_Gameplay-PrimeiraGameplay.md",
-    "GDD/Gameplay/Banco.md",
-    "GDD/Raças/Kaltherianos.md",
-    "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot1/Disparada.md",
-    "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot1/Inspiração Máxima.md",
-    "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot1/Avanço Fulminante.md",
+    "GDD/Regras/Gameplay/_Gameplay-PrimeiraGameplay.md",
+    "GDD/Regras/Gameplay/Banco.md",
+    "GDD/Regras/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot1/Disparada.md",
+    "GDD/Regras/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot1/Inspiração Máxima.md",
+    "GDD/Regras/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot1/Avanço Fulminante.md",
     "GDD/Sistemas de Raças.md",
-    "GDD/Gameplay/Fórmulas e Cálculos.md",
-    "GDD/Atributos e Status/Definição Atributos.md",
-    "GDD/Atributos e Status/_Status.md",
-    "GDD/Atributos e Status/_Atributos.md",
-    "GDD/Ambientes/Planetas.md",
+    "GDD/Regras/Gameplay/Fórmulas e Cálculos.md",
+    "GDD/Regras/Atributos e Status/Definição Atributos.md",
+    "GDD/Regras/Atributos e Status/_Status.md",
+    "GDD/Regras/Atributos e Status/_Atributos.md",
     "Untitled.canvas",
-    "GDD/Gameplay/Controles.md",
-    "GDD/Arsenal-Equipamentos-Armas-Acessórios/_Arsenal.md",
-    "GDD/Ambientes",
+    "GDD/Regras/Gameplay/Controles.md",
+    "GDD/Regras/Arsenal-Equipamentos-Armas-Acessórios/_Arsenal.md",
+    "GDD/Lore/Ambientes",
     "ArtRef/IMGs/Pasted image 20240919124146.png",
     "ArtRef/IMGs/Pasted image 20240919123943.png",
     "ArtRef/IMGs/Pasted image 20240919123831.png",
@@ -284,9 +290,6 @@
     "ArtRef/IMGs/AnimaçãoReff02.png",
     "Kanban/Arte/Cards/Arte - Cenário.md",
     "Kanban/Arte/Cards/Arte - Personagens.md",
-    "Arte - Cenário.md",
-    "Arte - Cenário Direções 1.md",
-    "Arte - Cenário Direções 1 1.md",
     "Kanban/Arte/Cards",
     "Kanban/Arte",
     "Kanban",
@@ -294,10 +297,8 @@
     "Canvas/_CreativeBoard.canvas",
     "GDD/Gameplay/Untitled/Untitled",
     "GDD/Gameplay/Untitled",
-    "GDD/Atributos e Status",
+    "GDD/Regras/Atributos e Status",
     "Excalidraw",
-    "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot3",
-    "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot2",
     "_Fluxos.canvas",
     "_CreativeBoard.canvas",
     "_BoardOiala.canvas"
