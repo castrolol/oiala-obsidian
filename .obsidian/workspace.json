@@ -6,7 +6,7 @@
       {
         "id": "35fc39414e1ff1ca",
         "type": "tabs",
-        "dimension": 56.34615384615385,
+        "dimension": 49.1025641025641,
         "children": [
           {
             "id": "db8a3b4a0ae81c2d",
@@ -38,18 +38,6 @@
             }
           },
           {
-            "id": "b1dd46c1b609a6e5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "ArtRef/IMGs/TowerBorne.png"
-              },
-              "icon": "lucide-image",
-              "title": "TowerBorne"
-            }
-          },
-          {
             "id": "fef2b96d07a2cbd2",
             "type": "leaf",
             "state": {
@@ -73,12 +61,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "d2d4d93d98c67322",
         "type": "tabs",
-        "dimension": 43.65384615384615,
+        "dimension": 50.8974358974359,
         "children": [
           {
             "id": "2e65c1263c0a70cb",
@@ -246,12 +234,14 @@
   },
   "active": "fef2b96d07a2cbd2",
   "lastOpenFiles": [
-    "Kanban/Arte/Cards/Arte - Cenário Direções.md",
+    "Canvas/_Fluxos.canvas",
     "Kanban/Arte/_Kanban - Arte.md",
+    "ArtRef/IMGs/TowerBorne.png",
+    "Kanban/Arte/Cards/Arte - Cenário Direções.md",
+    "Sem título 1.md",
+    "Untitled.md",
     "GDD/Ambientes/_Sistemas.md",
     "Excalidraw/FirstTest.md",
-    "Canvas/_Fluxos.canvas",
-    "ArtRef/IMGs/TowerBorne.png",
     "Canvas/_Regras.canvas",
     "GDD/Gameplay/_Gameplay-PrimeiraGameplay.md",
     "GDD/Gameplay/Banco.md",
@@ -283,11 +273,9 @@
     "Arte - Cenário.md",
     "Arte - Cenário Direções 1.md",
     "Arte - Cenário Direções 1 1.md",
-    "GDD/___Dúvidas.Início/__Briefing.md",
     "Kanban/Arte/Cards",
     "Kanban/Arte",
     "Kanban",
-    "GDD/___Dúvidas.Início/_Biblioteca de Nomenclaturas.md",
     "Canvas/_Art.canvas",
     "Canvas/_CreativeBoard.canvas",
     "GDD/Gameplay/Untitled/Untitled",

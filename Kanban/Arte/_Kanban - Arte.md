@@ -37,6 +37,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false],"move-dates":true,"show-relative-date":true,"link-date-to-daily-note":true,"archive-with-date":true,"move-task-metadata":true}
 ```
 %%
