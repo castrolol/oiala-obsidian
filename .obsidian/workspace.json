@@ -6,7 +6,7 @@
       {
         "id": "35fc39414e1ff1ca",
         "type": "tabs",
-        "dimension": 49.1025641025641,
+        "dimension": 29.294871794871796,
         "children": [
           {
             "id": "db8a3b4a0ae81c2d",
@@ -30,7 +30,7 @@
                 "viewState": {
                   "x": -293.6385735715649,
                   "y": 1401.4625455861349,
-                  "zoom": 0.07316641256197098
+                  "zoom": -1.5935002541046954
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -61,12 +61,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "d2d4d93d98c67322",
         "type": "tabs",
-        "dimension": 50.8974358974359,
+        "dimension": 70.7051282051282,
         "children": [
           {
             "id": "2e65c1263c0a70cb",
@@ -114,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Art",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +135,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -232,7 +233,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "fef2b96d07a2cbd2",
+  "active": "ba96ed7ae0627635",
   "lastOpenFiles": [
     "Canvas/_Fluxos.canvas",
     "Kanban/Arte/_Kanban - Arte.md",
