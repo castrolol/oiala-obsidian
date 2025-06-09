@@ -12,7 +12,9 @@
   "knownTags": {
     "excalidraw": 1,
     "Art": 2,
-    "Cenários": 3
+    "Cenários": 3,
+    "Narrativa": 4,
+    "Regras": 5
   },
   "_version": 3
 }

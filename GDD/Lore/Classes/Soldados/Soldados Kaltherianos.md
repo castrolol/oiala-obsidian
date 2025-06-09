@@ -1,3 +1,7 @@
+#Art #Narrativa 
+
+-------
+
 >[!Os Kaltherianos Soldados representam uma dualidade: uma civilização em busca de equilíbrio e preservação, mas pronta para lutar contra ameaças externas. Eles destacam a elegância e a letalidade em igual medida, criando um contraste forte com a brutalidade terráquea.]
 >
 

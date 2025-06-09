@@ -1,5 +1,6 @@
-#Art 
-[[Mercúrio]], [[Vénus]], [[Terra]], [[Marte]], [[Júpiter]], [[Saturno]], [[Urano]] e [[Netuno]].
+#Art #Narrativa 
+
+[[Mercúrio]] [[Vénus]] [[Terra]] [[Marte]] [[Júpiter]] [[Saturno]] [[Urano]] [[Netuno]]
 
 ------
 
