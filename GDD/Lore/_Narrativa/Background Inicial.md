@@ -84,4 +84,10 @@ A Aurex Dominus rapidamente eliminou dissidentes e opositores, rotulados como he
 
 # Sussurros do Passado
 
+Severian Vox estava sentado no Trono de Interferência, seu olhar fixo nas ondas pulsantes de energia que emanavam do Núcleo. A sala era silenciosa, exceto pelo som quase imperceptível de uma voz antiga que sussurrava direto em sua mente — não palavras comuns, mas imagens e sensações de um passado esquecido.
+
+O Núcleo mostrava-lhe vislumbres da antiga civilização: um império de conhecimento e poder, arruinado por uma força invisível e implacável. Agora, essa mesma ameaça estava voltando.
+
+— Eles virão — a mensagem era clara, mas carregada de ambiguidade. Vox não sabia ainda se o Núcleo era aliado ou agente dessa catástrofe iminente, mas uma certeza o dominava: a Terra não seria poupada.
+Enquanto isso, nas profundezas das escavações, algo começava a se mover. Os trabalhadores, inicialmente céticos, começaram a relatar visões e aparições estranhas — alguns trabalhadores começaram simplesmente a sumir.
 
