@@ -3,6 +3,14 @@
 
 -----
 
+# Padrões de Comportamento da Infecção
+
+- Rede radicular subterrânea: Raízes ou fibras invadem a terra e emergem em locais distantes.    
+- Bioarquitetura viva: Criam estruturas com corpos mortos, fungos e plantas alteradas.
+- Transformação de fauna/flora local: Toda biosfera é adaptada à lógica da Colmeia.
+- Ritualismo ecológico: Padrões simétricos, como mandalas ou círculos de vegetação, emergem ao redor dos centros mutantes — como se fossem "templos naturais".
+- Corrompimento atmosférico: Esporos em suspensão tornam zonas inabitáveis.
+
 # Mutações em Humanos
 
 - ## Neurocarniçais
