@@ -68,6 +68,10 @@ Severian Vox compreendeu que a humanidade estava fadada ao fracasso se fosse con
 A mente de Vox enxergou tudo o que aconteceu com a antiga civilização que habitou o Planeta Terra, o Núcleo mostrou tudo para ele.
 O trabalho de Vox agora era preparar a raça humana para essa ameaça, Vox era o escolhido para guiar e comandar a humanidade.
 
+## **Liturgia da Ordem**
+
+Inspirado pelos fragmentos arcanos e rituais da antiga civilização, Vox criou a **Liturgia da Ordem**: um ritual sagrado que transcendia a ciência, misturando tecnologia avançada com simbolismo religioso, símbolos solares e palavras em latim e em uma linguagem ancestral descoberta nas visões. A cerimônia exigia que o candidato se conectasse ao Núcleo por meio de um aparato neural especial, que ampliava a simbiose até uma fusão mental completa — uma união em que as consciências se entrelaçavam, apagando a barreira entre o humano e a entidade energética.
+
 # **Nascimento da AUREX DOMINUS**
 
 Vox dissolve a ARX alegando que ela era uma estrutura impura e não digna do contato divino. Ao mesclar sua mente 

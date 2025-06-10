@@ -6,7 +6,7 @@
       {
         "id": "35fc39414e1ff1ca",
         "type": "tabs",
-        "dimension": 51.10821382007823,
+        "dimension": 59.51760104302477,
         "children": [
           {
             "id": "db8a3b4a0ae81c2d",
@@ -57,7 +57,7 @@
       {
         "id": "d2d4d93d98c67322",
         "type": "tabs",
-        "dimension": 48.89178617992177,
+        "dimension": 40.48239895697523,
         "children": [
           {
             "id": "2e65c1263c0a70cb",
@@ -241,8 +241,12 @@
   "active": "fef2b96d07a2cbd2",
   "lastOpenFiles": [
     "GDD/Lore/Personagens/Severian Vox.md",
-    "GDD/Lore/Personagens/Codex de Ordo.md",
     "GDD/Lore/_Narrativa/Background Inicial.md",
+    "GDD/Lore/Personagens/Codex de Ordo.md",
+    "GDD/Lore/_Narrativa/_Regras Gerais Narrativa.md",
+    "GDD/___Dúvidas.Início/__Briefing.md",
+    "GDD/___Dúvidas.Início/Referências BeatEmUp.md",
+    "GDD/___Dúvidas.Início/Análises.md",
     "Kanban/Arte/_Kanban - Arte.md",
     "GDD/Lore/Personagens",
     "GDD/Lore/Raças/Terráqueos.md",
@@ -251,7 +255,6 @@
     "GDD/Lore/Classes/Soldados/Soldados Geral.md",
     "Kanban/Arte/Cards/Arte - Cenário Direções.md",
     "GDD/Lore/Raças/Kaltherianos.md",
-    "GDD/Lore/_Narrativa/_Regras Gerais Narrativa.md",
     "GDD/Lore/Ambientes/Planetas.md",
     "GDD/Lore/Ambientes/_Sistemas.md",
     "GDD/Sistemas de Raças.md",
@@ -270,9 +273,6 @@
     "GDD/Regras Tecnologia/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot1/Inspiração Máxima.md",
     "GDD/Regras Tecnologia/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot1/Avanço Fulminante.md",
     "GDD/Regras Tecnologia/Gameplay/Fórmulas e Cálculos.md",
-    "GDD/Regras Tecnologia/Atributos e Status/Definição Atributos.md",
-    "GDD/Regras Tecnologia/Atributos e Status/_Status.md",
-    "GDD/Regras Tecnologia/Atributos e Status/_Atributos.md",
     "Untitled.canvas",
     "GDD/Lore/Ambientes",
     "ArtRef/IMGs/Pasted image 20240919124146.png",

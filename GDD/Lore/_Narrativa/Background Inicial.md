@@ -51,23 +51,21 @@ O núcleo é uma entidade energética que **possui consciência própria** — n
 > - Fragmentos de informação alteram a cultura de seu usuário.
 > 	- Crenças, arte e linguagem da antiga civilização começam a misturar-se com as tradições terráqueas. Arquitetura e simbologia ganham traços alienígenas, mudando silenciosamente a identidade cultural.
 
-## **Nascimento da AUREX DOMINUS**
+# **Nascimento da AUREX DOMINUS**
 
 [[Severian Vox]] 
 
-Vox dissolve a ARX alegando que ela era uma estrutura impura e não digna do contato divino. Ao mesclar sua mente 
+Ao perceber o potencial do Núcleo como uma entidade viva e consciente, [[Severian Vox]] tomou para si o papel de mediador supremo entre a humanidade e essa força primordial. Diferente dos antigos líderes da ARX, que tratavam o Núcleo como um objeto a ser estudado ou contido, Vox compreendeu que só a fusão verdadeira entre o Núcleo e um ser vivo poderia desbloquear o poder absoluto — mas isso exigia uma entrega total, física e espiritual.
 
-A nova corporação nasce como culto-governo, misturando dogma religioso com estrutura paramilitar. **“Per Arx, Ordo”** passa a significar: *A ordem divina só vem por meio da fortaleza, e a fortaleza é o Núcleo.*
+Inspirado pelos fragmentos arcanos e rituais da antiga civilização, Vox criou a **Liturgia da Ordem**: um ritual sagrado que transcendia a ciência, misturando tecnologia avançada com simbolismo religioso, símbolos solares e palavras em latim e em uma linguagem ancestral descoberta nas visões. A cerimônia exigia que o candidato se conectasse ao Núcleo por meio de um aparato neural especial, que ampliava a simbiose até uma fusão mental completa — uma união em que as consciências se entrelaçavam, apagando a barreira entre o humano e a entidade energética.
 
-Vox percebe que para seguir seu plano, a ARX precisa ser desmantelada e reconstruída sob outra lógica.
-Membros da ARX ficam divididos: alguns o consideram instável, outros passam a vê-lo como um novo profeta.  Vox passa a influenciar decisões da cúpula sem nunca assumir um cargo oficial — seu poder vem de percepção, não de autoridade.
+A primeira fusão total de Vox com o Núcleo foi secreta e cheia de riscos — ele desapareceu por dias, retornando mudado para sempre. Seus olhos refletiam uma luz viva, seu corpo irradiava um poder incomum, e sua mente operava em uma frequência além do entendimento comum. Através desse ritual, Vox não só ampliou sua inteligência e percepção, mas também internalizou a vontade primordial do Núcleo: a ordem absoluta, o controle da caos, a eliminação do livre-arbítrio que ele considerava um erro fatal da humanidade.
 
-Começa a dividir os membros da ARX entre os “**puros**” e os “**corrompidos**”. Os puros seguem o novo paradigma; os corrompidos ainda acreditam em livre arbítrio.
-Usa dados do Núcleo para prever comportamentos e expor traições antes mesmo que aconteçam, tornando-se aparentemente onisciente.
+Convencido de sua missão divina, Vox dissolveu a ARX em suas bases, alegando que aquela estrutura era corrompida pela fraqueza e pela hesitação. Sob sua liderança, nasceu a **AUREX DOMINUS**, uma fusão de culto e estado paramilitar dedicada à implementação da nova ordem. A liturgia tornou-se a pedra angular da corporação — uma combinação de fé, ciência e poder, que elevava seus seguidores como guardiões da vontade do Núcleo.
 
-Organiza um “Concílio de Alinhamento” para reestruturar a ARX — mas ele **expulsa a cúpula executiva** ao vivo, transmitindo um discurso onde declara:
+No centro da nova estrutura estava o **Trono de Interferência**, onde apenas Vox podia se conectar diretamente ao Núcleo, mantendo a cadeia de comando absoluta e protegendo a entidade das influências externas. Os rituais sagrados passaram a ser conduzidos por sacerdotes técnicos, os **Custodes**, que garantiam que cada ação da corporação estivesse em harmonia com a liturgia e a vontade do Núcleo.
 
-***"A ARX falhou. Não por ignorância. Mas por hesitação.”***
+A Aurex Dominus rapidamente eliminou dissidentes e opositores, rotulados como hereges tecnológicos, e estabeleceu um sistema de controle social e cultural tão rígido quanto implacável. Vox, o “Vox do Núcleo”, tornou-se não apenas um líder político, mas uma figura messiânica, o arauto da nova era, aquela em que a humanidade seria finalmente salva — pela ordem imposta e pela fusão transcendental com o poder primordial do Núcleo.
 
 
 > [!AUREX DOMINUS -- Per Arx, Ordo]
