@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"nodes":[
 		{"id":"f014872e731807b8","type":"group","x":4240,"y":-2220,"width":8360,"height":4700,"color":"#ffffff","label":"CLASSES"},
 		{"id":"d10658c14705049b","type":"group","x":4360,"y":100,"width":7900,"height":2360,"color":"1","label":"Soldados"},
@@ -172,4 +173,394 @@
 		{"id":"732163d7159b28d7","fromNode":"01d73b1f7034a7b8","fromSide":"right","toNode":"45793320f737c52f","toSide":"left"},
 		{"id":"4d02c80c250f1cf1","fromNode":"0396901cf45e137d","fromSide":"right","toNode":"0133763580b082c6","toSide":"left"}
 	]
+=======
+  "edges": [
+    {
+      "fromNode": "059f109f892aff3e",
+      "fromSide": "right",
+      "id": "68ecb81d44f22e24",
+      "toNode": "b83516761cbad39c",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b83516761cbad39c",
+      "fromSide": "bottom",
+      "id": "71041f8db45ce69b",
+      "toNode": "dd37258ce74a3e49",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "b83516761cbad39c",
+      "fromSide": "bottom",
+      "id": "f52e91ac3d4b0128",
+      "toNode": "64c1f9d6d192b1a2",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "b83516761cbad39c",
+      "fromSide": "bottom",
+      "id": "906b907e602050a4",
+      "toNode": "942e1103f3722bae",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "b83516761cbad39c",
+      "fromSide": "bottom",
+      "id": "044918988997492e",
+      "toNode": "92d1b7bfb0f031ba",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "b83516761cbad39c",
+      "fromSide": "right",
+      "id": "41f4718e52acdf64",
+      "toNode": "e1258947e98d804c",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "03f90d197a885e0c",
+      "fromSide": "right",
+      "id": "1912512de7cd68e0",
+      "toNode": "ca4d0954da41e68e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "ca4d0954da41e68e",
+      "fromSide": "right",
+      "id": "6ce8c8284b6cfdd5",
+      "toNode": "875457aa1c398286",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "875457aa1c398286",
+      "fromSide": "right",
+      "id": "c3c25983818fc2ef",
+      "toNode": "0801754171fc4840",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0801754171fc4840",
+      "fromSide": "right",
+      "id": "63aa498c535ea75a",
+      "toNode": "fc6f1d2a9d3012f6",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "fc6f1d2a9d3012f6",
+      "fromSide": "top",
+      "id": "44cf96e3ca838e2d",
+      "toNode": "03f90d197a885e0c",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {
+    "frontmatter": {
+    },
+    "version": "1.0-1.0"
+  },
+  "nodes": [
+    {
+      "color": "#ff00c8",
+      "height": 2843,
+      "id": "3684daf8b8495987",
+      "label": "IDEIAS INICIAIS",
+      "type": "group",
+      "width": 4980,
+      "x": -3960,
+      "y": -3280
+    },
+    {
+      "height": 1017,
+      "id": "66f5197eab273648",
+      "label": "Estudo Câmeras",
+      "type": "group",
+      "width": 1004,
+      "x": -2419,
+      "y": -2298
+    },
+    {
+      "color": "5",
+      "height": 123,
+      "id": "0b2c94fd4d7028d3",
+      "text": "- Loot",
+      "type": "text",
+      "width": 412,
+      "x": -332,
+      "y": -2700
+    },
+    {
+      "height": 551,
+      "id": "942e1103f3722bae",
+      "text": "### **Rogue-Like**\n\n- **Geração Procedural:** Os níveis são gerados aleatoriamente, proporcionando novas experiências a cada jogada.\n- **Permadeath (Morte Permanente):** Se o jogador morre, ele perde todo o progresso daquela tentativa, começando novamente do início.\n- **Desafios Progressivos:** Os desafios e inimigos se tornam progressivamente mais difíceis, forçando o jogador a se adaptar a cada novo cenário.\n- **Rejogabilidade:** O formato de gerar conteúdo novo a cada jogada faz com que o jogo tenha grande fator de rejogabilidade, recompensando a experimentação.",
+      "type": "text",
+      "width": 345,
+      "x": -3177,
+      "y": -2298
+    },
+    {
+      "height": 551,
+      "id": "64c1f9d6d192b1a2",
+      "text": "### **Plataforma**\n\n- **Jogabilidade Baseada em Saltos:** A movimentação principal envolve pular entre plataformas, evitar armadilhas e inimigos, além de resolver pequenos quebra-cabeças.\n- **Níveis Bem Elaborados:** Os níveis são desenhados para serem desafiadores, exigindo precisão no movimento e habilidades específicas para avançar.\n- **Exploração:** Muitos jogos de plataforma incentivam a exploração, escondendo segredos e itens que ampliam a jogabilidade ou dão novas habilidades.\n- **Controle Preciso:** O controle do personagem precisa ser fluido e responsivo para que o jogador tenha domínio total sobre os saltos e movimentos.",
+      "type": "text",
+      "width": 345,
+      "x": -3556,
+      "y": -2298
+    },
+    {
+      "height": 551,
+      "id": "dd37258ce74a3e49",
+      "text": "### **Beat 'Em Up**\n\n- **Foco no Combate:** A mecânica principal é lutar contra ondas de inimigos em combate corpo a corpo ou com armas simples. O combate é geralmente rápido e direto.\n- **Movimentação Linear:** O jogador se move lateralmente ou em uma perspectiva isométrica, avançando através de níveis enquanto enfrenta diversos inimigos.\n- **Variedade de Inimigos e Chefes:** Os inimigos têm diferentes padrões de ataque, e o jogador geralmente enfrenta chefes mais fortes ao final das fases.\n- **Cooperação:** Muitos desses jogos permitem multiplayer cooperativo local, permitindo que os jogadores enfrentem inimigos juntos.",
+      "type": "text",
+      "width": 345,
+      "x": -3935,
+      "y": -2298
+    },
+    {
+      "file": "GDD/___Dúvidas.Início/Referências BeatEmUp.md",
+      "height": 853,
+      "id": "b83516761cbad39c",
+      "type": "file",
+      "width": 379,
+      "x": -3384,
+      "y": -3233
+    },
+    {
+      "file": "GDD/___Dúvidas.Início/__Sumário.md",
+      "height": 483,
+      "id": "059f109f892aff3e",
+      "type": "file",
+      "width": 345,
+      "x": -3935,
+      "y": -3048
+    },
+    {
+      "height": 1258,
+      "id": "fd036d864740101a",
+      "text": "### **BeatEmUp x ActionRPG**\n\n### **Foco no Combate e na Jogabilidade**:\n\n- **RPG de Ação**:\n    - Combina combate em tempo real com elementos de RPG, como progressão de personagem, melhoria de habilidades e narrativa.\n    - Os jogadores enfrentam combates enquanto gerenciam atributos (vida, mana, habilidades), evoluindo os personagens e tomando decisões estratégicas sobre equipamentos e habilidades.\n    - O combate é geralmente mais complexo, envolvendo combos, magias e táticas variadas.\n    - **Exemplos**: _The Witcher 3_, _Dark Souls_, _Diablo_.\n- **Beat 'Em Up**:\n    - Foca em combate corpo a corpo com controles simples (soco, chute, pulo) contra ondas de inimigos.\n    - A jogabilidade é frequentemente linear, com o jogador avançando através de níveis e enfrentando inimigos em combates próximos.\n    - Há pouca progressão de personagem além de pegar power-ups ou upgrades simples.\n    - **Exemplos**: _Streets of Rage_, _Double Dragon_, _Final Fight_.\n### **Progressão e História**:\n\n- **RPG de Ação**:\n    - Histórias profundas, exploração de mundo e personalização de personagem são centrais. As escolhas geralmente afetam o desfecho da história.\n    - A progressão do personagem é um elemento-chave, com pontos de experiência, árvores de habilidades e criação de equipamentos.\n    - A narrativa geralmente tem um papel significativo, com missões e lore (história).\n- **Beat 'Em Up**:\n    - A história é muitas vezes secundária ao combate, girando em torno de objetivos simples, como resgatar um personagem ou derrotar um vilão.\n    - A progressão é baseada na conclusão de níveis e derrota de inimigos, com ênfase limitada no desenvolvimento dos personagens ao longo do tempo.\n\n### **Estrutura de Jogabilidade**:\n\n- **RPG de Ação**:\n    - Estrutura de mundo aberto ou semi-aberto, onde os jogadores podem explorar no seu próprio ritmo, realizar missões secundárias e interagir com NPCs.\n    - O combate é muitas vezes combinado com exploração, resolução de quebra-cabeças e coleta de itens.\n- **Beat 'Em Up**:\n    - Baseado em níveis, com o jogador avançando através de estágios e lutando contra grupos de inimigos. O foco está em sequências de ação rápidas e curtas.\n    - Os níveis são geralmente lineares, com exploração ou interação limitada fora do combate.\n\n### **Multiplayer**:\n\n- **RPG de Ação**:\n    - Embora alguns RPGs de ação ofereçam modos multiplayer ou cooperativo (_Diablo_), o foco costuma ser em experiências single-player com mundos imersivos.\n- **Beat 'Em Up**:\n    - Frequentemente projetado para multiplayer cooperativo local, onde dois ou mais jogadores se unem para lutar lado a lado contra inimigos.\n    - O elemento cooperativo é uma parte importante do apelo dos jogos _Beat 'Em Up_.\n\n### **Complexidade**:\n\n- **RPG de Ação**:\n    - Mais complexo, com sistemas como criação de itens, gerenciamento de inventário e escolhas narrativas profundas.\n- **Beat 'Em Up**:\n    - Mais simples e direto, com foco no combate e ação, em vez de decisões estratégicas ou narrativas profundas.\n\n### Conclusão:\n\n- **RPGs de Ação** são mais complexos, combinando combate em tempo real com progressão de personagem, exploração de mundo e narrativa profunda.\n- **Beat 'Em Up** são mais simples, focando em combates rápidos e ação direta, com progressão e narrativa limitadas.",
+      "type": "text",
+      "width": 1482,
+      "x": -3935,
+      "y": -1712
+    },
+    {
+      "color": "1",
+      "height": 123,
+      "id": "fc6f1d2a9d3012f6",
+      "text": "Melhorar Equipamentos",
+      "type": "text",
+      "width": 412,
+      "x": 591,
+      "y": -2874
+    },
+    {
+      "color": "5",
+      "height": 453,
+      "id": "8bc92a11d767935b",
+      "text": "- Construção e melhoria dos equipamentos e armaduras através do loot acumulado durante suas explorações",
+      "type": "text",
+      "width": 874,
+      "x": 129,
+      "y": -2700
+    },
+    {
+      "color": "5",
+      "height": 123,
+      "id": "7d119dcb2c760c37",
+      "text": "- Recompensas Quests",
+      "type": "text",
+      "width": 412,
+      "x": -332,
+      "y": -2534
+    },
+    {
+      "color": "1",
+      "height": 123,
+      "id": "0801754171fc4840",
+      "text": "Construir Equipamentos",
+      "type": "text",
+      "width": 412,
+      "x": 129,
+      "y": -2874
+    },
+    {
+      "color": "5",
+      "height": 123,
+      "id": "25d6a2f0fe8b60ff",
+      "text": "- Loots Únicos Bosses",
+      "type": "text",
+      "width": 412,
+      "x": -332,
+      "y": -2370
+    },
+    {
+      "color": "5",
+      "height": 453,
+      "id": "8a0402e04a97a7f7",
+      "text": "- Exploração de Planetas para resolver quests e descobrir tesouros\n- Exploração Coop - Amigos ou matchmaking",
+      "type": "text",
+      "width": 412,
+      "x": -1255,
+      "y": -2700
+    },
+    {
+      "color": "5",
+      "height": 453,
+      "id": "26a39d16b63bc6cc",
+      "text": "- Acúmulo de experiência em relação a dificuldade dos desafios vencidos",
+      "type": "text",
+      "width": 412,
+      "x": -794,
+      "y": -2700
+    },
+    {
+      "color": "1",
+      "height": 123,
+      "id": "03f90d197a885e0c",
+      "text": "Explorar Planetas",
+      "type": "text",
+      "width": 412,
+      "x": -1255,
+      "y": -2874
+    },
+    {
+      "color": "6",
+      "height": 906,
+      "id": "8ff059ec65211f4a",
+      "text": "No Menu Principal o usuário consegue visualizar seus personagens existentes e criar novos personagens. Após selecionar seu personagem e dar o play o jogador passará por um loading e irá para a tela do HUB. Dentro da tela do HUB o usuário poderá executar algumas ações como criar equipamentos, melhorar seus equipamentos, alterar sua build e receber quests. \n==Durante sua permanência do HUB o usuário irá enxergar alguns outros jogadores também andando pelo HUB, como se todos estivessem no mesmo canal e terá algumas opções simples como adicionar essas pessoas como amigos, chamar para o grupo e visualizar os equipamentos, dentro do hub o usuário também pode utilizar o chat, tanto local quanto global.== Após formar um grupo todos os membros desse grupo passam a estar no mesmo canal.\nAgora com um grupo formado os usuários prosseguem para o quadro de missões checar se existe alguma quest disponível interessante, após o grupo decidir quais quests desejam fazer eles partem para o menu de exploração onde irão escolher seu destino de viagem. \nA escolha do destino de viagem acontece apenas através de uma tela de opções e o jogador é teleportado para o seu destino.\nTodos os jogadores aparecem no inicio do level e devem começar a se movimentar pelo mapa para explorar o ambiente. Durante a exploração o jogador e o grupo deverão escolher caminhos a seguir dentro de cada mapa e vencer desafios como armadilhas e inimigos. ",
+      "type": "text",
+      "width": 2257,
+      "x": -1255,
+      "y": -2205
+    },
+    {
+      "color": "1",
+      "height": 123,
+      "id": "875457aa1c398286",
+      "text": "Acumular Recursos",
+      "type": "text",
+      "width": 412,
+      "x": -332,
+      "y": -2874
+    },
+    {
+      "color": "3",
+      "height": 123,
+      "id": "f9bd1eb7fb0f80a0",
+      "text": "\tCore Loop",
+      "type": "text",
+      "width": 412,
+      "x": -332,
+      "y": -3276
+    },
+    {
+      "color": "1",
+      "height": 123,
+      "id": "ca4d0954da41e68e",
+      "text": "Subir de Level",
+      "type": "text",
+      "width": 412,
+      "x": -794,
+      "y": -2874
+    },
+    {
+      "height": 53,
+      "id": "333b6b1a84e7213e",
+      "text": "### **Diferentes posicionamentos de câmeras em BeatEmUp's**",
+      "type": "text",
+      "width": 968,
+      "x": -2401,
+      "y": -2280
+    },
+    {
+      "height": 551,
+      "id": "92d1b7bfb0f031ba",
+      "text": "### **Vampire Survivors**\n\n- **Jogabilidade Simples e Viciante:** O jogador controla o personagem principalmente através da movimentação, enquanto habilidades automáticas atacam os inimigos. O objetivo é sobreviver ao maior número possível de ondas de inimigos.\n- **Crescimento Rápido de Poder:** O jogador rapidamente acumula habilidades e armas que transformam seu personagem em uma verdadeira máquina de destruição conforme o jogo avança.\n- **Progressão Constante:** O jogo oferece upgrades e evoluções de habilidades de maneira constante, incentivando múltiplas tentativas (\"runs\") curtas e recompensadoras.\n- **Acessibilidade:** A simplicidade dos controles e a curta duração das sessões tornam o jogo altamente acessível, permitindo que seja fácil de começar e difícil de parar.",
+      "type": "text",
+      "width": 345,
+      "x": -2798,
+      "y": -2298
+    },
+    {
+      "file": "ArtRef/IMGs_ReffsJogos/Teenage Mutant Ninja Turtles.png",
+      "height": 261,
+      "id": "047294bb906b7916",
+      "type": "file",
+      "width": 465,
+      "x": -2401,
+      "y": -2183
+    },
+    {
+      "file": "ArtRef/IMGs_ReffsJogos/Castle Crashers.png",
+      "height": 262,
+      "id": "37323a65dbb4ede7",
+      "type": "file",
+      "width": 466,
+      "x": -1899,
+      "y": -2184
+    },
+    {
+      "file": "ArtRef/IMGs_ReffsJogos/Midnight Fight Express.png",
+      "height": 260,
+      "id": "22fce1bdd8c7aefe",
+      "type": "file",
+      "width": 465,
+      "x": -2401,
+      "y": -1871
+    },
+    {
+      "file": "ArtRef/IMGs_ReffsJogos/Rotwood.png",
+      "height": 261,
+      "id": "9a6551cc08490d3e",
+      "type": "file",
+      "width": 464,
+      "x": -1896,
+      "y": -1872
+    },
+    {
+      "file": "ArtRef/IMGs/TowerBorne.png",
+      "height": 258,
+      "id": "9b019780f6539c88",
+      "type": "file",
+      "width": 461,
+      "x": -2401,
+      "y": -1557
+    },
+    {
+      "height": 853,
+      "id": "e1258947e98d804c",
+      "text": "Direções Iniciais\n\n- Queremos criar uma experiência divertida e casual;\n- Um ambiente onde você possa se juntar com seus amigos e ter a possibilidade de planejar como irão enfrentar os próximos desafios e gerarem combinações de builds para enfrentar esses desafios.\n\nSistemas Iniciais Comentados\n\n- Personagens únicos, com habilidades passivas únicas;\n- Combinação de equipamentos gerando habilidades;\n- Elementos que alteram suas habilidades passivas e ativas durante a gameplay, gerando uma variabilidade;\n- Construção de novos equipamentos, ampliando possibilidade de builds;\n- Interações com cenários\n- Combos novos durante a run",
+      "type": "text",
+      "width": 345,
+      "x": -2953,
+      "y": -3233
+    },
+    {
+      "file": "ArtRef/IMGs_ReffsJogos/WoWCharacterPassives.png",
+      "height": 395,
+      "id": "9fe6ce854fca959e",
+      "type": "file",
+      "width": 327,
+      "x": -2581,
+      "y": -3233
+    },
+    {
+      "height": 395,
+      "id": "40ac99465dd32699",
+      "text": "- Raças\n\t- Skills Passivas\n\t- Status\n- Equipamentos\n\t- Quais sao eles\n\t- Skills\n\t- Status\n- Armas\n\t- Quais sao eles\n\t- Skills\n\t- Spells\n\t- Status\n\t- Sistemas Combos\n- Movimentação do Jogador\n\t- Ações\n- Resumo\n\t- Sistema de Status\n\t- Ailments\n\t- ",
+      "type": "text",
+      "width": 300,
+      "x": -1820,
+      "y": -3233
+    },
+    {
+      "file": "ArtRef/IMGs_ReffsJogos/AlbionSkills.png",
+      "height": 395,
+      "id": "5fe279268c6a0b14",
+      "type": "file",
+      "width": 399,
+      "x": -2240,
+      "y": -3233
+    }
+  ]
+>>>>>>> cf124cb1dd159dcd38798687095bddd5cb862042
 }

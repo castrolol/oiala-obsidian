@@ -1,5 +1,13 @@
 [
   "remotely-save",
   "github-sync",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "canvas-mindmap",
+  "advanced-canvas",
+  "obsidian-kanban",
+  "obsidian-minimal-settings",
+  "file-explorer-note-count",
+  "ninja-cursor",
+  "obsidian-icon-folder",
+  "colored-tags"
 ]

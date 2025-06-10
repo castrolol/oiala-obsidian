@@ -1,4 +1,8 @@
 
+[[Banco]] [[Controles]] [[Forja]] [[Missões]] [[Fórmulas e Cálculos]]
+
+-----
+
 # Core
 
 - A ideia principal do jogo é [[Exploração]], acumular [[Recursos]], [[Progressão]] dos seus personagens.
@@ -34,7 +38,7 @@
 	- O quadro de [[Missões]] já apresentaram [[Missões]] para ele aceitar
 	- O menu de [[Exploração]] deverá ser o foco principal do usuário neste momento, aqui ele deverá selecionar seu primeiro destino e partir para a exploração
 - Durante a exploração o usuário deverá derrotar todas as hordas de inimigo e acumular a maior quantidade de recursos que conseguir até chegar ao fim da exploração e retornar ao Hub
-- A partir do momento que o jogador retornar ao HUB ele poderá finalizar alguma [[Missões]], estocar qualquer recurso que desejar no [[Banco]] ou construir algum equipamento ou arma na [[Forja]], caso ele tenha acumulado recursos o suficiente
+- A partir do momento que o jogador retornar ao HUB ele poderá finalizar alguma [[Missões]], estocar qualquer recurso que desejar no [[Banco]] ou construir algum equipamento ou arma na [[Forja]], caso ele tenha acumulado recursos o suficiente, [[
 
 
 - # Personagem Inicial
