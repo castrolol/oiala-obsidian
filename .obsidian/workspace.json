@@ -4,54 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a073bcfe90e94450",
+        "id": "7f88570321b3986a",
         "type": "tabs",
         "children": [
           {
-            "id": "34ed85397bbdb331",
+            "id": "cc0140683996340d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GDD/Gameplay/_Gameplay-PrimeiraGameplay.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "_Gameplay-PrimeiraGameplay"
-            }
-          },
-          {
-            "id": "041b3e8884976b79",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "ArtRef/IMGs/AnimaçãoReff02.png"
-              },
-              "icon": "lucide-image",
-              "title": "AnimaçãoReff02"
-            }
-          },
-          {
-            "id": "776aaf88d5dbe385",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Canvas/_CreativeBoard.canvas",
-                "viewState": {
-                  "x": 4280,
-                  "y": -2800,
-                  "zoom": -3.566078788174796
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "_CreativeBoard"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,14 +162,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "041b3e8884976b79",
+  "active": "cc0140683996340d",
   "lastOpenFiles": [
+    "Canvas/_CreativeBoard.canvas",
+    "GDD/Gameplay/_Gameplay-PrimeiraGameplay.md",
+    "ArtRef/IMGs/AnimaçãoReff02.png",
     "ArtRef/IMGs/AnimaçãoReff01.png",
     "GDD/Gameplay/Controles.md",
     "GDD/Gameplay/Exploração.md",
     "GDD/Gameplay/Banco.md",
-    "Canvas/_CreativeBoard.canvas",
-    "GDD/Gameplay/_Gameplay-PrimeiraGameplay.md",
     "Canvas/_Fluxos.canvas",
     "GDD/Raças/Terráqueos.md",
     "GDD/Raças/Kaltherianos.md",
@@ -235,8 +202,6 @@
     "ArtRef/IMGs_ReffsJogos/Midnight Fight Express.png",
     "ArtRef/IMGs_ReffsJogos/Castle Crashers.png",
     "ArtRef/IMGs/Pasted image 20240919121130.png",
-    "ArtRef/IMGs/Pasted image 20240919120816.png",
-    "ArtRef/IMGs/AnimaçãoReff02.png",
     "Excalidraw",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot3",
     "GDD/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot2",
