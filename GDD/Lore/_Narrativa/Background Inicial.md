@@ -89,5 +89,31 @@ Severian Vox estava sentado no Trono de Interferência, seu olhar fixo nas ondas
 O Núcleo mostrava-lhe vislumbres da antiga civilização: um império de conhecimento e poder, arruinado por uma força invisível e implacável. Agora, essa mesma ameaça estava voltando.
 
 — Eles virão — a mensagem era clara, mas carregada de ambiguidade. Vox não sabia ainda se o Núcleo era aliado ou agente dessa catástrofe iminente, mas uma certeza o dominava: a Terra não seria poupada.
-Enquanto isso, nas profundezas das escavações, algo começava a se mover. Os trabalhadores, inicialmente céticos, começaram a relatar visões e aparições estranhas — alguns trabalhadores começaram simplesmente a sumir.
+Enquanto isso, nas profundezas das escavações, algo começava a se mover. Os trabalhadores, inicialmente céticos, começaram a relatar visões e aparições estranhas — alguns trabalhadores começaram simplesmente a sumir. 
+
+Criaturas indescritíveis emergiam dos escombros, suas formas mutáveis e grotescas, quase líquidas, capazes de se fundir com os corpos de seus alvos. Aqueles que eram tocados não sobreviviam — ou melhor, sobreviviam transformados. Seus corpos se retorciam, mesclando carne, metal e raízes luminescentes.
+
+A infecção se espalhou rápido. Animais selvagens começaram a apresentar sinais de mutação; plantas tornaram-se hostis, suas raízes como garras e seus galhos, serpentes. A natureza, corrompida, voltou-se contra a humanidade.
+
+Ameaça viva, mutante, que se multiplicava em ondas vorazes.
+
+Severian via a única saída: impor a ***Ordem Absoluta.***
+
+Ele precisava controlar a pandemia de caos e imprevisibilidade antes que ela destruísse tudo — inclusive a si mesmo.
+
+Mas dentro do sussurro do Núcleo, um segredo ainda não revelado pulsava: a verdadeira aliança entre o que viria e quem guiava a resistência...
+
+# **A Quarentena Global**
+
+**Resumo:** Severian impõe uma nova ordem geopolítica baseada em zonas seguras e total vigilância.
+
+- Vox declara esses híbridos como “heresias vivas” e inicia uma cruzada para erradicá-los.
+- Cidades inteiras são evacuadas e isoladas.  
+- Chips de rastreamento neural são implantados em todos os cidadãos para monitorar possíveis mutações.
+- A humanidade entra em uma era de paranoia total, onde qualquer alteração comportamental pode ser suspeita de contaminação.
+- Grande parte do território habito por seres humanos já foi dominado pelos invasores e quanto mais seres humanos são infectados, maior o exército da ameaça aumenta.
+
+# Terra Atual
+
+- Prédios se fundiram em colunas de carne e osso, exalando vapor e emitindo sons semelhantes a cantos graves, é como se as próprias estruturas tivesse ganho uma vida, uma conexão.
 
