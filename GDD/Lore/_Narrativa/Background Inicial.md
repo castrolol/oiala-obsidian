@@ -113,6 +113,11 @@ Mas dentro do sussurro do Núcleo, um segredo ainda não revelado pulsava: a ver
 - A humanidade entra em uma era de paranoia total, onde qualquer alteração comportamental pode ser suspeita de contaminação.
 - Grande parte do território habito por seres humanos já foi dominado pelos invasores e quanto mais seres humanos são infectados, maior o exército da ameaça aumenta.
 
+# Ano 2486 - Ano da Invasão
+
+A humanidade sobrevivia em poucas fortalezas pertencentes a Aurex, que durante mais de 120 anos guardou e protegeu centenas de milhões de seres humanos. 
+
+
 # Terra Atual
 
 - Prédios se fundiram em colunas de carne e osso, exalando vapor e emitindo sons semelhantes a cantos graves, é como se as próprias estruturas tivesse ganho uma vida, uma conexão.
