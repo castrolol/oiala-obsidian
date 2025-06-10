@@ -3,9 +3,9 @@
 [[Severian Vox]]
 
 -----
-# Início
+# Planeta Terra - Ano 2356 - 130 anos antes da  Primeira Invasão
 
-## Planeta Terra - Ano 2356 - 130 anos antes da  Primeira Invasão
+## Início
 
 Durante escavações profundas no subsolo da Terra, uma equipe arqueológica encontra **ruínas de uma civilização antiga**, os primeiros registros mostram que essas construções datam de uma data muito anterior a qualquer civilização ou indício de humanidade existente.
 
@@ -81,5 +81,7 @@ A Aurex Dominus rapidamente eliminou dissidentes e opositores, rotulados como he
 > "Per" (por meio de) indica o meio ou instrumento.
 > 
 > "Ordo" (ordem) representa controle, hierarquia, estabilidade — valores essenciais de regimes conservadores e expansionistas.
+
+# Sussurros do Passado
 
 
