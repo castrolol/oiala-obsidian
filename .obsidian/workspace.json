@@ -192,6 +192,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:Criar um novo quadro": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
