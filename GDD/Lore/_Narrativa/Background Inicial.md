@@ -67,7 +67,6 @@ No centro da nova estrutura estava o **Trono de Interferência**, onde apenas Vo
 
 A Aurex Dominus rapidamente eliminou dissidentes e opositores, rotulados como hereges tecnológicos, e estabeleceu um sistema de controle social e cultural tão rígido quanto implacável. Vox, o “Vox do Núcleo”, tornou-se não apenas um líder político, mas uma figura messiânica, o arauto da nova era, aquela em que a humanidade seria finalmente salva — pela ordem imposta e pela fusão transcendental com o poder primordial do Núcleo.
 
-
 > [!AUREX DOMINUS -- Per Arx, Ordo]
 > AUREX	De “Aurum” (ouro) + “Arx” — algo rico, intocável
 > DOMINUS	"Senhor absoluto" — direto, autoritário
