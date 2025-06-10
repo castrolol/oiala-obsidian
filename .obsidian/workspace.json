@@ -87,7 +87,8 @@
               "title": "Severian Vox"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,11 +240,11 @@
   },
   "active": "fef2b96d07a2cbd2",
   "lastOpenFiles": [
-    "GDD/Lore/_Narrativa/_Regras Gerais Narrativa.md",
+    "GDD/Lore/Personagens/Severian Vox.md",
     "GDD/Lore/_Narrativa/_Regras Infecção.md",
+    "GDD/Lore/_Narrativa/_Regras Gerais Narrativa.md",
     "GDD/Lore/_Narrativa/Background Inicial.md",
     "GDD/Lore/Raças/Terráqueos.md",
-    "GDD/Lore/Personagens/Severian Vox.md",
     "Sem título.md",
     "GDD/Lore/Personagens/Codex de Ordo.md",
     "GDD/___Dúvidas.Início/__Briefing.md",
