@@ -35,21 +35,25 @@
 	- Nome da AUREX: 
 		- Arbitri Profundi (Juízes do Profundo)
 
-- ## **Lamentadores** (_Cantores do Vazio_)
+- ## Lamentadores (_Cantores do Vazio_)
 	- Aparência: 
 		- Corpos magros com bocas múltiplas espalhadas pelo corpo, sempre murmurando.    
 	- Função: 
 		- Produzem ruídos que desestabilizam emocionalmente os humanos.    
 	- Habilidade: 
 		- Provocam alucinações e desorientação em campo de batalha.
+	- Nome da AUREX: 
+		- Cantores do Vazio (_Vox in Nihilum_)
 
-- ## **Simulacros** (_Imitatio Mortis_)
+- ## Simulacros (_Imitatio Mortis_)
 	- Aparência: 
 		- Mantêm a aparência humana quase intacta, mas com olhos opacos e movimentos mecânicos.    
 	- Função: 
 		- Infiltradores. Agem normalmente até que recebam sinal neural para atacar.    
 	- Capacidade: 
 		- Espalham infecção com toque prolongado ou fluido neural.
+	- Nome da AUREX: 
+		- Imitatio Mortis (_Simulacros da Morte_)
 
 # Mutações em Animais
 
@@ -71,6 +75,26 @@
 		- Quando mortos, espalham nuvens infecciosas.
 	- Nome da AUREX: 
 		- Custodes Cavi (Guardas da Fenda)
+
+- ## Ossoferros (_Spinae Ferreae_)
+- Aparência: 
+	- Animais com exoesqueleto metálico gerado por mineralização neural.    
+- Função: 
+	- Blindados de assalto.    
+- Capacidade: 
+	- Altamente resistentes a munição comum.    
+- Nome da AUREX: 
+	- Spinae Ferreae (_Espinhas de Ferro_)
+
+- ## Vociflux (_Vox Ferox_)
+- Aparência: 
+	- Criaturas bestiais com caixas torácicas ressoantes e crânios vibratórios.    
+- Função: 
+	- Emissão de ondas sônicas para destruir estruturas ou desestabilizar tropas.    
+- Capacidade: 
+	- Também comunicam-se com estruturas maiores.
+- Nome da AUREX: 
+		- Vox Ferox (_Voz Feroz_)
 	
 # Mutações em Plantas
 
@@ -99,6 +123,26 @@
 	- Habilidade: Emitem esporos inteligentes que se fundem com hospedeiros a distância.
 	- Nome da AUREX: 
 		- Speculatores Vox (Espiões da Voz)
+
+- ## Flor-Sanguínea (_Sanguiflorae_)
+	- Aparência: 
+		- Parecem flores belíssimas, mas possuem espinhos que injetam larvas neuro-orgânicas.    
+	- Função: 
+		- Colonizar áreas verdes e criar pequenos "jardins sentientes".    
+	- Capacidade: 
+		- Após a picada, o infectado é controlado lentamente.
+	- Nome da AUREX: 
+		- Sanguiflorae (_Flor-Sanguínea_)
+    
+- ## Trepadeiras Coroídeas (_Nervilignum Ascendens_)
+	- Aparência: 
+		- Vinhas com terminações nervosas visíveis, parecendo veias ou artérias.    
+	- Função: 
+		- Escalam estruturas e se fundem a tecnologias rudimentares.    
+	- Capacidade: 
+		- Formam “portais” para propagação da infecção em novos territórios.
+	- Nome da AUREX: 
+		- Nervilignum Ascendens (_Trepadeiras Coroídeas_)
 
 # Possibilidades de Combinação
 
