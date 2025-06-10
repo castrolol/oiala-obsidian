@@ -5,11 +5,40 @@
 
 # Padrões de Comportamento da Infecção
 
-- Rede radicular subterrânea: Raízes ou fibras invadem a terra e emergem em locais distantes.    
-- Bioarquitetura viva: Criam estruturas com corpos mortos, fungos e plantas alteradas.
-- Transformação de fauna/flora local: Toda biosfera é adaptada à lógica da Colmeia.
-- Ritualismo ecológico: Padrões simétricos, como mandalas ou círculos de vegetação, emergem ao redor dos centros mutantes — como se fossem "templos naturais".
-- Corrompimento atmosférico: Esporos em suspensão tornam zonas inabitáveis.
+- ## Territorial
+	- Rede radicular subterrânea: Raízes ou fibras invadem a terra e emergem em locais distantes.    
+	- Bioarquitetura viva: Criam estruturas com corpos mortos, fungos e plantas alteradas.
+	- Transformação de fauna/flora local: Toda biosfera é adaptada à lógica da Colmeia.
+	- Ritualismo ecológico: Padrões simétricos, como mandalas ou círculos de vegetação, emergem ao redor dos centros mutantes — como se fossem "templos naturais".
+	- Corrompimento atmosférico: Esporos em suspensão tornam zonas inabitáveis.
+
+- ## Comportamental
+	- Agressividade programada: Atacam imediatamente qualquer organismo não infectado.    
+	- Papel funcional: Uns caçam, outros espalham esporos, outros vigiam ou defendem zonas.    
+	- Imobilidade estratégica: Alguns se fundem ao ambiente e esperam emboscadas.    
+	- Comunicação mutante: Sons, luzes ou feromônios para coordenar grupos.    
+	- Auto-sacrifício: Explodem ou se desintegram para liberar novos esporos.
+
+- ## Alterações Morfológicas
+	- Exposição neural: Nervos se tornam externos, ramificando-se como raízes ou tentáculos.    
+	- Assimetria orgânica: Crescimentos desequilibrados, como múltiplos olhos ou membros.    
+	- Fusão interespécies: Traços de outros seres (animais, plantas ou outros infectados) surgem no corpo.    
+	- Mineralização parcial: Tecidos com aparência de ossos, metais ou cristais energéticos.  
+	- Transparência tissular: Partes do corpo revelam órgãos internos, como se fossem vitrificados.
+
+- ## Alterações Cognitivas
+	- Hiperconsciência coletiva: Perda de identidade e fusão a uma mente colmeia.
+	- Eco de comandos: Vozes internas que guiam ações, como preces ou ordens.   
+	- Degeneração da vontade: Desaparecimento da empatia, raciocínio lógico enfraquecido.    
+	- Conversão religiosa: O hospedeiro passa a venerar o Núcleo como divindade (muito comum em raças inteligentes).    
+	- Simulação de normalidade: Alguns conseguem imitar comportamento normal, como os _Simulacros_.
+
+- ## Vetor de Infecção
+	- - Esporos neuroativos: Inaláveis ou absorvidos pela pele. Primeira alteração é cognitiva.    
+	- Contato sináptico: Tentáculos ou fibras se conectam a nervos ou medula espinhal.  
+	- Infusão viral líquida: Por mordida, secreções ou fluidos parasitas.    
+	- Campo psíquico: Alteração remota via pulsos mentais do Núcleo ou de líderes mutantes.    
+	- Fusão orgânica: Matéria mutante “cola” ao hospedeiro e o absorve parcial ou totalmente.
 
 # Mutações em Humanos
 
