@@ -190,15 +190,6 @@
       "y": -760
     },
     {
-      "height": 60,
-      "id": "3ced230fdddd78d2",
-      "text": "Armas",
-      "type": "text",
-      "width": 250,
-      "x": -1404,
-      "y": -70
-    },
-    {
       "height": 50,
       "id": "07b900f4cfc9c999",
       "text": "Classes",
@@ -217,6 +208,35 @@
       "y": -225
     },
     {
+      "color": "2",
+      "height": 60,
+      "id": "760dec0c6cf82c44",
+      "text": "- Árvore de Talentos 2",
+      "type": "text",
+      "width": 240,
+      "x": -317,
+      "y": -390
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "a53b2eefb1088958",
+      "text": "- Árvore de Talentos 1",
+      "type": "text",
+      "width": 240,
+      "x": -317,
+      "y": -600
+    },
+    {
+      "height": 60,
+      "id": "3ced230fdddd78d2",
+      "text": "Armas",
+      "type": "text",
+      "width": 250,
+      "x": -1404,
+      "y": -70
+    },
+    {
       "color": "3",
       "height": 60,
       "id": "5f7a2169311974ee",
@@ -227,15 +247,6 @@
       "y": -115
     },
     {
-      "height": 270,
-      "id": "e582792a1d7dbc9f",
-      "text": "- Regras de Talentos\n--------------------------------\n- Quantidade total de pontos para ser distribuída entre todas as Árvores\n- ",
-      "type": "text",
-      "width": 380,
-      "x": 360,
-      "y": -660
-    },
-    {
       "height": 140,
       "id": "5b4537a632f88228",
       "text": "- Estilo da Gameplay\n- Combos Próprios da Arma\n- Habilidades Única da Arma\n- Habilidade (Hotkey)",
@@ -243,16 +254,6 @@
       "width": 330,
       "x": -1068,
       "y": -110
-    },
-    {
-      "color": "1",
-      "height": 60,
-      "id": "a08d309abc7ed675",
-      "text": "- Talentos Geram Bônus Passivos 1",
-      "type": "text",
-      "width": 323,
-      "x": -37,
-      "y": -660
     },
     {
       "height": 60,
@@ -302,26 +303,6 @@
       "y": -235
     },
     {
-      "color": "1",
-      "height": 60,
-      "id": "05b18434bc449d01",
-      "text": "- Skills Combos 1",
-      "type": "text",
-      "width": 323,
-      "x": -37,
-      "y": -540
-    },
-    {
-      "color": "2",
-      "height": 60,
-      "id": "8331ad944def2bb8",
-      "text": "- Talentos Geram Bônus Passivos 2",
-      "type": "text",
-      "width": 323,
-      "x": -37,
-      "y": -450
-    },
-    {
       "color": "3",
       "height": 60,
       "id": "349724008a2855b1",
@@ -332,16 +313,6 @@
       "y": -175
     },
     {
-      "color": "2",
-      "height": 60,
-      "id": "760dec0c6cf82c44",
-      "text": "- Árvore de Talentos 2",
-      "type": "text",
-      "width": 240,
-      "x": -317,
-      "y": -390
-    },
-    {
       "color": "1",
       "height": 60,
       "id": "8824a5875bebbaf4",
@@ -349,16 +320,6 @@
       "type": "text",
       "width": 148,
       "x": -500,
-      "y": -600
-    },
-    {
-      "color": "1",
-      "height": 60,
-      "id": "a53b2eefb1088958",
-      "text": "- Árvore de Talentos 1",
-      "type": "text",
-      "width": 240,
-      "x": -317,
       "y": -600
     },
     {
@@ -380,6 +341,45 @@
       "width": 148,
       "x": -500,
       "y": -175
+    },
+    {
+      "height": 270,
+      "id": "e582792a1d7dbc9f",
+      "text": "- Regras de Talentos\n--------------------------------\n- Quantidade total de pontos para ser distribuída entre todas as Árvores\n- ",
+      "type": "text",
+      "width": 380,
+      "x": 360,
+      "y": -660
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "a08d309abc7ed675",
+      "text": "- Talentos Geram Bônus Passivos 1",
+      "type": "text",
+      "width": 323,
+      "x": -37,
+      "y": -660
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "05b18434bc449d01",
+      "text": "- Skills Combos 1",
+      "type": "text",
+      "width": 323,
+      "x": -37,
+      "y": -540
+    },
+    {
+      "color": "2",
+      "height": 60,
+      "id": "8331ad944def2bb8",
+      "text": "- Talentos Geram Bônus Passivos 2",
+      "type": "text",
+      "width": 323,
+      "x": -37,
+      "y": -450
     }
   ]
 }

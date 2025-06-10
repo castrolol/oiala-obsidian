@@ -1,4 +1,8 @@
 
+[[Banco]] [[Controles]] [[Forja]] [[Missões]] [[Fórmulas e Cálculos]]
+
+-----
+
 # Core
 
 - A ideia principal do jogo é [[Exploração]], acumular [[Recursos]], [[Progressão]] dos seus personagens.
