@@ -59,5 +59,4 @@ Os Kaltherianos são introspectivos e pacíficos por natureza, mas sua experiên
 5. **Arte Cósmica:** Estética que mistura nebulosas e paisagens estelares, evocando um visual alienígena e celestial ao mesmo tempo.
 6. **Axolotes**
 - Conhecidos por suas feições "amigáveis" e cores suaves, podem servir de base para traços mais dóceis e adaptáveis nos Kaltherianos.
-- 
 

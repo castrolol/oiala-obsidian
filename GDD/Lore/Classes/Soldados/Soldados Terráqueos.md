@@ -3,9 +3,7 @@
 -----
 ### **Classe: Soldado Terráqueo**
 
-
 > [!Dominus Mundi]
-
 #### **Descrição Geral**
 
 Os Soldados Terráqueos são a personificação do poder militar da Terra, forjados na supremacia tecnológica e na ideologia expansionista. Criados em um sistema onde a guerra é um pilar da civilização, esses soldados são treinados para subjugar inimigos com eficiência impiedosa, protegendo os interesses do vasto império terrestre. Eles atuam como ferramentas da arrogância terráquea, exercendo domínio com uma mistura de brutalidade e disciplina.
@@ -13,7 +11,6 @@ Os Soldados Terráqueos são a personificação do poder militar da Terra, forja
 Sua reputação de crueldade é amplamente conhecida, mas mesmo em meio à prepotência, os Soldados Terráqueos exibem uma impressionante coesão estratégica e habilidade no campo de batalha. Apesar das guerras internas e da rivalidade entre facções terrestres, esses guerreiros continuam sendo a primeira linha de defesa contra ameaças externas, usando sua experiência para manter o império em pé.
 
 ---
-
 ### **Conceituação Soldados Terráqueos**
 
 **Geral**  
