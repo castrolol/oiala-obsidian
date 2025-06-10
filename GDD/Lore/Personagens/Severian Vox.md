@@ -23,8 +23,8 @@
 - *“A história é escrita pelos que vencem... ou pelos que a reprogramam.”*
 - *“Alguns foram feitos para comandar. Outros, para obedecer. É assim que o mundo sobrevive.”*
 - *“O Núcleo não fala. Ele sussurra. E poucos sabem escutar.”*
-- “O erro da ARX foi tratar o futuro como ciência. Ele é doutrina.”
-- “O livre arbítrio não será combatido. Será corrigido.”
+- *“O erro da ARX foi tratar o futuro como ciência. Ele é doutrina.”*
+- *“O livre arbítrio não será combatido. Será corrigido.”*
 
 # **Oposição Filosófica  
 

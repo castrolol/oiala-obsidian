@@ -51,7 +51,24 @@ O núcleo é uma entidade energética que **possui consciência própria** — n
 > - Fragmentos de informação alteram a cultura de seu usuário.
 > 	- Crenças, arte e linguagem da antiga civilização começam a misturar-se com as tradições terráqueas. Arquitetura e simbologia ganham traços alienígenas, mudando silenciosamente a identidade cultural.
 
+## **Nascimento da AUREX DOMINUS**
+
 [[Severian Vox]] 
+
+Vox dissolve a ARX alegando que ela era uma estrutura impura e não digna do contato divino. Ao mesclar sua mente 
+
+A nova corporação nasce como culto-governo, misturando dogma religioso com estrutura paramilitar. **“Per Arx, Ordo”** passa a significar: *A ordem divina só vem por meio da fortaleza, e a fortaleza é o Núcleo.*
+
+Vox percebe que para seguir seu plano, a ARX precisa ser desmantelada e reconstruída sob outra lógica.
+Membros da ARX ficam divididos: alguns o consideram instável, outros passam a vê-lo como um novo profeta.  Vox passa a influenciar decisões da cúpula sem nunca assumir um cargo oficial — seu poder vem de percepção, não de autoridade.
+
+Começa a dividir os membros da ARX entre os “**puros**” e os “**corrompidos**”. Os puros seguem o novo paradigma; os corrompidos ainda acreditam em livre arbítrio.
+Usa dados do Núcleo para prever comportamentos e expor traições antes mesmo que aconteçam, tornando-se aparentemente onisciente.
+
+Organiza um “Concílio de Alinhamento” para reestruturar a ARX — mas ele **expulsa a cúpula executiva** ao vivo, transmitindo um discurso onde declara:
+
+***"A ARX falhou. Não por ignorância. Mas por hesitação.”***
+
 
 > [!AUREX DOMINUS -- Per Arx, Ordo]
 > AUREX	De “Aurum” (ouro) + “Arx” — algo rico, intocável
