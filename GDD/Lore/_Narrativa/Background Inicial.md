@@ -1,5 +1,6 @@
 #Art #Narrativa 
 
+[[Severian Vox]]
 
 -----
 # Início
@@ -30,20 +31,27 @@ Durante as escavações, a ARX encontra um **Núcleo De Energia Viva** que desaf
 
 O núcleo é uma entidade energética que **possui consciência própria** — não necessariamente uma “mente” no sentido humano, mas um tipo de vontade primordial. Ele interage com quem se aproxima, às vezes oferecendo visões, influenciando mentes fracas ou tentando comunicar-se através de símbolos ou sensações.
 
-- O núcleo oferece fragmentos de memórias da civilização perdida.
-	- Os fragmentos não são diretos. Eles surgem como sonhos, delírios, símbolos arcaicos ou sensações que exigem interpretação. 
-	- O Núcleo “injeta” na mente do usuário habilidades e dados sobre a civilização antiga que ali existiu, mas de forma caótica: Noções de linguagem, conceitos de arte e ciência que o usuário não entende totalmente, como se estivesse aprendendo de forma acelerada.
-	- O usuário revive sensações emocionais intensas que pertencem a seres antigos. Uma visão de perda, êxtase ou desespero pode mudar completamente o comportamento da pessoa — como se estivesse sentindo uma memória.
-- Aos poucos a ARX vai compreendendo que o Núcleo precisa de simbiose com um ser vivo para atingir pleno potencial.
-	- A simbiose só acontece quando o Núcleo é ligado ao sistema nervoso de um hospedeiro, muitas vezes levando a mutações físicas e mentais.
-	- ARX começa a executar testes clandestinos em diversos indivíduos, não é o corpo, mas a “abertura” emocional e espiritual que permite a simbiose. Crianças, loucos ou religiosos são mais suscetíveis, criando uma nova casta dentro da ARX.
-	- A simbiose depende de uma cerimônia que espelha os ritos da civilização antiga, reconstruídos a partir das visões. A ARX recria esses rituais com base nos fragmentos, mas com interpretações distorcidas.
-- O acesso pode modificar o usuário — torná-lo mais avançado ou insano.
-	- As cobaias começam a ver o mundo como ele era na era da civilização antiga — sobrepondo duas realidades. Isso causa alucinações ou “despertar”, dependendo do grau de exposição.
-	- Alguns indivíduos desenvolvem capacidades além do humano: pensamento acelerado, empatia amplificada, manipulação energética. Outros perdem o senso de si mesmos e agem como se fossem outra entidade. O final é sempre o mesmo para todos aqueles que ficam muito tempo em contato com o Núcleo, morte.
-	- 
-- A Aurex Dominus tenta “domesticar” o Núcleo.
-- Fragmentos de informação alteram a cultura de seu usuário.
+> [!Interações com o Núcleo]
+> - O núcleo oferece fragmentos de memórias da civilização perdida.
+> 	- Os fragmentos não são diretos. Eles surgem como sonhos, delírios, símbolos arcaicos ou sensações que exigem interpretação. 
+> 	- O Núcleo “injeta” na mente do usuário habilidades e dados sobre a civilização antiga que ali existiu, mas de forma caótica: Noções de linguagem, conceitos de arte e ciência que o usuário não entende totalmente, como se estivesse aprendendo de forma acelerada.
+> 	- O usuário revive sensações emocionais intensas que pertencem a seres antigos. Uma visão de perda, êxtase ou desespero pode mudar completamente o comportamento da pessoa — como se estivesse sentindo uma memória.
+> - Aos poucos a ARX vai compreendendo que o Núcleo precisa de simbiose com um ser vivo para atingir pleno potencial.
+> 	- A simbiose só acontece quando o Núcleo é ligado ao sistema nervoso de um hospedeiro, muitas vezes levando a mutações físicas e mentais.
+> 	- ARX começa a executar testes clandestinos em diversos indivíduos, não é o corpo, mas a “abertura” emocional e espiritual que permite a simbiose. Crianças, loucos ou religiosos são mais suscetíveis, criando uma nova casta dentro da ARX.
+> 	- A simbiose depende de uma cerimônia que espelha os ritos da civilização antiga, reconstruídos a partir das visões. A ARX recria esses rituais com base nos fragmentos, mas com interpretações distorcidas.
+> - O acesso pode modificar o usuário — torná-lo mais avançado ou insano.
+> 	- As cobaias começam a ver o mundo como ele era na era da civilização antiga — sobrepondo duas realidades. Isso causa alucinações ou “despertar”, dependendo do grau de exposição.
+> 	- Alguns indivíduos desenvolvem capacidades além do humano: pensamento acelerado, empatia amplificada, manipulação energética. Outros perdem o senso de si mesmos e agem como se fossem outra entidade. O final é sempre o mesmo para todos aqueles que ficam muito tempo em contato com o Núcleo, morte.
+> 	- ARX resolve realizar testes em grupos e comportamentos erráticos começam a acontecer, usuários parecer  formar cultos em torno do Núcleo, acreditando que ele é um deus ou o verdadeiro criador da humanidade. Essa fé cega torna-os perigosos e imprevisíveis.
+> - ARX tenta “domesticar” o Núcleo.
+> 	- A corporação constrói um santuário tecnológico (Arx Sanctum) com contenção energética, manipulação de clima e sensores psíquicos. Mas nada impede totalmente o Núcleo de influenciar as mentes próximas.
+> 	- Engenheiros tentam criar uma versão artificial do Núcleo, mas só conseguem cópias instáveis. Algumas explodem, outras corrompem os sistemas ao redor como se tivessem vontade própria.
+> 	- ARX cria avatares cibernéticos com quem o Núcleo pode interagir. Eles são usados como filtros para evitar influência direta, mas acabam se tornando entidades híbridas com agendas próprias.
+> - Fragmentos de informação alteram a cultura de seu usuário.
+> 	- Crenças, arte e linguagem da antiga civilização começam a misturar-se com as tradições terráqueas. Arquitetura e simbologia ganham traços alienígenas, mudando silenciosamente a identidade cultural.
+
+[[Severian Vox]] 
 
 > [!AUREX DOMINUS -- Per Arx, Ordo]
 > AUREX	De “Aurum” (ouro) + “Arx” — algo rico, intocável
