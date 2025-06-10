@@ -1,6 +1,6 @@
 #Art #Narrativa #Regras 
 
-[[Relatos]] [[_Sistemas]] [[Background Inicial]] 
+[[Relatos]] [[_Sistemas]] [[Background Inicial]] [[_Regras Infecção]] 
 
 -----
  
