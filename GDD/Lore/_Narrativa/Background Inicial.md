@@ -115,8 +115,24 @@ Mas dentro do sussurro do Núcleo, um segredo ainda não revelado pulsava: a ver
 
 # Ano 2486 - Ano da Invasão
 
-A humanidade sobrevivia em poucas fortalezas pertencentes a Aurex, que durante mais de 120 anos guardou e protegeu centenas de milhões de seres humanos. 
+Durante mais de 120 anos a humanidade foi guardada e protegida por Fortalezas construídas pela Aurex,  centenas de milhões de pessoas catalogadas e microchipadas ao redor do mundo. 
+Não havia indícios de civilizações existentes fora das fortalezas da Aurex, apesar de que Soldados da Aurex em missões de patrulha com o intuito de aumentar as áreas seguras da Fortaleza indicavam que haviam sim pessoas vivendo fora das fortalezas.
 
+## PRIMEIRA HORA: Tremores sem Fim
+
+Às 03:06, tremores sísmicos foram registrados em todos os continentes. O chão não rachou — ele **inspirou**. A pressão atmosférica caiu, como se a Terra sugasse ar.
+Às 11:11, relógios pararam. Sons antigos — idiomas já não falados, ecos de civilizações humanas passadas, dialetos esquecidos — começaram a ecoar em transmissões de rádio e sinais de tráfego. Órgãos de carne surgiram nas bases das construções de fortalezas ao redor do mundo, surgindo diretamente do chão e aos lentamente tentando dominar tudo que tocasse.
+Não importa o quanto tentassem nada parava o crescimento desses órgãos que foram surgindo de dentro da Fortaleza.
+As cidades não foram atacadas. Elas começaram a mudar de dentro para fora, como se algo mais apropriado estivesse substituindo tudo.
+
+## SEGUNDA HORA: Fendas de Inversão
+
+Do interior das escavações surgiram estruturas reversas: cidades escavadas ao contrário, onde o topo era o subterrâneo, e cada sala era um útero para novas aberrações.
+Espécies extintas há milênios começaram a brotar do solo como sementes liberadas por um deslizamento de tempo.
+Monólitos enterrados em escavações antigas se abriram, dessas estruturas emergiram criaturas sem forma estável, que se adaptavam ao olhar de cada observador.
+Das fendas surgiram formas que desafiavam taxonomia. Nem naves, nem criaturas, mas massas sensíveis — montanhas de carne fluida, de onde emergiam Vultos Nerviformes, entidades compostas por milhares de olhos, bocas e tentáculos com sinapses expostas.
+
+## 
 
 # Terra Atual
 
