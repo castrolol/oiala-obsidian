@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDD/Lore/_Narrativa/_Regras Infecção.md",
+                "file": "GDD/Lore/_Narrativa/Background Inicial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Regras Infecção"
+              "title": "Background Inicial"
             }
           }
         ],
@@ -240,9 +240,14 @@
   },
   "active": "fef2b96d07a2cbd2",
   "lastOpenFiles": [
+    "Canvas/_Fluxos.canvas",
     "GDD/Lore/_Narrativa/Background Inicial.md",
-    "GDD/Lore/Personagens/Severian Vox.md",
+    "GDD/Lore/Ambientes/Planetas/Terra.md",
+    "GDD/Lore/Ambientes/Planetas",
+    "GDD/Lore/Ambientes/Planetas.md",
+    "GDD/Lore/Ambientes/_Sistemas.md",
     "GDD/Lore/_Narrativa/_Regras Infecção.md",
+    "GDD/Lore/Personagens/Severian Vox.md",
     "Untitled.md",
     "GDD/Lore/_Narrativa/_Regras Gerais Narrativa.md",
     "GDD/Lore/Personagens/Codex de Ordo.md",
@@ -259,11 +264,8 @@
     "GDD/Lore/Classes/Soldados/Soldados Geral.md",
     "Kanban/Arte/Cards/Arte - Cenário Direções.md",
     "GDD/Lore/Raças/Kaltherianos.md",
-    "GDD/Lore/Ambientes/Planetas.md",
-    "GDD/Lore/Ambientes/_Sistemas.md",
     "GDD/Sistemas de Raças.md",
     "GDD/Lore/_Narrativa",
-    "Canvas/_Fluxos.canvas",
     "GDD/Regras Tecnologia",
     "GDD/Lore",
     "ArtRef/IMGs/TowerBorne.png",
@@ -271,8 +273,6 @@
     "Canvas/_Regras.canvas",
     "GDD/Regras Tecnologia/Gameplay/_Gameplay-PrimeiraGameplay.md",
     "GDD/Regras Tecnologia/Gameplay/Banco.md",
-    "GDD/Regras Tecnologia/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot1/Disparada.md",
-    "GDD/Regras Tecnologia/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot1/Inspiração Máxima.md",
     "Untitled.canvas",
     "GDD/Lore/Ambientes",
     "ArtRef/IMGs/Pasted image 20240919124146.png",
@@ -290,7 +290,6 @@
     "Canvas/_Art.canvas",
     "Canvas/_CreativeBoard.canvas",
     "GDD/Gameplay/Untitled/Untitled",
-    "GDD/Gameplay/Untitled",
     "_Fluxos.canvas",
     "_CreativeBoard.canvas",
     "_BoardOiala.canvas"
