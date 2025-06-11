@@ -157,7 +157,38 @@ Fortalezas foram destruídas com o intuito de impedir a ameaça a qualquer custo
 A Evacuação foi autorizada. Fortalezas sagradas como Nova Augusta e Templus Gaia foram abandonadas.  
 As torres de embarque tornaram-se catacumbas de espera, onde apenas os selecionados entraram nos portões da arca.
 
+### NAVE ABSOLUTUM
+
+A NAVE ABSOLUTUM rasgou os céus passando em Nova Augusta, Templus Gaia. 
+Uma fortaleza migratória projetada para hospedar os últimos humanos puros, foi ativada e lançada através de um buraco negro estabilizado.
+
 NAVIS EXODIA – uma arca estelar, oculta nas entranhas do planeta Marte, jamais revelada ao público. Ela comportava **dezenas de milhões** de humanos — escolhidos, condicionados, doutrinados.
+### NUMEN ITERUM
+
+A silhueta colossal da NUMEN ITERUM rompeu as nuvens sobre as cidadelas-fortaleza de CAESAREA SECUNDUS.
+NUMEN ITERUM já havia passado por TEMPUS VERITATIS e carregava dezenas de milhões de sobreviventes.
+Milhões aguardavam nos terraços, pontes e torres da cidade. Famílias inteiras foram selecionadas por sorteio genético. 
+Cada nome chamado era seguido por um cântico.
+Os primeiros embarques começaram — um mil por minuto. Crianças eram levadas primeiro.
+A NUMEN ITERUM pairou acima da cidade como uma cruz suspensa. Uma rampa de luz líquida desceu até os portões da cidadela. 
+Os soldados da Legio Aurea mantinham as criaturas afastadas enquanto refugiados subiam, muitos deles já infectados sem saber.
+Foi aqui que surgiu o primeiro sinal do desastre.
+Dentro da nave, os próprios corredores começaram a pulsar. A arquitetura se moldava sutilmente à presença das pessoas. Alguns diziam que a NUMEN estava viva — e com medo.
+Mesmo assim, ela recolheu mais 12 milhões de civis antes de ascender pela Coluna Celeste, tentando alcançar o espaço profundo.
+Os sensores da nave registraram presença neural ativa dentro das câmaras de oxigênio, onde nenhum ser humano jamais entrara.
+Foi nesse momento que a AUREX, percebendo o risco de contaminação estelar, ativou o protocolo de Interdição Final.
+
+A ordem foi dada por Severian Vox.
+
+> [!NOTE]
+> “Iterum non est purum.”
+> (O Retorno não é puro.)
+> “Ad Gloriam, fiat incineratio.”
+> (Para a Glória, que haja incineração.)
+
+NUMEN ITERUM era a última nave que levava os últimos sobreviventes.
+A destruição da Numen Iterum foi considerada o fim da fuga humana, os estilhaços caíram como fragmentos de um deus traído, espalhando cinzas sobre os desertos, as águas negras e os últimos redutos humanos.
+
 
 A população comum acreditava tratar-se de uma evacuação.  
 Mas as palavras da transmissão global feita por Severian naquela noite revelaram outra coisa:
