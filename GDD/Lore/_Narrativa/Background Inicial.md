@@ -157,13 +157,16 @@ Fortalezas foram destruídas com o intuito de impedir a ameaça a qualquer custo
 A Evacuação foi autorizada. Fortalezas sagradas como Nova Augusta e Templus Gaia foram abandonadas.  
 As torres de embarque tornaram-se catacumbas de espera, onde apenas os selecionados entraram nos portões da arca.
 
-### NAVE ABSOLUTUM
+### NAVIS ABSOLUTUM
 
-A NAVE ABSOLUTUM rasgou os céus passando em Nova Augusta, Templus Gaia. 
+A NAVIS ABSOLUTUM rasgou os céus passando em Nova Augusta, Templus Gaia. 
 Uma fortaleza migratória projetada para hospedar os últimos humanos puros, foi ativada e lançada através de um buraco negro estabilizado.
 
+### NAVIS EXODIA
+
 NAVIS EXODIA – uma arca estelar, oculta nas entranhas do planeta Marte, jamais revelada ao público. Ela comportava **dezenas de milhões** de humanos — escolhidos, condicionados, doutrinados.
-### NUMEN ITERUM
+
+### NAVIS NUMEN ITERUM
 
 A silhueta colossal da NUMEN ITERUM rompeu as nuvens sobre as cidadelas-fortaleza de CAESAREA SECUNDUS.
 NUMEN ITERUM já havia passado por TEMPUS VERITATIS e carregava dezenas de milhões de sobreviventes.
@@ -180,23 +183,23 @@ Foi nesse momento que a AUREX, percebendo o risco de contaminação estelar, ati
 
 A ordem foi dada por Severian Vox.
 
-> [!NOTE]
+> [!EXORDIUM AETERNA]
 > “Iterum non est purum.”
 > (O Retorno não é puro.)
 > “Ad Gloriam, fiat incineratio.”
 > (Para a Glória, que haja incineração.)
 
 NUMEN ITERUM era a última nave que levava os últimos sobreviventes.
-A destruição da Numen Iterum foi considerada o fim da fuga humana, os estilhaços caíram como fragmentos de um deus traído, espalhando cinzas sobre os desertos, as águas negras e os últimos redutos humanos.
-
+A destruição da NUMEN ITERUM foi considerada o fim da fuga humana, os estilhaços caíram como fragmentos de um deus traído, espalhando cinzas sobre os desertos, as águas negras e os últimos redutos humanos.
 
 A população comum acreditava tratar-se de uma evacuação.  
 Mas as palavras da transmissão global feita por Severian naquela noite revelaram outra coisa:
 
 > _“Vocês não fugiram. Vocês foram levados. E o que deixamos para trás… não é mais Terra.”_
 
-
-
+- A humanidade não escapou completamente: cidadelas-fortalezas inteiras foram deixadas para trás, incluindo dissidentes e povos inteiros.
+- A destruição da NAVIS NUMEN ITERUM mexeu com o ânimo e a fé da população humana.
+- O Núcleo permanece **instalado na nova sede da AUREX** — a NAVIS EXODIA, agora chamada “DOMINUS ITER”, e considerada sagrada.
 
 # Terra Atual
 
@@ -205,7 +208,7 @@ Mas as palavras da transmissão global feita por Severian naquela noite revelara
 - Organismos sentientes surgem do nada, formados pela simbiose de máquinas abandonadas e corpos fundidos.
 - Alguns prédios, de estruturas menos densa e frágeis ruíram, mas em seu lugar ergueram-se estruturas feitas de um material bioluminescente.
 - Cada “rua” é agora um canal de transporte de matéria orgânica e informação neural, pelas ruas um material viscoso e bioluminescente escoa sem parar.
-- Grandes torres chamadas **“Tronos de Germinação”** liberam esporos que alteram o ecossistema ao redor, aumentando a infecção e propagando novas criaturas.
+- Grandes torres chamadas “Tronos de Germinação” liberam esporos que alteram o ecossistema ao redor, aumentando a infecção e propagando novas criaturas.
 - Animais alterados espreitam como sombras — cruzamentos de felinos, insetos e homens.
 - Raízes bioluminescente invadem prédios, extraindo os “nutrientes” que sobraram dos cadáveres e metais.
 - A chuva parece ácido, mas nutre as plantas que cobrem tudo com um verde doentio.
