@@ -132,7 +132,40 @@ Espécies extintas há milênios começaram a brotar do solo como sementes liber
 Monólitos enterrados em escavações antigas se abriram, dessas estruturas emergiram criaturas sem forma estável, que se adaptavam ao olhar de cada observador.
 Das fendas surgiram formas que desafiavam taxonomia. Nem naves, nem criaturas, mas massas sensíveis — montanhas de carne fluida, de onde emergiam Vultos Nerviformes, entidades compostas por milhares de olhos, bocas e tentáculos com sinapses expostas.
 
-## 
+## TERCEIRA HORA: A Cruzada Cega
+
+AUREX organizou sua última Cruzada Planetária, a Ordo Caelestis, com toda sua força.
+- Exércitos de drones blindados.
+- Clérigos do Fulgor com armaduras litúrgicas.    
+- E os temidos Jugulatores, soldados psico-condicionados à obediência absoluta.
+As tropas da AUREX enfrentaram inimigos que imitavam suas táticas, sua linguagem, suas emoções.
+
+## SEXTA HORA: O Cerco do Centro
+
+A AUREX tentou formar um cinturão de contenção ao redor do **Coração Inverso** — uma formação viva sob a antiga cidade de Neo Byzantium.  
+O plano era purificar o local com uma implosão de antimatéria.
+Mas os inimigos haviam assimilado os protocolos nucleares antes do ataque. Quando a ogiva foi ativada, ela **floresceu** em vez de explodir — gerando milhares de novas criaturas.
+
+## OITAVA HORA: Contra-Sacrifício
+
+Severian Vox, guiado pelo Núcleo — fingindo-se de oráculo benevolente — ativou o Protocolo Dominus-0, construído em segredo desde sua fusão com o Núcleo.
+Iniciou o Rito de Purgação Térmica, queimando cidades inteiras na tentativa de impedir o nascimento de algo que ainda não compreendia.
+Fortalezas foram destruídas com o intuito de impedir a ameaça a qualquer custo. 
+
+## DÉCIMA SEGUNDA HORA: A Partida
+
+A Evacuação foi autorizada. Fortalezas sagradas como Nova Augusta e Templus Gaia foram abandonadas.  
+As torres de embarque tornaram-se catacumbas de espera, onde apenas os selecionados entraram nos portões da arca.
+
+NAVIS EXODIA – uma arca estelar, oculta nas entranhas do planeta Marte, jamais revelada ao público. Ela comportava **dezenas de milhões** de humanos — escolhidos, condicionados, doutrinados.
+
+A população comum acreditava tratar-se de uma evacuação.  
+Mas as palavras da transmissão global feita por Severian naquela noite revelaram outra coisa:
+
+> _“Vocês não fugiram. Vocês foram levados. E o que deixamos para trás… não é mais Terra.”_
+
+
+
 
 # Terra Atual
 
