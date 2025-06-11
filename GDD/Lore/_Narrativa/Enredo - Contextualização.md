@@ -210,6 +210,10 @@ DOMINUS ITER era uma **arca militarizada**, destinada à exploração hostil e c
 Por cinco anos, ambas vagaram sem comunicação.  
 Foi apenas ao atravessarem uma fenda gravitacional no sistema Iacturae 7-B que suas rotas convergiram — não por cálculo, mas por convergência de algo maior os chamando.
 
+## Comunidade Galáctica
+
+
+
 # Terra Atual
 
 - Prédios se fundiram em colunas de carne e osso, exalando vapor e emitindo sons semelhantes a cantos graves, é como se as próprias estruturas tivesse ganho uma vida, uma conexão.
