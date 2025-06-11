@@ -202,6 +202,15 @@ Mas as palavras da transmissão global feita por Severian naquela noite revelara
 - A destruição da NAVIS NUMEN ITERUM mexeu com o ânimo e a fé da população humana.
 - O Núcleo permanece **instalado na nova sede da AUREX** — a NAVIS EXODIA, agora chamada “DOMINUS ITER”, e considerada sagrada.
 
+# Novus Inceptus
+
+NAVIS ABSOLUTUM foi projetada como um **arquivo genético e religioso**, uma catedral-cripta com milhões de genomas, bancos de dados históricos e sacerdotes em animação suspensa.  
+
+DOMINUS ITER era uma **arca militarizada**, destinada à exploração hostil e contenção de ameaças no espaço profundo. Sua tripulação vivia em regime marcial.
+
+Por cinco anos, ambas vagaram sem comunicação.  
+Foi apenas ao atravessarem uma fenda gravitacional no sistema Iacturae 7-B que suas rotas convergiram — não por cálculo, mas por convergência de algo maior os chamando.
+
 # Terra Atual
 
 - Prédios se fundiram em colunas de carne e osso, exalando vapor e emitindo sons semelhantes a cantos graves, é como se as próprias estruturas tivesse ganho uma vida, uma conexão.
