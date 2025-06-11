@@ -27,6 +27,7 @@ Com apoio de bancos interplanetários, corporações bélicas e elites, a ARX se
 
 A ARX cria sua própria força de defesa (“Sentinelas ARX”) e lança campanhas de mídia que vendem a imagem de "protetores da humanidade contra a ameaça alienígena", enquanto escondem o real interesse: poder absoluto e domínio sobre tecnologias que desafiam o tempo, o espaço e a vida.
 
+
 Durante as escavações, a ARX encontra um **Núcleo De Energia Viva** que desafia as leis conhecidas da física. 
 
 O núcleo é uma entidade energética que **possui consciência própria** — não necessariamente uma “mente” no sentido humano, mas um tipo de vontade primordial. Ele interage com quem se aproxima, às vezes oferecendo visões, influenciando mentes fracas ou tentando comunicar-se através de símbolos ou sensações.

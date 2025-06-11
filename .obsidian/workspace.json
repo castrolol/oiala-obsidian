@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDD/Lore/_Narrativa/_Regras Infecção.md",
+                "file": "GDD/Lore/_Narrativa/Background Inicial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Regras Infecção"
+              "title": "Background Inicial"
             }
           }
         ]
@@ -169,6 +169,7 @@
   },
   "active": "d1e54c0cb24a2d06",
   "lastOpenFiles": [
+    "GDD/Lore/_Narrativa/_Regras Infecção.md",
     "GDD/Lore/_Narrativa/_Regras Gerais Narrativa.md",
     "GDD/Lore/Personagens/Severian Vox.md",
     "GDD/Lore/Raças/Kaltherianos.md",
@@ -176,7 +177,6 @@
     "Excalidraw/FirstTest.md",
     "Sem título 1.md",
     "Sem título.md",
-    "GDD/Lore/_Narrativa/_Regras Infecção.md",
     "GDD/Regras Tecnologia/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot3/Spells Soldados Slot3.md",
     "GDD/Regras Tecnologia/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot3/Punhais Gêmeos.md",
     "GDD/Regras Tecnologia/Spells&Talents/Soldado/Spells Soldados/Spells Soldados Slot3/Lança-Chamas.md",
