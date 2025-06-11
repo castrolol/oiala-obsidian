@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDD/Lore/_Narrativa/Background Inicial.md",
+                "file": "GDD/Lore/_Narrativa/_Regras Infecção.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Background Inicial"
+              "title": "_Regras Infecção"
             }
           }
         ],
@@ -240,11 +240,11 @@
   },
   "active": "fef2b96d07a2cbd2",
   "lastOpenFiles": [
+    "GDD/Lore/_Narrativa/_Regras Gerais Narrativa.md",
+    "GDD/Lore/_Narrativa/_Regras Infecção.md",
+    "GDD/Lore/_Narrativa/Background Inicial.md",
     "GDD/Lore/Personagens/Severian Vox.md",
     "GDD/Lore/Personagens/Codex de Ordo.md",
-    "GDD/Lore/_Narrativa/Background Inicial.md",
-    "GDD/Lore/_Narrativa/_Regras Infecção.md",
-    "GDD/Lore/_Narrativa/_Regras Gerais Narrativa.md",
     "Sem título 1.md",
     "GDD/Lore/Raças/Terráqueos.md",
     "Sem título.md",
