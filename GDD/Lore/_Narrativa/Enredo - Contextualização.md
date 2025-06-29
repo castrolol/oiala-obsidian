@@ -27,6 +27,7 @@ Com apoio de bancos interplanetários, corporações bélicas e elites, a ARX se
 
 A ARX cria sua própria força de defesa (“Sentinelas ARX”) e lança campanhas de mídia que vendem a imagem de "protetores da humanidade contra a ameaça alienígena", enquanto escondem o real interesse: poder absoluto e domínio sobre tecnologias que desafiam o tempo, o espaço e a vida.
 
+
 Durante as escavações, a ARX encontra um **Núcleo De Energia Viva** que desafia as leis conhecidas da física. 
 
 O núcleo é uma entidade energética que **possui consciência própria** — não necessariamente uma “mente” no sentido humano, mas um tipo de vontade primordial. Ele interage com quem se aproxima, às vezes oferecendo visões, influenciando mentes fracas ou tentando comunicar-se através de símbolos ou sensações.
@@ -113,6 +114,107 @@ Mas dentro do sussurro do Núcleo, um segredo ainda não revelado pulsava: a ver
 - A humanidade entra em uma era de paranoia total, onde qualquer alteração comportamental pode ser suspeita de contaminação.
 - Grande parte do território habito por seres humanos já foi dominado pelos invasores e quanto mais seres humanos são infectados, maior o exército da ameaça aumenta.
 
+# Ano 2486 - Ano da Invasão
+
+Durante mais de 120 anos a humanidade foi guardada e protegida por Fortalezas construídas pela Aurex,  centenas de milhões de pessoas catalogadas e microchipadas ao redor do mundo. 
+Não havia indícios de civilizações existentes fora das fortalezas da Aurex, apesar de que Soldados da Aurex em missões de patrulha com o intuito de aumentar as áreas seguras da Fortaleza indicavam que haviam sim pessoas vivendo fora das fortalezas.
+
+## PRIMEIRA HORA: Tremores sem Fim
+
+Às 03:06, tremores sísmicos foram registrados em todos os continentes. O chão não rachou — ele **inspirou**. A pressão atmosférica caiu, como se a Terra sugasse ar.
+Às 11:11, relógios pararam. Sons antigos — idiomas já não falados, ecos de civilizações humanas passadas, dialetos esquecidos — começaram a ecoar em transmissões de rádio e sinais de tráfego. Órgãos de carne surgiram nas bases das construções de fortalezas ao redor do mundo, surgindo diretamente do chão e aos lentamente tentando dominar tudo que tocasse.
+Não importa o quanto tentassem nada parava o crescimento desses órgãos que foram surgindo de dentro da Fortaleza.
+As cidades não foram atacadas. Elas começaram a mudar de dentro para fora, como se algo mais apropriado estivesse substituindo tudo.
+
+## SEGUNDA HORA: Fendas de Inversão
+
+Do interior das escavações surgiram estruturas reversas: cidades escavadas ao contrário, onde o topo era o subterrâneo, e cada sala era um útero para novas aberrações.
+Espécies extintas há milênios começaram a brotar do solo como sementes liberadas por um deslizamento de tempo.
+Monólitos enterrados em escavações antigas se abriram, dessas estruturas emergiram criaturas sem forma estável, que se adaptavam ao olhar de cada observador.
+Das fendas surgiram formas que desafiavam taxonomia. Nem naves, nem criaturas, mas massas sensíveis — montanhas de carne fluida, de onde emergiam Vultos Nerviformes, entidades compostas por milhares de olhos, bocas e tentáculos com sinapses expostas.
+
+## TERCEIRA HORA: A Cruzada Cega
+
+AUREX organizou sua última Cruzada Planetária, a Ordo Caelestis, com toda sua força.
+- Exércitos de drones blindados.
+- Clérigos do Fulgor com armaduras litúrgicas.    
+- E os temidos Jugulatores, soldados psico-condicionados à obediência absoluta.
+As tropas da AUREX enfrentaram inimigos que imitavam suas táticas, sua linguagem, suas emoções.
+
+## SEXTA HORA: O Cerco do Centro
+
+A AUREX tentou formar um cinturão de contenção ao redor do **Coração Inverso** — uma formação viva sob a antiga cidade de Neo Byzantium.  
+O plano era purificar o local com uma implosão de antimatéria.
+Mas os inimigos haviam assimilado os protocolos nucleares antes do ataque. Quando a ogiva foi ativada, ela **floresceu** em vez de explodir — gerando milhares de novas criaturas.
+
+## OITAVA HORA: Contra-Sacrifício
+
+Severian Vox, guiado pelo Núcleo — fingindo-se de oráculo benevolente — ativou o Protocolo Dominus-0, construído em segredo desde sua fusão com o Núcleo.
+Iniciou o Rito de Purgação Térmica, queimando cidades inteiras na tentativa de impedir o nascimento de algo que ainda não compreendia.
+Fortalezas foram destruídas com o intuito de impedir a ameaça a qualquer custo. 
+
+## DÉCIMA SEGUNDA HORA: A Partida
+
+A Evacuação foi autorizada. Fortalezas sagradas como Nova Augusta e Templus Gaia foram abandonadas.  
+As torres de embarque tornaram-se catacumbas de espera, onde apenas os selecionados entraram nos portões da arca.
+
+### NAVIS ABSOLUTUM
+
+A NAVIS ABSOLUTUM rasgou os céus passando em Nova Augusta, Templus Gaia. 
+Uma fortaleza migratória projetada para hospedar os últimos humanos puros, foi ativada e lançada através de um buraco negro estabilizado.
+
+### NAVIS EXODIA
+
+NAVIS EXODIA – uma arca estelar, oculta nas entranhas do planeta Marte, jamais revelada ao público. Ela comportava **dezenas de milhões** de humanos — escolhidos, condicionados, doutrinados.
+
+### NAVIS NUMEN ITERUM
+
+A silhueta colossal da NUMEN ITERUM rompeu as nuvens sobre as cidadelas-fortaleza de CAESAREA SECUNDUS.
+NUMEN ITERUM já havia passado por TEMPUS VERITATIS e carregava dezenas de milhões de sobreviventes.
+Milhões aguardavam nos terraços, pontes e torres da cidade. Famílias inteiras foram selecionadas por sorteio genético. 
+Cada nome chamado era seguido por um cântico.
+Os primeiros embarques começaram — um mil por minuto. Crianças eram levadas primeiro.
+A NUMEN ITERUM pairou acima da cidade como uma cruz suspensa. Uma rampa de luz líquida desceu até os portões da cidadela. 
+Os soldados da Legio Aurea mantinham as criaturas afastadas enquanto refugiados subiam, muitos deles já infectados sem saber.
+Foi aqui que surgiu o primeiro sinal do desastre.
+Dentro da nave, os próprios corredores começaram a pulsar. A arquitetura se moldava sutilmente à presença das pessoas. Alguns diziam que a NUMEN estava viva — e com medo.
+Mesmo assim, ela recolheu mais 12 milhões de civis antes de ascender pela Coluna Celeste, tentando alcançar o espaço profundo.
+Os sensores da nave registraram presença neural ativa dentro das câmaras de oxigênio, onde nenhum ser humano jamais entrara.
+Foi nesse momento que a AUREX, percebendo o risco de contaminação estelar, ativou o protocolo de Interdição Final.
+
+A ordem foi dada por Severian Vox.
+
+> [!EXORDIUM AETERNA]
+> “Iterum non est purum.”
+> (O Retorno não é puro.)
+> “Ad Gloriam, fiat incineratio.”
+> (Para a Glória, que haja incineração.)
+
+NUMEN ITERUM era a última nave que levava os últimos sobreviventes.
+A destruição da NUMEN ITERUM foi considerada o fim da fuga humana, os estilhaços caíram como fragmentos de um deus traído, espalhando cinzas sobre os desertos, as águas negras e os últimos redutos humanos.
+
+A população comum acreditava tratar-se de uma evacuação.  
+Mas as palavras da transmissão global feita por Severian naquela noite revelaram outra coisa:
+
+> _“Vocês não fugiram. Vocês foram levados. E o que deixamos para trás… não é mais Terra.”_
+
+- A humanidade não escapou completamente: cidadelas-fortalezas inteiras foram deixadas para trás, incluindo dissidentes e povos inteiros.
+- A destruição da NAVIS NUMEN ITERUM mexeu com o ânimo e a fé da população humana.
+- O Núcleo permanece **instalado na nova sede da AUREX** — a NAVIS EXODIA, agora chamada “DOMINUS ITER”, e considerada sagrada.
+
+# Novus Inceptus
+
+NAVIS ABSOLUTUM foi projetada como um **arquivo genético e religioso**, uma catedral-cripta com milhões de genomas, bancos de dados históricos e sacerdotes em animação suspensa.  
+
+DOMINUS ITER era uma **arca militarizada**, destinada à exploração hostil e contenção de ameaças no espaço profundo. Sua tripulação vivia em regime marcial.
+
+Por cinco anos, ambas vagaram sem comunicação.  
+Foi apenas ao atravessarem uma fenda gravitacional no sistema Iacturae 7-B que suas rotas convergiram — não por cálculo, mas por convergência de algo maior os chamando.
+
+## Comunidade Galáctica
+
+
+
 # Terra Atual
 
 - Prédios se fundiram em colunas de carne e osso, exalando vapor e emitindo sons semelhantes a cantos graves, é como se as próprias estruturas tivesse ganho uma vida, uma conexão.
@@ -120,7 +222,7 @@ Mas dentro do sussurro do Núcleo, um segredo ainda não revelado pulsava: a ver
 - Organismos sentientes surgem do nada, formados pela simbiose de máquinas abandonadas e corpos fundidos.
 - Alguns prédios, de estruturas menos densa e frágeis ruíram, mas em seu lugar ergueram-se estruturas feitas de um material bioluminescente.
 - Cada “rua” é agora um canal de transporte de matéria orgânica e informação neural, pelas ruas um material viscoso e bioluminescente escoa sem parar.
-- Grandes torres chamadas **“Tronos de Germinação”** liberam esporos que alteram o ecossistema ao redor, aumentando a infecção e propagando novas criaturas.
+- Grandes torres chamadas “Tronos de Germinação” liberam esporos que alteram o ecossistema ao redor, aumentando a infecção e propagando novas criaturas.
 - Animais alterados espreitam como sombras — cruzamentos de felinos, insetos e homens.
 - Raízes bioluminescente invadem prédios, extraindo os “nutrientes” que sobraram dos cadáveres e metais.
 - A chuva parece ácido, mas nutre as plantas que cobrem tudo com um verde doentio.
