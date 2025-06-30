@@ -6,7 +6,7 @@
       {
         "id": "35fc39414e1ff1ca",
         "type": "tabs",
-        "dimension": 86.96219035202087,
+        "dimension": 62.12516297262059,
         "children": [
           {
             "id": "db8a3b4a0ae81c2d",
@@ -42,8 +42,8 @@
               "state": {
                 "file": "Canvas/_Fluxos.canvas",
                 "viewState": {
-                  "x": -83.2287782904631,
-                  "y": 2108.1292116359355,
+                  "x": -28.228778290463097,
+                  "y": 1465.1292116359355,
                   "zoom": 3.3306690738754696e-16
                 }
               },
@@ -57,7 +57,7 @@
       {
         "id": "d2d4d93d98c67322",
         "type": "tabs",
-        "dimension": 13.03780964797914,
+        "dimension": 37.8748370273794,
         "children": [
           {
             "id": "2e65c1263c0a70cb",
@@ -240,9 +240,9 @@
   },
   "active": "b102aabff5eaa889",
   "lastOpenFiles": [
+    "Canvas/_Fluxos.canvas",
     "GDD/Lore/Raças/Kaltherianos.md",
     "GDD/Lore/Classes/Soldados/Soldados Terráqueos.md",
-    "Canvas/_Fluxos.canvas",
     "Untitled.md",
     "Untitled 1.md",
     "Canvas/_CreativeBoard.canvas",
