@@ -6,7 +6,7 @@
       {
         "id": "35fc39414e1ff1ca",
         "type": "tabs",
-        "dimension": 44.91525423728814,
+        "dimension": 86.96219035202087,
         "children": [
           {
             "id": "db8a3b4a0ae81c2d",
@@ -24,17 +24,14 @@
             "id": "fef2b96d07a2cbd2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canvas/_Fluxos.canvas",
-                "viewState": {
-                  "x": 610,
-                  "y": 1270,
-                  "zoom": -2.0644944474704565
-                }
+                "file": "GDD/Lore/Raças/Kaltherianos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "_Fluxos"
+              "icon": "lucide-file",
+              "title": "Kaltherianos"
             }
           },
           {
@@ -45,9 +42,9 @@
               "state": {
                 "file": "Canvas/_Fluxos.canvas",
                 "viewState": {
-                  "x": 2406.225691315794,
-                  "y": 1482.2046446416218,
-                  "zoom": -4
+                  "x": -83.2287782904631,
+                  "y": 2108.1292116359355,
+                  "zoom": 3.3306690738754696e-16
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -55,12 +52,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "d2d4d93d98c67322",
         "type": "tabs",
-        "dimension": 55.08474576271186,
+        "dimension": 13.03780964797914,
         "children": [
           {
             "id": "2e65c1263c0a70cb",
@@ -241,11 +238,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "fef2b96d07a2cbd2",
+  "active": "b102aabff5eaa889",
   "lastOpenFiles": [
+    "GDD/Lore/Raças/Kaltherianos.md",
+    "GDD/Lore/Classes/Soldados/Soldados Terráqueos.md",
+    "Canvas/_Fluxos.canvas",
+    "Untitled.md",
+    "Untitled 1.md",
     "Canvas/_CreativeBoard.canvas",
     "Canvas/_Art.canvas",
-    "Canvas/_Fluxos.canvas",
     "Kanban/Arte/Cards/Arte - Cenário Direções.md",
     "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos02.png",
     "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos07.png",
@@ -257,10 +258,8 @@
     "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos03.png",
     "GDD/Lore/_Narrativa/_Regras Infecção.md",
     "Untitled 4.md",
-    "Untitled.md",
     "Untitled 3.md",
     "Untitled 2.md",
-    "Untitled 1.md",
     "GDD/Lore/_Narrativa/_Regras Gerais Narrativa.md",
     "GDD/Lore/_Narrativa/Enredo - Contextualização.md",
     "GDD/Lore/Ambientes/Planetas/Terra.md",
@@ -268,7 +267,6 @@
     "GDD/Lore/Ambientes/Planetas.md",
     "GDD/Lore/Personagens/Severian Vox.md",
     "GDD/Lore/Raças/Terráqueos.md",
-    "GDD/Lore/Raças/Kaltherianos.md",
     "GDD/Sistemas de Raças.md",
     "GDD/Lore/Personagens/Codex de Ordo.md",
     "Sem título.md",
@@ -280,7 +278,6 @@
     "GDD/___Dúvidas.Início/Análises.md",
     "Kanban/Arte/_Kanban - Arte.md",
     "GDD/Lore/Personagens",
-    "GDD/Lore/Classes/Soldados/Soldados Terráqueos.md",
     "GDD/Lore/_Narrativa",
     "GDD/Regras Tecnologia",
     "GDD/Lore",
