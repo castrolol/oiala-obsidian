@@ -6,7 +6,7 @@
       {
         "id": "35fc39414e1ff1ca",
         "type": "tabs",
-        "dimension": 62.12516297262059,
+        "dimension": 63.559322033898304,
         "children": [
           {
             "id": "db8a3b4a0ae81c2d",
@@ -38,17 +38,14 @@
             "id": "b102aabff5eaa889",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canvas/_Fluxos.canvas",
-                "viewState": {
-                  "x": -28.228778290463097,
-                  "y": 1465.1292116359355,
-                  "zoom": 3.3306690738754696e-16
-                }
+                "file": "Kanban/Arte/Cards/Arte - Cenário Direções.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "_Fluxos"
+              "icon": "lucide-file",
+              "title": "Arte - Cenário Direções"
             }
           }
         ],
@@ -57,7 +54,7 @@
       {
         "id": "d2d4d93d98c67322",
         "type": "tabs",
-        "dimension": 37.8748370273794,
+        "dimension": 36.440677966101696,
         "children": [
           {
             "id": "2e65c1263c0a70cb",
@@ -240,14 +237,16 @@
   },
   "active": "b102aabff5eaa889",
   "lastOpenFiles": [
+    "Kanban/Arte/_Kanban - Arte.md",
+    "Kanban/Arte/Cards/Arte - Cenário Direções.md",
     "Canvas/_Fluxos.canvas",
+    "Canvas/_Regras.canvas",
     "GDD/Lore/Raças/Kaltherianos.md",
     "GDD/Lore/Classes/Soldados/Soldados Terráqueos.md",
     "Untitled.md",
     "Untitled 1.md",
     "Canvas/_CreativeBoard.canvas",
     "Canvas/_Art.canvas",
-    "Kanban/Arte/Cards/Arte - Cenário Direções.md",
     "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos02.png",
     "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos07.png",
     "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos01.png",
@@ -276,13 +275,11 @@
     "GDD/___Dúvidas.Início/__Briefing.md",
     "GDD/___Dúvidas.Início/Referências BeatEmUp.md",
     "GDD/___Dúvidas.Início/Análises.md",
-    "Kanban/Arte/_Kanban - Arte.md",
     "GDD/Lore/Personagens",
     "GDD/Lore/_Narrativa",
     "GDD/Regras Tecnologia",
     "GDD/Lore",
     "ArtRef/IMGs/TowerBorne.png",
-    "Canvas/_Regras.canvas",
     "Untitled.canvas",
     "GDD/Lore/Ambientes",
     "ArtRef/IMGs/Pasted image 20240919124146.png",
