@@ -6,7 +6,7 @@
       {
         "id": "35fc39414e1ff1ca",
         "type": "tabs",
-        "dimension": 65.1238591916558,
+        "dimension": 44.91525423728814,
         "children": [
           {
             "id": "db8a3b4a0ae81c2d",
@@ -24,14 +24,17 @@
             "id": "fef2b96d07a2cbd2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "GDD/Lore/_Narrativa/_Regras Infecção.md",
-                "mode": "source",
-                "source": false
+                "file": "Canvas/_Fluxos.canvas",
+                "viewState": {
+                  "x": 610,
+                  "y": 1270,
+                  "zoom": -2.0644944474704565
+                }
               },
-              "icon": "lucide-file",
-              "title": "_Regras Infecção"
+              "icon": "lucide-layout-dashboard",
+              "title": "_Fluxos"
             }
           },
           {
@@ -42,21 +45,22 @@
               "state": {
                 "file": "Canvas/_Fluxos.canvas",
                 "viewState": {
-                  "x": -264.109850456383,
-                  "y": 1286.180335064191,
-                  "zoom": 0.07316641256197098
+                  "x": 2406.225691315794,
+                  "y": 1482.2046446416218,
+                  "zoom": -4
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "_Fluxos"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d2d4d93d98c67322",
         "type": "tabs",
-        "dimension": 34.876140808344196,
+        "dimension": 55.08474576271186,
         "children": [
           {
             "id": "2e65c1263c0a70cb",
@@ -237,9 +241,26 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "0fc12b575b45d378",
+  "active": "fef2b96d07a2cbd2",
   "lastOpenFiles": [
+    "Canvas/_CreativeBoard.canvas",
+    "Canvas/_Art.canvas",
+    "Canvas/_Fluxos.canvas",
+    "Kanban/Arte/Cards/Arte - Cenário Direções.md",
+    "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos02.png",
+    "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos07.png",
+    "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos01.png",
+    "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo11.png",
+    "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo09.png",
+    "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo06.png",
+    "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoTerráqueo/SoldadoTerráqueo02.png",
+    "ArtRef/IMGs_Raças-Classes/Classes/ClasseSoldadoKaltheriano/SoldadosKaltherianos03.png",
     "GDD/Lore/_Narrativa/_Regras Infecção.md",
+    "Untitled 4.md",
+    "Untitled.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
     "GDD/Lore/_Narrativa/_Regras Gerais Narrativa.md",
     "GDD/Lore/_Narrativa/Enredo - Contextualização.md",
     "GDD/Lore/Ambientes/Planetas/Terra.md",
@@ -250,44 +271,27 @@
     "GDD/Lore/Raças/Kaltherianos.md",
     "GDD/Sistemas de Raças.md",
     "GDD/Lore/Personagens/Codex de Ordo.md",
-    "Canvas/_Fluxos.canvas",
-    "Kanban/Arte/Cards/Arte - Cenário Direções.md",
     "Sem título.md",
     "Sem título 2.md",
     "Sem título 1.md",
     "GDD/Lore/Ambientes/Planetas",
-    "Untitled.md",
     "GDD/___Dúvidas.Início/__Briefing.md",
     "GDD/___Dúvidas.Início/Referências BeatEmUp.md",
     "GDD/___Dúvidas.Início/Análises.md",
     "Kanban/Arte/_Kanban - Arte.md",
     "GDD/Lore/Personagens",
     "GDD/Lore/Classes/Soldados/Soldados Terráqueos.md",
-    "GDD/Lore/Classes/Soldados/Soldados Kaltherianos.md",
-    "GDD/Lore/Classes/Soldados/Soldados Geral.md",
     "GDD/Lore/_Narrativa",
     "GDD/Regras Tecnologia",
     "GDD/Lore",
     "ArtRef/IMGs/TowerBorne.png",
-    "Excalidraw/FirstTest.md",
     "Canvas/_Regras.canvas",
-    "GDD/Regras Tecnologia/Gameplay/_Gameplay-PrimeiraGameplay.md",
     "Untitled.canvas",
     "GDD/Lore/Ambientes",
     "ArtRef/IMGs/Pasted image 20240919124146.png",
-    "ArtRef/IMGs/Pasted image 20240919123943.png",
-    "ArtRef/IMGs/Pasted image 20240919123831.png",
-    "ArtRef/IMGs/Pasted image 20240919123537.png",
-    "ArtRef/IMGs/Pasted image 20240919123415.png",
-    "ArtRef/IMGs/Pasted image 20240919123311.png",
-    "ArtRef/IMGs/Pasted image 20240919121130.png",
-    "ArtRef/IMGs/Pasted image 20240919120816.png",
-    "ArtRef/IMGs/AnimaçãoReff02.png",
     "Kanban/Arte/Cards",
     "Kanban/Arte",
     "Kanban",
-    "Canvas/_Art.canvas",
-    "Canvas/_CreativeBoard.canvas",
     "GDD/Gameplay/Untitled/Untitled",
     "_Fluxos.canvas",
     "_CreativeBoard.canvas",
