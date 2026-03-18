@@ -6,7 +6,6 @@
       {
         "id": "35fc39414e1ff1ca",
         "type": "tabs",
-        "dimension": 63.559322033898304,
         "children": [
           {
             "id": "db8a3b4a0ae81c2d",
@@ -17,63 +16,19 @@
               "state": {},
               "pinned": true,
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Visualização em gráfico"
             }
           },
           {
-            "id": "fef2b96d07a2cbd2",
+            "id": "88fc6156c900eca6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "GDD/Lore/Raças/Kaltherianos.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.12.4"
               },
-              "icon": "lucide-file",
-              "title": "Kaltherianos"
-            }
-          },
-          {
-            "id": "b102aabff5eaa889",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "d2d4d93d98c67322",
-        "type": "tabs",
-        "dimension": 36.440677966101696,
-        "children": [
-          {
-            "id": "2e65c1263c0a70cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GDD/Lore/Raças/Terráqueos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Terráqueos"
-            }
-          },
-          {
-            "id": "5edba8db2236c176",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.12.4"
             }
           }
         ],
@@ -100,7 +55,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -215,20 +170,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
       "remotely-save:Remotely Save": false,
       "github-sync:Sync with Remote": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b102aabff5eaa889",
+  "active": "88fc6156c900eca6",
   "lastOpenFiles": [
+    "Dinx/M1T3 Redecupagem.md",
+    "Dinx/M1T4 Decupagem.md",
+    "Dinx/M1T5 Decupagem.md",
+    "Dinx/Bem-vindo.md",
+    "Dinx",
+    "Untitled.base",
+    "Untitled Kanban.md",
+    "Untitled 1.base",
+    "Untitled 2.base",
     "Kanban/Arte/_Kanban - Arte.md",
     "Kanban/Arte/Cards/Arte - Cenário Direções.md",
     "Canvas/_Fluxos.canvas",
@@ -262,11 +227,7 @@
     "GDD/Lore/Personagens/Codex de Ordo.md",
     "Sem título.md",
     "Sem título 2.md",
-    "Sem título 1.md",
     "GDD/Lore/Ambientes/Planetas",
-    "GDD/___Dúvidas.Início/__Briefing.md",
-    "GDD/___Dúvidas.Início/Referências BeatEmUp.md",
-    "GDD/___Dúvidas.Início/Análises.md",
     "GDD/Lore/Personagens",
     "GDD/Lore/_Narrativa",
     "GDD/Regras Tecnologia",
@@ -275,10 +236,6 @@
     "Untitled.canvas",
     "GDD/Lore/Ambientes",
     "ArtRef/IMGs/Pasted image 20240919124146.png",
-    "Kanban/Arte/Cards",
-    "Kanban/Arte",
-    "Kanban",
-    "GDD/Gameplay/Untitled/Untitled",
     "_Fluxos.canvas",
     "_CreativeBoard.canvas",
     "_BoardOiala.canvas"
