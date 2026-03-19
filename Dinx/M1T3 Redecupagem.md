@@ -3,28 +3,28 @@ Loja de Brinquedos - Interior - DIA <span style="background:#d3f8b6">Já tem</sp
 Sala de Aula - Interior - DIA <span style="background:#d3f8b6">Já tem</span>
 
 ### Poses
-1. Marquinhos com cara de ansioso, talvez roendo unha (pag1)
+1. Marquinhos com cara de ansioso, talvez roendo unha (pag1)<span style="background:#d3f8b6">Já tem</span>
    "MARQUINHOS Parece que estamos quase na metade! Eu tô doido pra ver o que esse quebra-cabeça vai formar! LOLLA Doido é a palavra certa, toda vez que falamos disso, você tá quase tremendo de ansiedade. MARQUINHOS É culpa da Nix! Ela sempre deixa a gente curioso demais."
    
-2. Lolla segurando uma caixa com um bilhete caindo dela (pag1)
+2. Lolla segurando uma caixa com um bilhete caindo dela (pag1)<span style="background:#d3f8b6">Já tem</span>
    "Lolla pega uma caixa e um bilhete cai dela."
    
 3. Maria sorrindo sensata (pag2) <span style="background:#d3f8b6">Já tem</span>
    "Mas aí não teria graça."
    
-4. Lolla chocada (pag3)
+4. Lolla chocada (pag3)<span style="background:#d3f8b6">Já tem</span>
    "Marquinhos e Lolla ficam chocados."
    
-5. Marquinhos chocado (pag3)
+5. Marquinhos chocado (pag3)<span style="background:#d3f8b6">Já tem</span>
    "Marquinhos e Lolla ficam chocados."
    
 6. Maria respirando fundo (pag6) <span style="background:#d3f8b6">Já tem</span>
    "Os três respiram fundo."
    
-7. Marquinhos respirando fundo (pag6)
+7. Marquinhos respirando fundo (pag6)<span style="background:#d3f8b6">Já tem</span>
    "Os três respiram fundo."
    
-8. Lolla respirando fundo (pag6)
+8. Lolla respirando fundo (pag6)<span style="background:#d3f8b6">Já tem</span>
    "Os três respiram fundo."
    
 9. Maria estendendo um envelope colorido (pag8) <span style="background:#d3f8b6">Já tem</span>

@@ -36,7 +36,7 @@ Task Especial colocar chapéus nas poses existentes (Conversar)
 8 - Variação da pose 7, com o Júlio mostrando a calculadora (pag6) - opcional  <span style="background:#d3f8b6">Já tem</span>
 "Júlio vira a calculadora para eles."
 
-9 - Lolla segurando a sacola com as compras e um bilhete preso embaixo comemorando (pag6)
+9 - Lolla segurando a sacola com as compras e um bilhete preso embaixo comemorando (pag6)<span style="background:#d3f8b6">Já tem</span>
 "Quando Lolla pega a sacola com as compras, um novo bilhete aparece preso embaixo." <span style="background:#d3f8b6">Já tem</span>
 
 10 - Variação da pose 9, com a Lolla observando o bilhete preso embaixo da sacola (pag6)
